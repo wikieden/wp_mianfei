@@ -735,3 +735,101 @@ h2 {
 .noclear {
 	clear: none;
 }
+
+/*app icon used in table cell*/
+.app-icon-line {
+    border-left: 1px solid #D8D8D8;
+    float: right;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0 0 8px 8px;
+    padding-left: 10px;
+    width: 135px;
+}
+
+.app-icon-size {
+    text-align: left;
+    width: 96px;
+}
+.app-icon-type {
+    line-height: 0;
+    width: 31px;
+}
+#app-icon-price-old {
+    color: #999999;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+#app-icon-price-now {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+#app-icon-price-td {
+    font-family: Georgia,"Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,"Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    line-height: 18px;
+    text-align: center;
+    width: 125px;
+}
+.app-icon125 img {
+    height: 125px;
+    width: 125px;
+}
+.app-icon125-ep img {
+    height: 125px;
+    width: 125px;
+}
+.app-icon125-sp img {
+    height: 125px;
+    width: 125px;
+}
+#free-end-tag {
+    background: none repeat scroll 0 0 #D90000;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-size: 12px;
+    margin-top: 4px;
+    padding: 1px;
+}
+.app-icon125 {
+    display: block;
+    font-size: 0;
+    height: 125px;
+    margin: 0 auto 4px;
+    position: relative;
+    width: 125px;
+}
+.app-icon125 span {
+    background: url("images/mask125-trans.png") no-repeat scroll center top transparent;
+    display: block;
+    font-size: 0;
+    height: 129px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 127px;
+}
+.app-icon125-ep, .app-icon125-sp {
+    display: block;
+    font-size: 0;
+    height: 125px;
+    margin: 0 auto 8px;
+    position: relative;
+    width: 125px;
+}
+.app-icon125-ep span, .app-icon125-sp span {
+    display: block;
+    font-size: 0;
+    height: 135px;
+    left: -5px;
+    position: absolute;
+    top: -5px;
+    width: 135px;
+}
+.app-icon125-ep span {
+    background: url("images/mask125ep-trans.png") no-repeat scroll center top transparent;
+}
+.app-icon125-sp span {
+    background: url("images/mask125sp-trans.png") no-repeat scroll center top transparent;
+}

@@ -1,0 +1,278 @@
+/* This is the standard wppa_style.css file. See http://wppa.opajaap.nl/ where it is used
+/* If you want to modify the layout make a copy of this file and place it in your theme's directory
+/* The copy in your theme's directory has precedense over the original version in wp-photo-album-pls/theme
+/* This assures that your version is not overwritten after an upgrade of the plugin.
+/* 
+/* NOTE: As per version 2.1.0 most of the settings you would like to change are now configurable in the wppa admin settings screen.
+/* It is strongly reccomended that you try to achieve the appearance you like by those settings as they will be independant of future updates.
+/*
+/* You may always look into a newer version of this file to see what new classes and id's come with an upgrade
+/*
+/* This is version 4.3.1
+*/
+
+/* Navigation */
+.prev {
+}
+.next {
+}
+.speed0, .startstop, .speed1, .prev-arrow, .next-arrow, .arrow {
+	cursor: pointer;
+}
+/* Admin settings page defines background and border color */
+.wppa-nav {
+}
+/* All boxes. Admin settings page defines border thickness and border radius */
+.wppa-box {
+	margin: 8px 0 8px 0;
+	padding: 2px 6px 2px 6px;
+}
+.wppa-mini-box {
+}
+/* Boxes in a list like album covers. Admin settings page defines background and border color */
+.wppa-even {
+}
+.wppa-alt {
+}
+/* Cover and popup photo. Admin settings page defines background color */
+.wppa-img {
+}
+/* Wrapper for albums, and thumbnails when display is like albums */
+.albumlist, .thumblist {
+	clear: both;
+} 
+/* Wrapper for album etc */
+.albumlist .album, .thumblist .thumb {
+	padding: 7px;
+	float:left;
+}
+/* Album name */
+.wppa-title {
+	margin: 0;
+	padding: 0;
+	clear: none;
+}
+
+/* Description of album 
+.album .description {
+    min-height: 45px;
+	margin-bottom: 16px;
+}
+*/
+/* fonts used in wppa boxes, all settable in the settings admin screen */
+.wppa-box-text {
+}
+.wppa-nav-text {
+}
+.wppa-title {
+}
+.wppa-fulldesc {
+}
+.wppa-fulltitle {
+}
+
+/* default text attributes */
+.wppa-black, .wppa-black:hover {
+	font-weight:normal; 
+	color:black; 
+	cursor:default; 
+	text-decoration:none;
+}
+
+/* Wrapper for coverphoto background */
+.coverphoto-frame, .thumbphoto-frame {
+}
+
+/* Coverphoto */
+.coverphoto-frame .image, .thumbphoto-frame .image { 
+	position: relative;
+	border: none; 
+	margin: 0;
+	padding: 4px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+/* Wrapper for covertext */
+.covertext-frame {
+}
+
+/* Wrapper for thumbnail area */
+.thumbnail-area {
+	padding: 7px 0 7px 7px;
+	position: relative;
+}
+
+/* Wrapper for thumbnail background */
+.thumbnail-frame {
+	float: left;
+	background-color: transparent;
+	display: inline;
+	overflow: hidden;
+}
+
+/* Text under thumbnail images */
+.wppa-thumb-text {
+	font-size: 10px;
+	text-align: center;
+}
+
+/* The popup small image, here is still a problem with IE6 */
+.wppa-popup-frame {
+	position: absolute;
+}
+
+.wppa-popup {
+	position: absolute;
+	padding: 5px;
+	border-left: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #888;
+	border-bottom: 1px solid #888;
+	background-color: white; 
+	font-size: 10px;
+	line-height: 12px;
+/*	z-index: 1000; */
+}
+
+/* Full size photo */
+.imagetitle {
+    text-align: center;
+	cursor: default;
+}
+    
+.imagedesc {
+    text-align: center;
+	cursor: default;
+}
+
+/* Slideshow */
+.slide-frame {
+	position: relative;
+	width: 100%;
+}
+
+.wideentry .slide-frame {
+	padding: 0;
+}
+
+.theslide {
+	position: absolute;
+	background-color: transparent;
+}
+
+.theimg {
+	display: block;
+}
+
+.spinner {
+	width: 16px;
+	height: 16px;
+	position: relative;
+	background-color: transparent;
+}
+
+.wppa-arrow {
+}
+
+/* Photo name in breadcrumb */
+.bc-pname {
+	font-weight: normal;
+	color: inherit;
+	text-decoration: none;
+}
+
+/* Sidebar widget */
+.wppa-widget {
+}
+
+.wppa-widget-text {
+	margin: 5px;
+	text-align: center;
+}
+
+/* General purpose classes */
+.big {
+display: block;
+margin: 0 auto;
+}
+
+.clear { 
+    clear: both; 
+}
+
+/* Comment system */
+#content .wppa-comment-form, .wppa-comment-form  {
+	text-align:left; 
+	padding:0px;	
+	border: 0px none; 
+}
+#content .wppa-comment-form input, #content .wppa-comment-form textarea, .wppa-comment-form input, .wppa-comment-form textarea  {
+	padding:0; 
+	margin:0; 
+	font-size:12px; 
+	line-height:18px; /**/
+}
+#content .wppa-comment-form tr td, .wppa-comment-form tr td, #content .wppa-detail tr td, .wppa-detail tr td  {
+	padding: 0px 12px;	/* 3 12 */
+	border: 0px none; /**/
+}
+#content .wppa-comment-form table, .wppa-comment-form table, #content .wppa-detail table, .wppa-detail table {
+	border: 0px none;
+	text-align: left;
+	width: 100%; 
+}
+
+
+/* The custom box, background color and border is set in Table III, item 10 */
+.wppa-custom {
+}
+
+/* User upload photos */
+.wppa-user-file {
+	float:left;
+}
+.wppa-user-textarea {
+}
+.wppa-user-submit {
+	padding: 0;
+	height: 23px;
+	float:right;
+}
+
+/* Special requests */
+.wppa-slideshow-browse-link {
+/* display: none; */ /* to remove the slideshow / browse photos link frm the album covers */
+}
+
+.wppa-numberbar {
+    z-index: 85;
+}
+
+.wppa-numberbar a {
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.wppa-numberbar a.wppa-numbar-current{
+ /*   background-color: #000; */
+}
+
+/* The NEW indicator images */
+.wppa-thumbnew {
+}
+.wppa-albumnew {
+}
+
+.wppa-iptc-label {
+/* text-align:right; */
+}
+.wppa-iptc-value {
+}
+.wppa-exif-label {
+/* text-align:right; */
+}
+.wppa-exif-value {
+}

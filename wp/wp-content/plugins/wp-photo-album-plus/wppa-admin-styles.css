@@ -1,0 +1,196 @@
+/* admin-styles.css 
+*
+* wp-photo-album-plus
+* version 4.0.0
+*/
+#files_list
+{
+	margin: 10px 0;
+	font-size: 0.8em;
+	font-weight: bold;
+	line-height: 1em;
+	border: 1px #ccc solid;
+	padding: 5px;
+}
+
+#files_list h3
+{
+	margin: 0 0 5px 0;
+	padding: 0 0 2px 0;
+	border-bottom: 2px #e5f3ff solid;
+	font-weight: normal;
+	font-size: 1.2em;
+}
+
+.wppa-help-ul {
+	list-style-type: disc;
+	list-style-position: outside;
+	margin-left: 2em;
+}
+
+.wppa-help-ol {
+	list-style-type: decimal;
+	list-style-position: outside;
+	margin-left: 2em;
+}
+
+.wppa-help-ol li, .wppa-help-ul li {
+	line-height: 100%;
+	padding-bottom: 0px;
+}
+
+ul.wppa_nav
+{
+	margin: 15px 0 0 60px;
+	background: red;
+	padding: 0;
+	list-style: none;
+}
+
+.wppa_nav li
+{
+	margin: 0 0 0 0px;
+	padding: 0;
+	list-style: none;
+	display: inline;
+}
+
+.wppa_nav li a
+{
+	color: #333;
+	font-size: 0.8em;
+	display: block;
+	float: left;
+	padding: 0 3px;
+	margin: 0 7px 0 0;
+	border: 1px #ccc solid;
+	border-bottom: none;
+	text-decoration: none;
+}
+
+.wppa_nav li a:hover, .wppa_nav li a.active { background-color: #dfdfdf; }
+
+.table_wrapper {
+	max-height: 400px;
+	overflow: auto;
+}
+
+.photoitem, .albumtable, .table_wrapper {
+	margin: 7px 0;
+	padding: 5px;
+	border: 1px #ccc solid;
+}
+
+.phototable {
+	margin-bottom: 0px;
+	margin-top: 0.5em;
+	float: left;
+/*	width: 45%;*/
+}
+
+.phototable td {
+	font-size: 11px;
+	line-height: 20px;
+}
+
+.phototable th {
+	width: 150px;
+}
+
+.albumtable label, .phototable label { font-weight: bold; }
+
+/* .photoitem img { float: right; } */
+.photoitem .clear { clear: both; }
+.photoitem .details { float: left; }
+.photoitem .details label {float: left; }
+
+.photoitem td {
+	margin-left: 10px;
+}
+/*
+.photoitem .desc
+{
+	float: left;
+	margin-left: 10px;
+	font-weight: bold;
+}
+*/
+.photoitem .deletelink
+{
+	text-decoration: none;
+	border: none;
+	color: red;
+	font-weight: bold;
+	float: left;
+}
+
+.photoitem .copylink
+{
+	text-decoration: none;
+	border: none;
+	color: blue;
+	font-weight: bold;
+	float: left;
+}
+
+.photoselect {
+	position: relative;
+	margin: 7px;
+	padding: 5px;
+	border: 1px #ccc solid;
+	display: block;
+	float: left;
+}
+
+.photoselect input {
+	float: right;
+}
+
+tt {
+    font-weight: bold;
+    font-family: Consolas,Monaco,"Courier New",Courier,monospace;
+    background-color: #e0e0e0;
+}
+
+.wppaedit {
+	font-weight: bold;
+	color: green;
+}
+
+.wppadelete {
+	font-weight: bold;
+	color: red;
+}
+
+.alternate {
+	background-color: #f5f5f5;
+}
+
+h4 {
+	margin: 0;
+}
+
+h6 {
+	margin: 0;
+	font-size: 1em;
+}
+
+hr {
+	height: 0px;
+	border-color: #ccc;
+	color: #ccc;
+	margin: 0;
+	border-width: 1px;
+	background-color: #f7f6f1;
+}
+
+.updatedok {
+	margin: 5px 0 15px;
+	background-color: #e0ffe0;
+	border: 1px solid #55ff55; 
+	padding: 0 20px;
+}
+
+.wp-menu-image a:link {
+background-color:transparent;
+}

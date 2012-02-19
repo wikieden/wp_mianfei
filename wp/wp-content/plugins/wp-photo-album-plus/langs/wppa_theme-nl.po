@@ -1,0 +1,3208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-photo-album-plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-08 13:08+0100\n"
+"PO-Revision-Date: 2012-02-08 13:08+0100\n"
+"Last-Translator: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __a\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SearchPath-0: theme\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: theme/wppa-theme.php:80
+msgid "No albums or photos found matching your search criteria."
+msgstr "Er zijn geen albums of foto's gevonden die voldoen aan uw zoekopdracht."
+
+#: wppa-comment-widget.php:25
+msgid "Comments on Photos"
+msgstr "Reacties op foto's"
+
+#: wppa-comment-widget.php:78
+msgid "Photo not found."
+msgstr "Foto niet gevonden."
+
+#: wppa-common-functions.php:482
+#, php-format
+msgid "Rating: %s"
+msgstr "%s punten"
+
+#: wppa-common-functions.php:547
+msgid "--- none ---"
+msgstr "--- geen ---"
+
+#: wppa-common-functions.php:548
+msgid "--- separate ---"
+msgstr "--- afzonderlijk ---"
+
+#: wppa-common-functions.php:658
+msgid "1 second"
+msgstr "1 seconde"
+
+#: wppa-common-functions.php:659
+msgid "seconds"
+msgstr "seconden"
+
+#: wppa-common-functions.php:663
+msgid "1 minute"
+msgstr "1 minuut"
+
+#: wppa-common-functions.php:664
+msgid "minutes"
+msgstr "minuten"
+
+#: wppa-common-functions.php:668
+msgid "1 hour"
+msgstr "1 uur"
+
+#: wppa-common-functions.php:669
+msgid "hours"
+msgstr "uren"
+
+#: wppa-common-functions.php:673
+msgid "1 day"
+msgstr "1 dag"
+
+#: wppa-common-functions.php:674
+msgid "days"
+msgstr "dagen"
+
+#: wppa-common-functions.php:678
+msgid "1 week"
+msgstr "1 week"
+
+#: wppa-common-functions.php:679
+msgid "weeks"
+msgstr "weken"
+
+#: wppa-common-functions.php:683
+msgid "1 month"
+msgstr "1 maand"
+
+#: wppa-common-functions.php:684
+msgid "months"
+msgstr "maanden"
+
+#: wppa-common-functions.php:687
+msgid "1 year"
+msgstr "1 jaar"
+
+#: wppa-common-functions.php:688
+msgid "years"
+msgstr "jaren"
+
+#: wppa-functions.php:30
+msgid "There are"
+msgstr "Er zijn"
+
+#: wppa-functions.php:30
+msgid "photo albums. The last album added is"
+msgstr "foto albums. Het laatst toegevoegde album is"
+
+#: wppa-functions.php:34
+msgid ", a subalbum of"
+msgstr ", een sub-album van"
+
+#: wppa-functions.php:89
+msgid "Home"
+msgstr "Beginpagina"
+
+#: wppa-functions.php:135
+#: wppa-functions.php:2421
+#: wppa-non-admin.php:159
+msgid "Slideshow"
+msgstr "Diavoorstelling"
+
+#: wppa-functions.php:142
+msgid "Searchstring:"
+msgstr "Zoeken naar:"
+
+#: wppa-functions.php:145
+msgid "Top rated photos"
+msgstr "Top waarderingen"
+
+#: wppa-functions.php:148
+msgid "Recently commented photos"
+msgstr "Recente reacties op foto's"
+
+#: wppa-functions.php:1021
+msgid "<b>ERROR: Attempt to enter an invalid rating.</b>"
+msgstr "<b>FOUT: Poging een ongeldige waardering in te voeren.</b>"
+
+#: wppa-functions.php:1150
+msgid "Comment edited"
+msgstr "Reactie bewerkt"
+
+#: wppa-functions.php:1153
+msgid "Comment added"
+msgstr "Reactie toegevoegd"
+
+#: wppa-functions.php:1159
+msgid "Could not process comment"
+msgstr "Kan de reactie niet verwerken"
+
+#: wppa-functions.php:1207
+msgid "wrote:"
+msgstr "schreef:"
+
+#: wppa-functions.php:1245
+msgid "Edit!"
+msgstr "Bewerk!"
+
+#: wppa-functions.php:1249
+msgid "Send!"
+msgstr "Verstuur!"
+
+#: wppa-functions.php:1278
+msgid "Your name:"
+msgstr "Uw naam:"
+
+#: wppa-functions.php:1283
+msgid "Your email:"
+msgstr "Uw email:"
+
+#: wppa-functions.php:1288
+msgid "Your comment:"
+msgstr "Uw reactie:"
+
+#: wppa-functions.php:1297
+msgid "You must login to enter a comment"
+msgstr "U moet ingelogd zijn om een reactie te geven"
+
+#: wppa-functions.php:1304
+#, php-format
+msgid "%d  comments"
+msgstr "%d reacties"
+
+#: wppa-functions.php:1308
+msgid "Leave a comment"
+msgstr "Geef een reactie"
+
+#: wppa-functions.php:1344
+msgid "Show IPTC data"
+msgstr "Toon IPTC gegevens"
+
+#: wppa-functions.php:1347
+msgid "Hide IPTC data"
+msgstr "Verberg IPTC gegevens"
+
+#: wppa-functions.php:1375
+msgid "No IPTC data"
+msgstr "Geen IPTC gegevens"
+
+#: wppa-functions.php:1408
+msgid "Show EXIF data"
+msgstr "Toon EXIF gegevens"
+
+#: wppa-functions.php:1411
+msgid "Hide EXIF data"
+msgstr "Verberg EXIF gegevens"
+
+#: wppa-functions.php:1439
+msgid "No EXIF data"
+msgstr "Geen EXIF gegevens"
+
+#: wppa-functions.php:1782
+#: wppa-functions.php:1783
+msgid "Prev.&nbsp;page"
+msgstr "Vorige&nbsp;pagina"
+
+#: wppa-functions.php:1787
+#: wppa-functions.php:1788
+msgid "Next&nbsp;page"
+msgstr "Volgende&nbsp;pagina"
+
+#: wppa-functions.php:2084
+msgid "<b>ERROR: Illegal attempt to enter a rating.</b>"
+msgstr "<b>FOUT: Verboden poging een waardering in te voeren.</b>"
+
+#: wppa-functions.php:2097
+msgid "<b>ERROR: Illegal attempt to enter a comment.</b>"
+msgstr "<b>FOUT: Verboden poging een reactie in te voeren.</b>"
+
+#: wppa-functions.php:2312
+msgid "Link to"
+msgstr "Link naar"
+
+#: wppa-functions.php:2336
+#: wppa-functions.php:2432
+msgid "View the album"
+msgstr "Bekijk het album"
+
+#: wppa-functions.php:2341
+msgid "View the cover photo"
+msgstr "Bekijk de omslagfoto"
+
+#: wppa-functions.php:2342
+msgid "View the cover photos"
+msgstr "Bekijk de omslagfoto's"
+
+#: wppa-functions.php:2421
+msgid "Browse photos"
+msgstr "Foto's bladeren"
+
+#: wppa-functions.php:2433
+msgid "View"
+msgstr "Bekijk"
+
+#: wppa-functions.php:2436
+msgid "album"
+msgstr "album"
+
+#: wppa-functions.php:2439
+msgid "albums"
+msgstr "albums"
+
+#: wppa-functions.php:2443
+msgid "and"
+msgstr "en"
+
+#: wppa-functions.php:2447
+msgid "photo"
+msgstr "foto"
+
+#: wppa-functions.php:2450
+msgid "photos"
+msgstr "foto's"
+
+#: wppa-functions.php:2844
+msgid "Double click to start/stop slideshow running"
+msgstr "Dubbel klik voor start/stop diavoorstelling"
+
+#: wppa-functions.php:3760
+#: wppa-functions.php:3766
+msgid "Upload Photo"
+msgstr "Foto Uploaden"
+
+#: wppa-functions.php:3775
+msgid "Apply watermark file:"
+msgstr "Gebruik watermerk:"
+
+#: wppa-functions.php:3783
+msgid "Position:"
+msgstr "Positie:"
+
+#: wppa-functions.php:3792
+msgid "Enter/modify photo description"
+msgstr "Voer in of wijzig de beschrijving van de foto"
+
+#: wppa-functions.php:3816
+msgid "<b>ERROR: Illegal attempt to upload a file.</b>"
+msgstr "<b>FOUT: Verboden poging een bestand te uploaden.</b>"
+
+#: wppa-functions.php:3823
+msgid "Error during upload"
+msgstr "Fout bij het uploaden"
+
+#: wppa-functions.php:3828
+msgid "Uploaded file is not an image"
+msgstr "Ge-upload bestand is geen afbeelding"
+
+#: wppa-functions.php:3832
+msgid "Only gif, jpg and png image files are supported"
+msgstr "Allen gif, jpg an png afbeeldingsbestanden worden ondersteund"
+
+#: wppa-non-admin.php:95
+msgid "Image"
+msgstr "Foto"
+
+#: wppa-non-admin.php:96
+#: wppa-non-admin.php:163
+msgid "of"
+msgstr "van"
+
+#: wppa-non-admin.php:160
+#: wppa-slideshow.php:86
+msgid "Start"
+msgstr "Start"
+
+#: wppa-non-admin.php:161
+msgid "Stop"
+msgstr "Stop"
+
+#: wppa-non-admin.php:162
+msgid "Photo"
+msgstr "Foto"
+
+#: wppa-non-admin.php:164
+msgid "Previous photo"
+msgstr "Vorige foto"
+
+#: wppa-non-admin.php:165
+msgid "Next photo"
+msgstr "Volgende foto"
+
+#: wppa-non-admin.php:166
+msgid "Prev."
+msgstr "Vorige"
+
+#: wppa-non-admin.php:167
+msgid "Next"
+msgstr "Volgende"
+
+#: wppa-non-admin.php:171
+msgid "Please enter your name"
+msgstr "Voer a.u.b. uw naam in"
+
+#: wppa-non-admin.php:172
+msgid "Please enter a valid email address"
+msgstr "Voer a.u.b. een geldig email adres in"
+
+#: wppa-non-admin.php:173
+msgid "Please enter a comment"
+msgstr "Voer a.u.b een reactie in"
+
+#: wppa-slideshow-widget.php:109
+msgid "No album defined yet."
+msgstr "Er is nog geen album ingesteld."
+
+#: wppa-slideshow.php:85
+msgid "Slower"
+msgstr "Trager"
+
+#: wppa-slideshow.php:87
+msgid "Faster"
+msgstr "Sneller"
+
+#: wppa-slideshow.php:105
+msgid "To see the full size images, you need to enable javascript in your browser."
+msgstr "Om foto's op volledige grootte te zien, dient u javascript te activeren in uw browser."
+
+#: wppa-slideshow.php:190
+msgid "- - - Rating enabled - - -"
+msgstr "- - - Waarderingssysteem geactiveerd - - -"
+
+#: wppa-slideshow.php:199
+msgid "very low"
+msgstr "zeer laag"
+
+#: wppa-slideshow.php:200
+msgid "low"
+msgstr "laag"
+
+#: wppa-slideshow.php:201
+msgid "average"
+msgstr "gemiddeld"
+
+#: wppa-slideshow.php:202
+msgid "high"
+msgstr "hoog"
+
+#: wppa-slideshow.php:203
+msgid "very high"
+msgstr "zeer hoog"
+
+#: wppa-slideshow.php:210
+#: wppa-slideshow.php:214
+msgid "Average&nbsp;rating"
+msgstr "Gem.&nbsp;waardering"
+
+#: wppa-slideshow.php:222
+#: wppa-slideshow.php:226
+#: wppa-slideshow.php:230
+msgid "My&nbsp;rating"
+msgstr "Mijn&nbsp;waardering"
+
+#: wppa-slideshow.php:233
+msgid "You must login to vote"
+msgstr "U moet ingelogd zijn om te stemmen"
+
+#: wppa-slideshow.php:395
+#, php-format
+msgid "Photo %s of %s"
+msgstr "Foto %s van %s"
+
+#: wppa-slideshow.php:423
+msgid "Click to start/stop"
+msgstr "Klik om te starten/stoppen"
+
+#: wppa-slideshow.php:435
+msgid "- - - Comments box activated - - -"
+msgstr "- - - Reactiesysteem geactiveerd - - -"
+
+#: wppa-slideshow.php:456
+msgid "- - - IPTC box activated - - -"
+msgstr "- - - IPTC box geactiveerd - - -"
+
+#: wppa-slideshow.php:477
+msgid "- - - EXIF box activated - - -"
+msgstr "- - - EXIF box geactiveerd - - -"
+
+#: wppa-topten-widget.php:26
+msgid "Top Ten Photos"
+msgstr "Top Tien foto's"
+
+#: wppa-topten-widget.php:51
+msgid "View the top rated photos"
+msgstr "Bekijk de top score foto's"
+
+#~ msgid "Page is not available."
+#~ msgstr "Pagina is niet beschikbaar."
+
+#~ msgid "Photo Of The Day"
+#~ msgstr "Foto van de dag"
+
+#~ msgid "Sidebar Slideshow"
+#~ msgstr "Zijkolom Diavoorstelling"
+
+#~ msgid "Prev.&nbsp;photo"
+#~ msgstr "Vorige&nbsp;foto"
+
+#~ msgid "Next&nbsp;photo"
+#~ msgstr "Volgende&nbsp;foto"
+
+#~ msgid "hours ago"
+#~ msgstr "uur geleden"
+
+#~ msgid "days ago"
+#~ msgstr "dagen geleden"
+
+#~ msgid "weeks ago"
+#~ msgstr "weken geleden"
+
+#, fuzzy
+#~ msgid "View the cover phots"
+#~ msgstr "Bekijk de omslagfoto"
+
+#, fuzzy
+#~ msgid "Avarage&nbsp;rating"
+#~ msgstr "Gem.&nbsp;waardering"
+
+#~ msgid "s"
+#~ msgstr "'s"
+
+#~ msgid "My&nbsp;rating:"
+#~ msgstr "Mijn&nbsp;waardering:"
+
+#~ msgid "Pages:"
+#~ msgstr "Pagina's:"
+
+#~ msgid "Photo Albums"
+#~ msgstr "Foto Albums"
+
+#~ msgid "Import Photos"
+#~ msgstr "Foto's Importeren"
+
+#~ msgid "Export Photos"
+#~ msgstr "Foto's Exporteren"
+
+#~ msgid "Settings"
+#~ msgstr "Instellingen"
+
+#~ msgid "Sidebar Widget"
+#~ msgstr "Zijkolom Widget"
+
+#~ msgid "Help &amp; Info"
+#~ msgstr "Help en Info"
+
+#~ msgid "The wppa database tables are not yet at the required revision level."
+#~ msgstr ""
+#~ "De wppa database tabellen zijn nog niet op het benodigde reviesie nummer."
+
+#~ msgid "Current="
+#~ msgstr "Huidig="
+
+#~ msgid "New="
+#~ msgstr "Nieuw="
+
+#~ msgid ""
+#~ "PLEASE DE-ACTIVATE the plugin WP-PHOTO-ALBUM-PLUS and ACTIVATE AGAIN "
+#~ "before you continue!"
+#~ msgstr ""
+#~ "AUB DE-ACTIVEER de plugin WP=PHOTO-ALBUM-PLUS en ACTIVEER OPNIEUW voordat "
+#~ "u doorgaat!"
+
+#~ msgid "Failed to fix this."
+#~ msgstr "Kon dit niet herstellen."
+
+#~ msgid "I fixed this for you......"
+#~ msgstr "Dat heb ik voor u gerepareerd......"
+
+#~ msgid "IMPORTANT UPGRADE NOTICE"
+#~ msgstr "BELANGRIJKE MEDEDELING INZAKE UPDATE"
+
+#~ msgid ""
+#~ "Please CHECK your customized WPPA_STYLE.CSS file against the newly "
+#~ "supplied one. You may wish to add or modify some attributes. Be aware of "
+#~ "the fact that most settings can now be set in the admin settings page."
+#~ msgstr ""
+#~ "VERGELIJK a.u.b uw gemodificeerde WPPA_STYLE.CSS met de nieuwe versie. U "
+#~ "zou enkele attributen kunnen willen aanvullen en/of wijzigen. De meeste "
+#~ "instellingen zijn thans te doen in de Foto Albums Instellingen menu "
+#~ "pagina."
+
+#~ msgid ""
+#~ "Please REPLACE your customized WPPA_THEME.PHP file by the newly supplied "
+#~ "one, or just remove it from your theme directory. You may modify it later "
+#~ "if you wish. Your current customized version is NOT compatible with this "
+#~ "version of the plugin software."
+#~ msgstr ""
+#~ "VERVANG a.u.b. uw gewijzigde WPPA_THEME.PHP door de nieuwe versie, of "
+#~ "verwijder deze uit uw thema directory. U kunt later eventueel een "
+#~ "gemodificeerde versie herplaatse. Uw huidige aangepaste versie is NIET "
+#~ "compatibel met deze versie van de plugin software."
+
+#~ msgid "Order #"
+#~ msgstr "Volgorde nummer:"
+
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Random"
+#~ msgstr "Willekeurig"
+
+#~ msgid "Please supply a numeric value greater than or equal to"
+#~ msgstr "Geef a.u.b. een getal op groter of gelijk aan"
+
+#~ msgid "for"
+#~ msgstr "voor"
+
+#~ msgid "and less than or equal to"
+#~ msgstr "en kleiner of gelijk aan"
+
+#~ msgid "Unsupported value in _wppa_chmod_ :"
+#~ msgstr "Niet ondersteunde waarde in _wppa_chmod_ :"
+
+#~ msgid "Warning:"
+#~ msgstr "Waarschuwing:"
+
+#~ msgid ""
+#~ "The uploads directory does not exist or is not writable by the server. "
+#~ "Please make sure that <tt>wp-content/uploads/</tt> is writeable by the "
+#~ "server."
+#~ msgstr ""
+#~ "De map waar de foto's in moeten worden ge-upload bestaat niet of kan niet "
+#~ "beschreven wordeb door de server. Zorg er voor dat <tt>wp-content/uploads/"
+#~ "</tt> beschrijfbaar is door de server."
+
+#~ msgid "Photo Deleted."
+#~ msgstr "Foto Verwijderd."
+
+#~ msgid "Fullsize image did not exist."
+#~ msgstr "Fotobestand met volledige grootte was niet aanwezig."
+
+#~ msgid "Thumbnail image did not exist."
+#~ msgstr "Miniatuur fotobestand was niet aanwezig."
+
+#~ msgid "Edit Album Information"
+#~ msgstr "Album informate Bewerken"
+
+#~ msgid "Album number:"
+#~ msgstr "Album nummer:"
+
+#~ msgid "Name:"
+#~ msgstr "Naam:"
+
+#~ msgid "Type the name of the album. Do not leave this empty."
+#~ msgstr "Typ de naam van het album. Laat dit veld niet leeg."
+
+#~ msgid "Owned by:"
+#~ msgstr "Eigenaar:"
+
+#~ msgid ""
+#~ "WARNING If you change the owner, you will no longer be able to modify "
+#~ "this album and upload or import photos to it!"
+#~ msgstr ""
+#~ "WAARSCHUWING Als u de eigenaar wijzigt, kunt u dit album niet langer "
+#~ "wijzigen of er foto's naar uploaden of importeren!"
+
+#~ msgid "Sort order #:"
+#~ msgstr "Volgorde nummer:"
+
+#~ msgid ""
+#~ "Album order # has only effect if you set the album sort order method to "
+#~ "<b>Order #</b> in the Photo Albums -> Settings screen."
+#~ msgstr ""
+#~ "Album volgorde nummer heeft alleen effect als u de volgorde methode op "
+#~ "<b>Volgorde nummer</b> zet in het Foto Albums -> Instelllingen scherm."
+
+#~ msgid ""
+#~ "If you want to sort the albums by order #, enter / modify the order "
+#~ "number here."
+#~ msgstr ""
+#~ "Indien u de albums wilt rangschikken op volgorde nummer, voer dan hier "
+#~ "het nummer in."
+
+#~ msgid "Parent album:"
+#~ msgstr "Moederalbum:"
+
+#~ msgid ""
+#~ "If this is a sub album, select the album in which this album will appear."
+#~ msgstr ""
+#~ "Als dit een sub-album is, selecteer dan het album waar het in is "
+#~ "opgenomen."
+
+#~ msgid "Photo order:"
+#~ msgstr "Foto volgorde:"
+
+#~ msgid "--- default ---"
+#~ msgstr "--- standaard ---"
+
+#~ msgid "Rating"
+#~ msgstr "Waardering"
+
+#~ msgid "Specify the way the photos should be ordered in this album."
+#~ msgstr "Geef de foto sorteer methode op voor dit album."
+
+#~ msgid "The default setting can be changed in the Options page."
+#~ msgstr ""
+#~ "De standaard sorteer methode kan op de Instellingen pagina gewijzigd "
+#~ "worden."
+
+#~ msgid "Cover Photo:"
+#~ msgstr "Omslag foto:"
+
+#~ msgid "Select the photo you want to appear on the cover of this album."
+#~ msgstr "Selecteer de foto voor de omslag van het album."
+
+#~ msgid "Link to:"
+#~ msgstr "Link naar:"
+
+#~ msgid "There are no pages (yet) to link to."
+#~ msgstr "Er zijn (nog) geen pagina's om naar te linken."
+
+#~ msgid "--- the album's content ---"
+#~ msgstr "--- de inhoud van het album ---"
+
+#~ msgid "--- no link at all ---"
+#~ msgstr "--- geen link ---"
+
+#~ msgid ""
+#~ "If you want, you can link the title and the coverphoto to a WP page in "
+#~ "stead of the album's content. If so, select the page the cover photo "
+#~ "links to."
+#~ msgstr ""
+#~ "Als u wilt kunt u de titel en de omslagfoto laten verwijzen naar een WP "
+#~ "pagina in plaats van naar de inhoud van het album. Selecteer hiertoe "
+#~ "desgewenst de pagina."
+
+#~ msgid "Reset ratings:"
+#~ msgstr "Verwijder waarderingen:"
+
+#~ msgid "WARNING: If checked, this will clear all ratings in this album!"
+#~ msgstr ""
+#~ "WAARSCHUWING: Indien aangevinkt worden alle waarderingen uit dit album "
+#~ "gewist!"
+
+#~ msgid "Save Changes"
+#~ msgstr "Wijzigingen opslaan"
+
+#~ msgid "Manage Photos"
+#~ msgstr "Foto's Beheren"
+
+#~ msgid "Delete Album"
+#~ msgstr "Album verwijderen"
+
+#~ msgid "Album:"
+#~ msgstr "Album:"
+
+#~ msgid "Are you sure you want to delete this album?"
+#~ msgstr "Weet u zeker dat u dit album wilt verwijderen?"
+
+#~ msgid "Press Delete to continue, and Cancel to go back."
+#~ msgstr "Klik Verwijder om door te gaan, of Annuleren om terug te gaan."
+
+#~ msgid "What would you like to do with photos currently in the album?"
+#~ msgstr "Wat wilt u doen met foto's in dit album?"
+
+#~ msgid "Delete"
+#~ msgstr "Verwijder"
+
+#~ msgid "Move to:"
+#~ msgstr "Verplaatsen naar:"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleer"
+
+#~ msgid "Manage Albums"
+#~ msgstr "Albums Beheren"
+
+#~ msgid "Create New Album"
+#~ msgstr "Nieuw Album Aanmaken"
+
+#~ msgid "Type the name of the new album. Do not leave this empty."
+#~ msgstr "Typ de naam van het nieuwe album. Laat dit veld niet leeg."
+
+#~ msgid "Order #:"
+#~ msgstr "Volgorde nummer:"
+
+#~ msgid ""
+#~ "If you want to sort the albums by order #, enter the order number here."
+#~ msgstr ""
+#~ "Indien u de albums wilt rangschikken op volgorde nummer, voer dan hier "
+#~ "het nummer in."
+
+#~ msgid "Order photos by:"
+#~ msgstr "Volgorde foto's op:"
+
+#~ msgid ""
+#~ "If you want to sort the photos in this album different from the system "
+#~ "setting, select the order method here."
+#~ msgstr ""
+#~ "Als u de volgorde van foto's in dit album anders wilt dan de standaard "
+#~ "volgorde, kies dan hier de gewenste methode."
+
+#~ msgid "Create Album!"
+#~ msgstr "Maak Album!"
+
+#~ msgid ""
+#~ "You can change all these settings later by clicking the \"Edit\" link in "
+#~ "the table above."
+#~ msgstr ""
+#~ "U kunt al deze instellingen later veranderen door op \"Bewerk\" te "
+#~ "klikken in bovenstaande tabel."
+
+#~ msgid "Description"
+#~ msgstr "Beschrijving"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Owner"
+#~ msgstr "Eigenaar"
+
+#~ msgid "Order"
+#~ msgstr "Volgorde"
+
+#~ msgid "Parent"
+#~ msgstr "Moeder"
+
+#~ msgid "No albums yet."
+#~ msgstr "Er zijn nog geen albums."
+
+#~ msgid "No photos yet in this album."
+#~ msgstr "Nog geen foto's in dit album."
+
+#~ msgid "Order:"
+#~ msgstr "Volgorde nummer:"
+
+#~ msgid "Rating:"
+#~ msgstr "Waardering:"
+
+#~ msgid "Entries:"
+#~ msgstr "Invoeren:"
+
+#~ msgid "Mean value:"
+#~ msgstr "Gemiddelde waarde:"
+
+#~ msgid ""
+#~ "Insert code for single image in Page or Post:\\nYou may change the size "
+#~ "if you like."
+#~ msgstr ""
+#~ "Invoeg code voor enkele foto in pagina of bericht:\\nU kunt de grootte "
+#~ "(size=) desgewenst wijzigen."
+
+#~ msgid "Get insertion Code"
+#~ msgstr "Geef invoeg code"
+
+#~ msgid "Could not create album."
+#~ msgstr "Kan het album niet aanmaken."
+
+#~ msgid "Album #"
+#~ msgstr "Album nummer"
+
+#~ msgid "Added."
+#~ msgstr "Toegevoegd."
+
+#~ msgid "Album Name cannot be empty."
+#~ msgstr "Album naam mag niet leeg zijn."
+
+#~ msgid "Album could not be updated."
+#~ msgstr "Kan het album niet updaten."
+
+#~ msgid "Album information edited."
+#~ msgstr "Album informate bewerkt."
+
+#~ msgid "Back to album management."
+#~ msgstr "Trug naar Album Beheer."
+
+#~ msgid "Album Deleted."
+#~ msgstr "Album Verwijderd."
+
+#~ msgid "--- random ---"
+#~ msgstr "--- willekeurig ---"
+
+#~ msgid "No photos yet"
+#~ msgstr "Nog geen foto's."
+
+#~ msgid "Photos will be exported to: <b>%s</b>."
+#~ msgstr "Foto's worden geëxporteerd naar: <b>%s</b>."
+
+#~ msgid ""
+#~ "Export photos from album <span style=\"font-size:12px;\">(Including Album "
+#~ "information)</span>:"
+#~ msgstr ""
+#~ "Foto's exporteren uit album <span style=\"font-size:12px;\">(Inclusief "
+#~ "albuminformatie)</span>:"
+
+#~ msgid "Export"
+#~ msgstr "Exporteer"
+
+#~ msgid "Exporting...<br/>"
+#~ msgstr "Exporteren...<br/>"
+
+#~ msgid "ok, <br/>Filling"
+#~ msgstr "ok, <br/>Vullen"
+
+#~ msgid "failed<br/>"
+#~ msgstr "mislukt<br/>"
+
+#~ msgid "<br/>Processing album"
+#~ msgstr "<br/>Album verwerken"
+
+#~ msgid "done."
+#~ msgstr "klaar."
+
+#~ msgid "photos processed."
+#~ msgstr "foto's verwerkt."
+
+#~ msgid "<br/>Done export albums."
+#~ msgstr "<br/>Klaar met albums exporteren."
+
+#~ msgid "Nothing to export"
+#~ msgstr "Geen bestanden om te exporteren"
+
+#~ msgid "<br/>Closing zip."
+#~ msgstr "<br/>Afsluiten zip."
+
+#~ msgid "<br/>Deleting temp files."
+#~ msgstr "<br/>Tijdelijke bestanden verwijderen."
+
+#~ msgid "<br/>Done!"
+#~ msgstr "<br/>Klaar!"
+
+#~ msgid "Cannot write to file %s."
+#~ msgstr "Kan niet naar bestand %s schrijven."
+
+#~ msgid "Could not open album output file."
+#~ msgstr "Kan het album uitvoer bestand niet aanmaken."
+
+#~ msgid "Could not read album data."
+#~ msgstr "Kan de album gegevens niet lezen."
+
+#~ msgid "Could not open photo output file."
+#~ msgstr "Kan het foto uitvoer bestand niet aanmaken."
+
+#~ msgid "Could not read photo data."
+#~ msgstr "Kan de foto gegevens niet lezen."
+
+#~ msgid "WPPA+ General purpose widget"
+#~ msgstr "WPPA+ Widget voor algemene toepassing"
+
+#~ msgid "WPPA+ Text"
+#~ msgstr "WPPA+ Tekst"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid ""
+#~ "Enter the content just like a normal text widget. This widget will "
+#~ "interprete %%wppa%% script commands."
+#~ msgstr ""
+#~ "Voer de inhoud in als bij een gwone tekst widget. Deze widget zal %%wppa%"
+#~ "% script commando's interpreteren."
+
+#~ msgid "Don't forget %%size="
+#~ msgstr "Vergeet %%size=... niet"
+
+#~ msgid "Automatically add paragraphs"
+#~ msgstr "Voeg automatisch paragrafen toe"
+
+#~ msgid "Help and Information"
+#~ msgstr "Help en Informatie"
+
+#~ msgid "Plugin Description"
+#~ msgstr "Plugin Beschrijving"
+
+#~ msgid ""
+#~ "This plugin is designed to easily manage and display your photo albums "
+#~ "within your WordPress site."
+#~ msgstr ""
+#~ "Deze plugin is ontworpen om op een gemakkelijke wijze foto's te beheren "
+#~ "en te tonen in uw WorPress site."
+
+#~ msgid "Features:"
+#~ msgstr "Mogelijkheden:"
+
+#~ msgid ""
+#~ "You can create various albums that contain photos as well as sub albums "
+#~ "at the same time."
+#~ msgstr ""
+#~ "U kunt verschillende albums maken die tegelijkertijd zowel foto's als sub-"
+#~ "albums kunnen bevatten."
+
+#~ msgid "There is no limitation to the number of albums and photos."
+#~ msgstr "Er is geen beperking van het aantal albums en foto's."
+
+#~ msgid "There is no limitation to the nesting depth of sub-albums."
+#~ msgstr "Er is geen beperking in de nesting diepte van sub-albums."
+
+#~ msgid "You have full control over the display sizes of the photos."
+#~ msgstr ""
+#~ "U heeft volledige controle over de afbeeldingsgrootte van de foto's."
+
+#~ msgid "You can specify the way the albums are ordered."
+#~ msgstr "U kunt de sorteer methode voor albums bepalen."
+
+#~ msgid ""
+#~ "You can specify the way the photos are ordered within the albums, both on "
+#~ "a system-wide as well as an per album basis."
+#~ msgstr ""
+#~ "U kunt de methode instellen waarop de volgorde van de foto's moet worden "
+#~ "bepaald. Dit kan zowel voor het gehele systeem als op een per album basis."
+
+#~ msgid ""
+#~ "The visitor of your site can run a slideshow from the photos in an album "
+#~ "by a single mouseclick."
+#~ msgstr ""
+#~ "De bezoeker van uw site kan met een enkele muisklik een diavoorstelling "
+#~ "afdraaien van de foto's in een album."
+
+#~ msgid ""
+#~ "The visitor can see an overview of thumbnail images of the photos in "
+#~ "album."
+#~ msgstr ""
+#~ "De bezoeker kan een overzicht van miniatuur afbeeldingen van de foto's in "
+#~ "een album bekijken."
+
+#~ msgid ""
+#~ "The visitor can browse through the photos in each album you decide to "
+#~ "publish."
+#~ msgstr ""
+#~ "De bezoeker kan door de foto's bladeren van elk album dat u gepubliceerd "
+#~ "heeft."
+
+#~ msgid ""
+#~ "You can add a Sidebar Widget that displays a photo which can be changed "
+#~ "every hour, day or week."
+#~ msgstr ""
+#~ "U kunt een zijkolom widget toevoegen die desgewenst elk uur, dag of week "
+#~ "een andere foto laat zien."
+
+#~ msgid ""
+#~ "You can add a Sidebar Search Widget that enables the visitor to search "
+#~ "for albums and photos with certan words in the name or description."
+#~ msgstr ""
+#~ "U kunt een zijkolom widget toevoegen die het de bezoeker mogelijk maakt "
+#~ "albums en foto's te zoeken waarbij bepaalde woorden in de naam of de "
+#~ "beschrijving voorkomen."
+
+#~ msgid "Plugin Admin Features"
+#~ msgstr "Plugin Administratie Mogelijkheden"
+
+#~ msgid ""
+#~ "You can find the plugin admin section under Menu Photo Albums on the "
+#~ "admin screen."
+#~ msgstr ""
+#~ "U vindt de plugin administratie onder het Menu Foto Albums op het "
+#~ "administratie scherm."
+
+#~ msgid "The following submenus exist."
+#~ msgstr "De volgende submenu's zijn aanwezig."
+
+#~ msgid "Photo Albums: Create and manage Albums."
+#~ msgstr "Foto Albums: Maalk en bewerk Albums."
+
+#~ msgid "Upload photos: To upload photos to an album you created."
+#~ msgstr ""
+#~ "Foto's uploaden: Om foto's te uploaden naar de albums die u heeft "
+#~ "aangemaakt."
+
+#~ msgid ""
+#~ "Import photos: To bulk import photos that have been uploaded by an ftp "
+#~ "program."
+#~ msgstr ""
+#~ "Foto's Importeren: Grotere aantallen foto's mporteren die eerder met een "
+#~ "ftp programma zijn geupload."
+
+#~ msgid "Settings: To control the various settings to customize your needs."
+#~ msgstr "Instellingen: De opties af te stemmen op uw behoeften."
+
+#~ msgid ""
+#~ "Sidebar Widget: To specify the behaviour for an optional sidebar widget."
+#~ msgstr ""
+#~ "Zijkolom Widget: Om het gedrag van de optionele widget in te stellen."
+
+#~ msgid "Help & Info: The screen you are watching now."
+#~ msgstr "Help en Info: Het scherm waar u nu naar kijkt."
+
+#~ msgid "Installation"
+#~ msgstr "Installatie"
+
+#~ msgid "You can install the plugin via the standard WP plugins admin page."
+#~ msgstr ""
+#~ "U kunt de plugin via de standaard WP Plugin admin pagina installeren."
+
+#~ msgid "If you want to do it manually, follow the next steps:"
+#~ msgstr "Indien u het met de hand wilt doen, volg dan deze stappen:"
+
+#~ msgid "Unzip and upload the wppa plugin folder to"
+#~ msgstr "Unzip de plugin en upload de map naar"
+
+#~ msgid "Make sure that the folder"
+#~ msgstr "Zorg ervoor dat de map"
+
+#~ msgid "exists and is writable by the server (CHMOD 755)"
+#~ msgstr "bestaat en beschrijfbaar is door de server (CHMOD 755)."
+
+#~ msgid "Activate the plugin in WP Admin -> Plugins."
+#~ msgstr "Activeer de plugin in WP Admin -> Plugins."
+
+#~ msgid "Upgrading WP Photo Album Plus"
+#~ msgstr "Upgraden van WP Photo Album Plus"
+
+#~ msgid "When upgrading WP Photo Album Plus be aware of:"
+#~ msgstr ""
+#~ "Als u WP Photo Album Plus gaat upgraden, moet u op het volgende letten:"
+
+#~ msgid ""
+#~ "The revision number consists of 3 parts, Major, minor and fix revision. "
+#~ "The current version is:"
+#~ msgstr ""
+#~ "Het versienummer bestaat uit 3 delen, Major, minor en fix revisie. De "
+#~ "huidige versie is:"
+
+#~ msgid ""
+#~ "When an update implies a major or minor version change and you have "
+#~ "copied wppa_theme.php or wppa_style.css to your themes directory, you "
+#~ "will have to remove them and make new copies and/or alterations if that "
+#~ "should still be needed."
+#~ msgstr ""
+#~ "Indien een update een verandering van Major of minor revisie inhoudt en u "
+#~ "wppa_theme.php of wppa_style.css heeft gekopiëerd naar uw thema "
+#~ "directory, zult u die moeten verwijderen en nieuwe kopieën moeten maken "
+#~ "en eventueel aanpassen indien dat nog steeds noodzakelijk is."
+
+#~ msgid ""
+#~ "You will get a one-time reminder after upgrading, the first time you open "
+#~ "a wppa admin page."
+#~ msgstr ""
+#~ "U krijgt - indien van toepassing - éénmalig een herinnering na een "
+#~ "upgrade zodra u een wppa admin pagina opent."
+
+#~ msgid "How to start"
+#~ msgstr "Hoe te beginnen"
+
+#~ msgid ""
+#~ "Install WP Photo ALbum Plus as described above under \"Installation\"."
+#~ msgstr ""
+#~ "Installeer WP Photo Album Plus zoals hierboven beschreven onder "
+#~ "\"Installatie\"."
+
+#~ msgid ""
+#~ "Create at least two albums in the \"Photo Albums\" tab. Just enter the "
+#~ "name and a brief description and press \"Create Album\". Leave \"Parent\" "
+#~ "at \"--- none ---\"."
+#~ msgstr ""
+#~ "Maak minstens twee albums aan in het \"Foto Albums\" menu. Geef de naam "
+#~ "en een korte beschrijving en druk op \"Maak Album\". Laat \"Moederalbum\" "
+#~ "op \"--- geen ---\"."
+
+#~ msgid ""
+#~ "In the uploads tab, you can now upload you photots. Upload at least 2 "
+#~ "photos to each album. Make sure the photos you are uploading are of "
+#~ "reasonable size (say up to 1024x768 pixels). Do not upload the full 7MP "
+#~ "images!"
+#~ msgstr ""
+#~ "In het \"Foto's Uploaden\" menu kunnen nu foto's worden geupload. Upload "
+#~ "minstens 2 foto's in elk album. Zorg er voor dat de foto's van redelijke "
+#~ "afmetingen zijn (zeg tot 1024x768 pixels). Upload geen foto's van 7 "
+#~ "megapixels!"
+
+#~ msgid ""
+#~ "Create a new WP Page, name it something like \"Photo Gallery\" and put in "
+#~ "the content:"
+#~ msgstr ""
+#~ "Maak een nieuwe WP Pagina, noem het bijvoorbeeld \"Foto Gallerij\" en "
+#~ "voer als inhoud in:"
+
+#~ msgid "Publish the page, and view the page from your WP site."
+#~ msgstr "Publiceer de pagina, en bekijk de pagina vanuit de WP site."
+
+#~ msgid ""
+#~ "Now, go playing with the settings in the \"Settings\" panel, discover all "
+#~ "the configurable options and watch what is happening when you re-open the "
+#~ "\"Photo Gallery\" page."
+#~ msgstr ""
+#~ "Ga nu spelen met de instelleingen in het \"Instellingen\" scherm, ontdek "
+#~ "alle instelmogelijkheden en bekijk wat er gebeurt als u de \"Foto Gallerij"
+#~ "\" opnieuw opent."
+
+#~ msgid ""
+#~ "If you want a \"Photo of the week\" sidebar widget you can use an album "
+#~ "for that purpose. See all the options in the \"Sidebar Widget\" submenu."
+#~ msgstr ""
+#~ "Als u een \"Foto van de week\" zijkolom widget wilt, dan kunt u een album "
+#~ "voor dit doel reserveren. Zie alle opties in het \"Zijkolom Widget\" menu."
+
+#~ msgid "Creating a Photo Album Page or a Post with photos - Advanced"
+#~ msgstr "Een Foto Album Pagina of een Post met foto's maken - Geavanceerd"
+
+#~ msgid ""
+#~ "Create a page like you normally would in WordPress, using the \"Default "
+#~ "Template\". In my example, give it the page title of \"Photo Gallery\". "
+#~ "In the Page Content section add the following code:"
+#~ msgstr ""
+#~ "Maak een pagina zoals gebruikelijk in WordPress en gebruik hierbij de "
+#~ "\"standaard sjabloon\". In dit voorbeeld geven we het de naam \"Foto "
+#~ "Gallerij\". Zet in de pagina inhoud de volgende code:"
+
+#~ msgid ""
+#~ "This will result in a gallery of all Albums that have their parent set to "
+#~ "\"--- none ---\"."
+#~ msgstr ""
+#~ "Dit resulteert in een gallerij van albums die hun \"Moederalbum\" op "
+#~ "\"--- geen ---\" hebben staan."
+
+#~ msgid ""
+#~ "If you want to display a single album - say album number 19 - in a WP "
+#~ "page or WP post (they act exactly the same), add a second line like this:"
+#~ msgstr ""
+#~ "Als u een enkel album wilt tonen - zeg album nummer 19 - in een pagina of "
+#~ "post (die werken precies hetzelfde), voeg dan een tweede regel toe als "
+#~ "dit:"
+
+#~ msgid ""
+#~ "This will result in the display of the <b>contents</b> of album nr 19."
+#~ msgstr ""
+#~ "Dit resulteert in het afbeelden van de <b>inhoud</b> van album nummer 19."
+
+#~ msgid ""
+#~ "If you want to display the <b>cover</b> of the album, i.e. like one of "
+#~ "the albums in the \"Photo Gallery\" as used above, add (instead of \"%%"
+#~ "album=...\") a second line like this:"
+#~ msgstr ""
+#~ "Wanneer u het omslag wilt tonen van het album, dat is zoals één van de "
+#~ "albums in de \"Foto Gallerij\" zoals hierboven gebruikt, voeg dan (in "
+#~ "plaats van \"%%album=...\") een tweede regel toe zoals dit:"
+
+#~ msgid "If you want to display the <b>slideshow</b> directly, use:"
+#~ msgstr "Als u meteen de <b>diavoorstelling</b> wilt tonen, gebruik dan:"
+
+#~ msgid ""
+#~ "You can add a third line if you want the photos to be displayed at a "
+#~ "different size than normal. You can \"overrule\" the \"Full size\" "
+#~ "setting by adding the line (for e.g. 300px):"
+#~ msgstr ""
+#~ "U kunt nog een derde regel toevoegen als u de foto's met een andere "
+#~ "grootte dan normaal wilt weergeven. U kunt de \"Volledige grootte"
+#~ "\"overrulen met de volgende regel (voor bijv. 300pixels):"
+
+#~ msgid ""
+#~ "Note: all information between the %% tags including newlines will be lost."
+#~ msgstr ""
+#~ "Opmerking: alle informatie tussen de %%labels, inclusief nieuwe regels, "
+#~ "gaat verloren."
+
+#~ msgid ""
+#~ "The sequence above may be used more than once in a single page or post."
+#~ msgstr ""
+#~ "Bovenstaande reeks kan meerdere keren in een bericht of pagina voorkomen."
+
+#~ msgid ""
+#~ "The text before the first sequence, the text between 2 sequences, as well "
+#~ "as the text after the last sequence will be preserved."
+#~ msgstr ""
+#~ "De tekst vóór de eerste reeks, de tekst tussen twee reeksen, alsook de "
+#~ "tekst na de laatste reeks blijft behouden."
+
+#~ msgid ""
+#~ "You can also create a custom page template by dropping the following code "
+#~ "into a page template:"
+#~ msgstr ""
+#~ "U kunt ook zelf een speciale pagina sjabloon maken door de volgende code "
+#~ "in een pagina sjabloon op te nemen:"
+
+#~ msgid ""
+#~ "If you want to display the <b>contents</b> of a single album in the "
+#~ "template - say album number 19 - the code would be:"
+#~ msgstr ""
+#~ "Als u de <b>inhoud</b> van een enkel album in het sjabloon wilt opnemen - "
+#~ "zeg album nummer 19 - dan zou de code zijn:"
+
+#~ msgid ""
+#~ "If you want the <b>cover</b> to be displayed instead, use the following "
+#~ "code:"
+#~ msgstr ""
+#~ "Als u daarentegen de <b>omslag</b> wil tonen, gebruik dan de volgende "
+#~ "code:"
+
+#~ msgid "And to display the <b>slideshow</b> it would be:"
+#~ msgstr "En om de <b>diavoorstelling</b> te tonen wordt dat:"
+
+#~ msgid "If you want to specify a size, add another argument:"
+#~ msgstr "Als u de afmeting wilt aangeven, voeg dan nog een argument toe:"
+
+#~ msgid ""
+#~ "For more information on usable php routines see the <a href=\"http://wppa."
+#~ "opajaap.nl/\">Docs & Demos</a> website."
+#~ msgstr ""
+#~ "Voor meer informatie over bruikbare php routines zie de <a href=\"http://"
+#~ "wppa.opajaap.nl/\">Docs & Demos</a> website."
+
+#~ msgid ""
+#~ "In order to work properly, the wppa_albums() tag needs to be within the "
+#~ "<a href=\"http://codex.wordpress.org/The_Loop\" target=\"_blank"
+#~ "\">WordPress loop</a>."
+#~ msgstr ""
+#~ "Om goed te werken is het nodig dat de wppa_albums() tag zich bevindt "
+#~ "binnen de <a href=\"http://codex.wordpress.org/The_Loop\" target=\"_blank"
+#~ "\">WordPress loop</a>."
+
+#~ msgid "For more information on creating custom page templates, click"
+#~ msgstr "Voor meer informatie over het maken van pagina sjablonen, klik"
+
+#~ msgid "here"
+#~ msgstr "hier"
+
+#~ msgid "Adjusting CSS and Template Styling"
+#~ msgstr "Aanpassen van CSS en de Template"
+
+#~ msgid "WP Photo Album Plus comes with a default layout and theme."
+#~ msgstr "WP Photo Album Plus komt met een standaard layout en thema."
+
+#~ msgid ""
+#~ "To change the style and layout of the photo album, copy <tt>.../wp-"
+#~ "content/plugins/wp-photo-album-plus/theme/wppa_theme.php</tt> and <tt>.../"
+#~ "wp-content/plugins/wp-photo-album-plus/theme/wppa_style.css</tt> to your "
+#~ "active theme's folder, and edit them."
+#~ msgstr ""
+#~ "Om de stijl en de layout van het fotoalbum te wijzigen, copieert u "
+#~ "<tt>.../wp-content/plugins/wp-photo-album-plus/theme/wppa_theme.php</tt> "
+#~ "and <tt>.../wp-content/plugins/wp-photo-album-plus/theme/wppa_style.css</"
+#~ "tt> naar uw actieve thema map, waarna u ze kunt bewerken. "
+
+#~ msgid "Facts to remember"
+#~ msgstr "Zaken om te onthouden"
+
+#~ msgid ""
+#~ "If the number of photos in an album is less than or equal to the treshold "
+#~ "value, they will not display in the album. They will be used for the "
+#~ "cover only."
+#~ msgstr ""
+#~ "Als het aantal foto's in een album kleiner of gelijk is aan de "
+#~ "drempelwaarde, worden ze niet getoond in het album. Ze worden alleen als "
+#~ "omslagfoto gebruikt."
+
+#~ msgid ""
+#~ "An album that has it's parent set to \"--- separate ---\" will not be "
+#~ "displayed in the \"generic\" gallery. This enables you to have albums for "
+#~ "use solely for single posts or pages."
+#~ msgstr ""
+#~ "Een album dat als moeder \"--- afzonderlijk ---\" heeft, komt niet voor "
+#~ "in de algemene fotogallerij. Dit maakt het mogelijk om albums te "
+#~ "reserveren voor specifieke posts of pagina's."
+
+#~ msgid ""
+#~ "Specifying <tt>%%album=...</tt> causes the <b>content</b> of the album to "
+#~ "be displayed."
+#~ msgstr ""
+#~ "Als u <tt>%%album=...</tt> opgeeft, wordt de <b>inhoud</b> van het album "
+#~ "getoond."
+
+#~ msgid ""
+#~ "Specifying <tt>%%cover=...</tt> causes the <b>cover</b> of the album to "
+#~ "be displayed."
+#~ msgstr ""
+#~ "Als u <tt>%%cover=...</tt> opgeeft, wordt de <b>omslag</b> van het album "
+#~ "getoond."
+
+#~ msgid ""
+#~ "Specifying <tt>%%slide=...</tt> causes the <b>slideshow</b> of the album "
+#~ "to be displayed."
+#~ msgstr ""
+#~ "Als u <tt>%%slide=...</tt> opgeeft, wordt de <b>diavoorstelling</b> van "
+#~ "het album getoond."
+
+#~ msgid ""
+#~ "Keep the sequence intact: 1. <tt>%%wppa%%</tt>, 2. <tt>%%album=</tt> or "
+#~ "<tt>%%cover=</tt> or <tt>%%slide=</tt>, 3. <tt>%%size=</tt>. (2. being "
+#~ "optional even when using 3.)."
+#~ msgstr ""
+#~ "Houd de volgorde intact: 1. <tt>%%wppa%%</tt>, 2. <tt>%%album=</tt> of "
+#~ "<tt>%%cover=</tt> of <tt>%%slide=</tt>, 3. <tt>%%size=</tt>. (2. is "
+#~ "optioneel, ook als 3. gebruikt wordt.)."
+
+#~ msgid "Use the default page template, or create one yourself."
+#~ msgstr "Gebruik de standaard pagina sjabloon, of maak er zelf een."
+
+#~ msgid ""
+#~ "You can remove the plugin and re-install the latest version always. This "
+#~ "will not affect your photos or albums."
+#~ msgstr ""
+#~ "U kunt te allen tijde de plugin verwijderen en opnieuw installeren. Dit "
+#~ "heeft geen gevolgen voor uw albums en foto's."
+
+#~ msgid ""
+#~ "You may combine %% items on one line like: <tt>%%wppa%% %%cover=13%% %%"
+#~ "size=250%%</tt>"
+#~ msgstr ""
+#~ "U kunt meerdere %% items op één regel zetten, zoals: <tt>%%wppa%% %%"
+#~ "cover=13%% %%size=250%%</tt>"
+
+#~ msgid "Plugin Support And Feature Request"
+#~ msgstr "Ondersteuning en verzoeken voor verbetering"
+
+#~ msgid ""
+#~ "If you've read over this readme carefully and are still having issues, if "
+#~ "you've discovered a bug,"
+#~ msgstr ""
+#~ "Als u deze uitleg aandachtig hebt gelezen en u nog vragen heeft of als u "
+#~ "een fout heeft ontdekt,"
+
+#~ msgid ""
+#~ "or have a feature request, please contact me via my <a href=\"mailto:"
+#~ "opajaap@opajaap.nl?subject=WP%20Photo%20Album%20Plus\">E-mail</a>."
+#~ msgstr ""
+#~ "of een verzoek tot uitbreiding heeft, kunt u mij bereiken via mijn <a "
+#~ "href=\"mailto:opajaap@opajaap.nl?subject=WP%20Photo%20Album%20Plus\">E-"
+#~ "mail</a>."
+
+#~ msgid ""
+#~ "You may also check the <a href=\"http://wordpress.org/tags/wp-photo-album-"
+#~ "plus\">forum</a> for this plugin and/or leave a question there."
+#~ msgstr ""
+#~ "U kunt ook het <a href=\"http://wordpress.org/tags/wp-photo-album-plus"
+#~ "\">forum</a> raadplegen en er een vraag of opmerking achterlaten."
+
+#~ msgid ""
+#~ "For hot fixes check the <a href=\"http://plugins.trac.wordpress.org/log/"
+#~ "wp-photo-album-plus/\">development log</a> for this plugin."
+#~ msgstr ""
+#~ "Voor 'hot fixes' check het <a href=\"http://plugins.trac.wordpress.org/"
+#~ "log/wp-photo-album-plus/\">development log</a> voor deze plugin."
+
+#~ msgid ""
+#~ "You may also visit the <a href=\"http://wppa.opajaap.nl/\" target=\"_blank"
+#~ "\">WPPA+ Docs & Demos site</a> that also contains the <a href=\"http://"
+#~ "wppa.opajaap.nl/?page_id=39\" target=\"_blank\">WPPA+ Tutorial</a>."
+#~ msgstr ""
+#~ "U kunt ook de <a href=\"http://wppa.opajaap.nl/\" target=\"_blank\">WPPA+ "
+#~ "Docs & Demos site</a> bezoeken die ook de <a href=\"http://wppa.opajaap."
+#~ "nl/?page_id=39\" target=\"_blank\">WPPA+ Tutorial</a> bevat."
+
+#~ msgid ""
+#~ "If you love this plugin, I would appreciate a donation, either in <a href="
+#~ "\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=USD&lc=US\">USD</a> or "
+#~ "in <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=EUR&lc=US\">EURO</a>."
+#~ msgstr ""
+#~ "Als u deze plugin waardeert, kunt u dat tot uitdrukking brengen door "
+#~ "middel van een donatie, in <a href=\"https://www.paypal.com/cgi-bin/"
+#~ "webscr?cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-"
+#~ "Album-Plus&item_number=Support-Open-Source&currency_code=USD&lc=US\">USD</"
+#~ "a> of in <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=EUR&lc=US\">EURO</a>."
+
+#~ msgid "About and credits"
+#~ msgstr "Over en dank aan"
+
+#~ msgid ""
+#~ "WP Photo Album Plus is extended with many new features and is maintained "
+#~ "by J.N. Breetvelt, a.k.a. (<a href=\"http://www.opajaap.nl/\">OpaJaap</a>)"
+#~ msgstr ""
+#~ "WP Photo Album Plus is met vele nieuwe functies uitgebreid en wordt "
+#~ "onderhouden door J.N. Breetvelt, alias (<a href=\"http://www.opajaap.nl/"
+#~ "\">OpaJaap</a>)"
+
+#~ msgid "Thanx to R.J. Kaplan for WP Photo Album 1.5.1."
+#~ msgstr "Dank aan R.J. Kaplan voor WP Photo Album 1.5.1."
+
+#~ msgid "Thanx to E.S. Rosenberg for programming tips on security issues."
+#~ msgstr ""
+#~ "Dank aan E.S. Rosenberg voor programmeer adviezen m.b.t. beveiliging."
+
+#~ msgid ""
+#~ "Thanx to the users who reported bugs and asked for enhancements. Without "
+#~ "them WPPA should not have been what it is now!"
+#~ msgstr ""
+#~ "Dank aan de gebruikers die fouten hebben gerapporteerd en om aanvullingen "
+#~ "hebben verzocht. Zonder hen zou WPPA niet geworden zijn wat het nu is!"
+
+#~ msgid "Licence"
+#~ msgstr "Licentie"
+
+#~ msgid "WP Photo Album is released under the"
+#~ msgstr "WP Photo Album Plus wordt beschikbaar gesteld onder de"
+
+#~ msgid "licence."
+#~ msgstr "licentie."
+
+#~ msgid "WPPA+ Search Photos"
+#~ msgstr "WPPA+ Foto's zoeken"
+
+#~ msgid "Search Photos"
+#~ msgstr "Foto's zoeken"
+
+#~ msgid "Search photos"
+#~ msgstr "Foto's zoeken"
+
+#~ msgid "Warning. No page defined for search results!"
+#~ msgstr "Waarschuwing. Geen pagina aangewezen voor de zoekresultaten!"
+
+#~ msgid "Search"
+#~ msgstr "Zoeken"
+
+#~ msgid "Thumbnail size."
+#~ msgstr "Miniatuur grootte."
+
+#~ msgid "Thumbnail frame width"
+#~ msgstr "Miniaturen frame breedte"
+
+#~ msgid "Thumbnail frame height"
+#~ msgstr "Miniaturen frame hoogte"
+
+#~ msgid "Thumbnail Spacing"
+#~ msgstr "Miniaturen tussenruimte"
+
+#~ msgid "Cover photo size."
+#~ msgstr "Omslag foto grootte."
+
+#~ msgid "Regenerating thumbnail images, starting at id="
+#~ msgstr "Miniatuur afbeeldingen opnieuw maken, begonnen bij id="
+
+#~ msgid ""
+#~ "If the line of dots stops growing or you browser reports Ready but you "
+#~ "did NOT get a 'READY regenerating thumbnail images' message, your server "
+#~ "has given up. In that case: continue this action by clicking"
+#~ msgstr ""
+#~ "Indien de lijn puntjes niet meer langer wordt of de browser gereed is en "
+#~ "u GEEN 'Gereed met het aanmaken van miniaturen' melding ziet dan heeft de "
+#~ "server het opgegeven. In dit geval: ga verder met deze bewerking en klik "
+#~ "op"
+
+#~ msgid "and click \"Save Changes\" again."
+#~ msgstr "te klikken en opnieuw op \"Wijzigingen opslaan\" te klikken."
+
+#~ msgid "READY regenerating thumbnail images."
+#~ msgstr "GEREED met het opnieuw aanmaken van miniatuur afbeeldingen."
+
+#~ msgid "Photocount treshold."
+#~ msgstr "Drempelwaarde foto aantal."
+
+#~ msgid "Full size."
+#~ msgstr "Volledige grootte."
+
+#~ msgid "Max height."
+#~ msgstr "Maximale hoogte."
+
+#~ msgid "Column width."
+#~ msgstr "Kolom breedte."
+
+#~ msgid "Album page size."
+#~ msgstr "Album pagina grootte."
+
+#~ msgid "Thumb page size."
+#~ msgstr "Miniaturen pagina grootte."
+
+#~ msgid "Opacity."
+#~ msgstr "Ondoorschijnendheid."
+
+#~ msgid ""
+#~ "Changes in accesslevels will not be made. It is set to be done by an "
+#~ "other program."
+#~ msgstr ""
+#~ "Er worden geen wijzigingen in toegangsrechten aangebracht. Er is "
+#~ "ingesteld dat dit door aan ander programma wordt gedaan."
+
+#~ msgid "Ratings cleared"
+#~ msgstr "Waarderingen leeggemaakt"
+
+#~ msgid "Could not clear ratings"
+#~ msgstr "Kan de waarderingen niet wissen"
+
+#~ msgid "Number of TopTen photos"
+#~ msgstr "Aantal Top Tien foto's"
+
+#~ msgid "Widget image thumbnail size"
+#~ msgstr "Widget foto grootte"
+
+#~ msgid "Error converting to UTF-8"
+#~ msgstr "Fout bij het converteren naar UTF-8"
+
+#~ msgid "Other changes saved"
+#~ msgstr "Andere wijzigingen opgeslagen"
+
+#~ msgid "Changes Saved"
+#~ msgstr "Wijzigingen opgeslagen"
+
+#~ msgid ""
+#~ "Regeneration of thumbnail images interrupted. Please press \"Save Changes"
+#~ "\""
+#~ msgstr ""
+#~ "Het opnieuw aanmaken van miniatuur afbeeldingen is onderbroken. Klik a.u."
+#~ "b. op \"Wijzigingen opslaan\""
+
+#~ msgid "WP Photo Album Plus Settings"
+#~ msgstr "WP Photo Album Plus Instellingen"
+
+#~ msgid "Database revision:"
+#~ msgstr "Database revisie:"
+
+#~ msgid "WP Charset:"
+#~ msgstr "WP Karakterset:"
+
+#~ msgid "WPPA Charset:"
+#~ msgstr "WPPA Karakterset:"
+
+#~ msgid "default"
+#~ msgstr "standaard"
+
+#~ msgid "General settings:"
+#~ msgstr "Algemene instellingen:"
+
+#~ msgid "Column Width:"
+#~ msgstr "Kolom Breedte:"
+
+#~ msgid "pixels."
+#~ msgstr "pixels."
+
+#~ msgid "Enter the width of the main column in your theme's display area."
+#~ msgstr "Voer de breedte in van de hoofdkolom van uw thema."
+
+#~ msgid ""
+#~ "You should set this value correctly to make sure the fullsize images are "
+#~ "properly aligned horizontally."
+#~ msgstr ""
+#~ "U dient de waarde juist op te geven om er zeker van te zijn dat de foto's "
+#~ "correct horizontaal worden uitgelijnd."
+
+#~ msgid ""
+#~ "You may enter <b>auto</b> for use in themes that have a floating content "
+#~ "column."
+#~ msgstr ""
+#~ "U kunt <b>auto</b> invullen voor gebruik in thema's die een variabele "
+#~ "hoofdkolom hebben."
+
+#~ msgid "Full Size:"
+#~ msgstr "Volledige grootte:"
+
+#~ msgid "pixels wide,"
+#~ msgstr "pixels breed,"
+
+#~ msgid "pixels high."
+#~ msgstr "pixels hoog."
+
+#~ msgid ""
+#~ "Enter the largest size in pixels as how you want your photos to be "
+#~ "displayed."
+#~ msgstr ""
+#~ "Voer de grootste maat (in pixels) in hoe u de foto's wilt weergeven."
+
+#~ msgid "This is usually the same as the Column Width, but it may differ."
+#~ msgstr ""
+#~ "Dit is meestal hetzelfde als de Kolom breedte, maar het kan hiervan "
+#~ "verschillen."
+
+#~ msgid "Resize on Upload:"
+#~ msgstr "Tijdens upload verkleinen:"
+
+#~ msgid ""
+#~ "If you check this item, the size of the photos will be reduced to the "
+#~ "Full Size during the upload/import process."
+#~ msgstr ""
+#~ "Als u dit aanvinkt, zullen de foto's verkleind worden tot de Volledig "
+#~ "Grootte tijdens het upload/import proces."
+
+#~ msgid ""
+#~ "The photos will never be enlarged if they are smaller than the Full Size."
+#~ msgstr ""
+#~ "De foto's zullen nooit vergroot worden als ze kleiner zijn dan de "
+#~ "Volledige Grootte."
+
+#~ msgid "Stretch to fit:"
+#~ msgstr "Vergroot als te klein:"
+
+#~ msgid ""
+#~ "Fullsize images will be stretched to the Full Size at display time if "
+#~ "they are smaller. Leaving unchecked is recommended. It is better to "
+#~ "upload photos that fit well the sizes you use!"
+#~ msgstr ""
+#~ "Foto's worden vergroot tot de opgegeven volledige grootte als se kleiner "
+#~ "zijn. Dit wordt afgeraden. Het is beter foto's te uploaden die van "
+#~ "zichzelf groot genoeg zijn!"
+
+#~ msgid "Show breadcrumb:"
+#~ msgstr "Toon broodkruimelnavigatie:"
+
+#~ msgid "Indicate whether a breadcrumb navigation should be displayed"
+#~ msgstr "Geef aan of de broodkruimelnavigatie moet worden weergegeven"
+
+#~ msgid "Show \"Home\" in breadcrumb:"
+#~ msgstr "Toon \"Beginpagina\" in de broodkruimelnavigatie:"
+
+#~ msgid ""
+#~ "Indicate whether the breadcrumb navigation should start with a \"Home\"-"
+#~ "link"
+#~ msgstr ""
+#~ "Geef aan of de broodkruimelnavigatie met een \"Beginpagina\"-verwijzing "
+#~ "moet beginnen"
+
+#~ msgid "Separator:"
+#~ msgstr "Scheidingsteken:"
+
+#~ msgid "Text (html):"
+#~ msgstr "Tekst (html):"
+
+#~ msgid "Image (url):"
+#~ msgstr "Afbeelding (url):"
+
+#~ msgid "Select the desired breadcrumb separator element."
+#~ msgstr "Selecteer het gewenste broodkruimelnavigatiescheidingselement."
+
+#~ msgid "A text string may contain valid html."
+#~ msgstr "Een tekst mag html code bevatten."
+
+#~ msgid ""
+#~ "An image will be scaled automatically if you set the navigation font size."
+#~ msgstr ""
+#~ "Een afbeelding wordt automatisch geschaald indien de navigatie "
+#~ "fontgrootte is ingesteld."
+
+#~ msgid "Full-size & Slideshow:"
+#~ msgstr "Volle grootte foto's en Diavoorstellingen:"
+
+#~ msgid "Vertical alignment:"
+#~ msgstr "Verticale uitlijning:"
+
+#~ msgid "top"
+#~ msgstr "boven"
+
+#~ msgid "center"
+#~ msgstr "midden"
+
+#~ msgid "bottom"
+#~ msgstr "onder"
+
+#~ msgid "fit"
+#~ msgstr "passend"
+
+#~ msgid "Specify the vertical alignment of fullsize images."
+#~ msgstr "Geef de verticale uitlijning voor foto's van volledige grootte op."
+
+#~ msgid ""
+#~ "If you select --- none ---, the photos will not be centered horizontally "
+#~ "either."
+#~ msgstr ""
+#~ "Als u --- geen --- opgeeft, worden de foto's ook niet horizontaal "
+#~ "gecentreerd."
+
+#~ msgid "Horizontal alignment:"
+#~ msgstr "Horizontale uitlijning:"
+
+#~ msgid "left"
+#~ msgstr "links"
+
+#~ msgid "right"
+#~ msgstr "rechts"
+
+#~ msgid ""
+#~ "Specify the horizontal alignment of fullsize images. If you specify --- "
+#~ "default --- , no horizontal alignment will take place."
+#~ msgstr ""
+#~ "Geef de gewenste horizontale uitlijning op. Indien u --- standaard --- "
+#~ "kiest, vindt er geen horizontale uitlijning plaats."
+
+#~ msgid "Name and description:"
+#~ msgstr "Naam en Beschrijving:"
+
+#~ msgid ""
+#~ "If checked: display name and description under the full-size images and "
+#~ "slideshow."
+#~ msgstr ""
+#~ "Indien aangevinkt: toon naam en beschrijving onder de volledige grootte "
+#~ "foto's en diavoorstelling."
+
+#~ msgid "Navigation bars:"
+#~ msgstr "Navigatie balken:"
+
+#~ msgid "Start/stop slideshow bar:"
+#~ msgstr "Start/stop diavoorstelling balk:"
+
+#~ msgid "Filmstrip navigator:"
+#~ msgstr "Filmstrip navigatiebalk:"
+
+#~ msgid "Show seam between end and start of film:"
+#~ msgstr "Toon de naad tussen begin en eind van de film:"
+
+#~ msgid ""
+#~ "If checked: display navigation bars and/or a filmstrip over and under the "
+#~ "full-size images and slideshow."
+#~ msgstr ""
+#~ "Indien aangevinkt: toon navigatiebalken en/of filmstrip boven en onder de "
+#~ "volledige grootte foto's en diavoorstelling."
+
+#~ msgid ""
+#~ "Additionaly indicate if you want the wrap-around point to be visible in "
+#~ "the filmstrip."
+#~ msgstr ""
+#~ "Geef ook aan of u het punt waar het eind en het begin van de filmstrp "
+#~ "samenkomen zichtbaar wilt maken."
+
+#~ msgid "Enable slideshow:"
+#~ msgstr "Diavoorstelling aan:"
+
+#~ msgid ""
+#~ "If you do not want slideshows: uncheck this box. Browsing full size "
+#~ "images will remain possible."
+#~ msgstr ""
+#~ "Als u geen diavoorstellingen wilt: haal dit vinkje weg. Door foto's "
+#~ "bladeren blijft mogelijk."
+
+#~ msgid ""
+#~ "If checked, the slideshow will start running immediately, if unchecked "
+#~ "the first photo will be displayed in browse mode."
+#~ msgstr ""
+#~ "Indien aangevinkt zal de diavoorstelling meteen beginnen te draaien, "
+#~ "indien niet aangevinkt verschijnt de eerste foto in de blader modus."
+
+#~ msgid "Fade-in after fade-out:"
+#~ msgstr "Fade-in na fade-uit:"
+
+#~ msgid ""
+#~ "If checked: slides are faded out and in after each other. If unchecked: "
+#~ "fadin and fadeout overlap."
+#~ msgstr ""
+#~ "Indien aangevinkt: in- en uit-faden gebeurt na elkaar in plaatst van "
+#~ "tegelijkertijd."
+
+#~ msgid "Slideshow timeout:"
+#~ msgstr "Diavoorstelling timeout:"
+
+#~ msgid "very short (1 s.)"
+#~ msgstr "zeer kort (1 s.)"
+
+#~ msgid "short (1.5 s.)"
+#~ msgstr "kort (1.5 s.)"
+
+#~ msgid "normal (2.5 s.)"
+#~ msgstr "normaal (2.5 s.)"
+
+#~ msgid "long (4 s.)"
+#~ msgstr "lang (4 s.)"
+
+#~ msgid "very long (6 s.)"
+#~ msgstr "zeer lang (6 s.)"
+
+#~ msgid ""
+#~ "Select the time a single slide will be visible when the slideshow is "
+#~ "started."
+#~ msgstr ""
+#~ "Kies de tijd dat een enkele dia zichtbaar is wanneer de diavoorstelling "
+#~ "gestart wodt."
+
+#~ msgid "Slideshow animation speed:"
+#~ msgstr "Animatie diavoorstelling:"
+
+#~ msgid "--- off ---"
+#~ msgstr "--- uit ---"
+
+#~ msgid "very fast (200 ms.)"
+#~ msgstr "zeer snel (200 ms.)"
+
+#~ msgid "fast (400 ms.)"
+#~ msgstr "snel (400 ms.)"
+
+#~ msgid "normal (800 ms.)"
+#~ msgstr "normaal (800 ms.)"
+
+#~ msgid "slow (1.2 s.)"
+#~ msgstr "langzaam (1.2 s.)"
+
+#~ msgid "very slow (2 s.)"
+#~ msgstr "zeer langzaam (2 s.)"
+
+#~ msgid "extremely slow (4 s.)"
+#~ msgstr "extreem langzaam (4 s.)"
+
+#~ msgid "Specify the animation speed to be used in slideshows."
+#~ msgstr "Geef de overvloeisnelheid op voor de diavoorstellingen."
+
+#~ msgid "Rating system"
+#~ msgstr "Waarderings systeem"
+
+#~ msgid "Enable rating system:"
+#~ msgstr "Waarderings systeem aan:"
+
+#~ msgid "If checked, the photo rating system will be enabled."
+#~ msgstr "Indien aangevinkt, wordt het foto waarderings systeem aangezet."
+
+#~ msgid "Rating options:"
+#~ msgstr "Waarderings instellingen:"
+
+#~ msgid "Users must login to rate photos."
+#~ msgstr "Bezoekers moeten ingelogd zijn om foto's te kunnen waaderen."
+
+#~ msgid "Users may change their ratings."
+#~ msgstr "Bezoekers mogen hun waarderingen wijzigen."
+
+#~ msgid ""
+#~ "Users may give multiple votes. (This has no effect when users may change "
+#~ "their votes.)"
+#~ msgstr ""
+#~ "Bezoekers mogen meerdere keren stemmen. (Dit heeft geen effect als ze "
+#~ "mogen wijzigen.)"
+
+#~ msgid "Please supply additional settings for the rating system."
+#~ msgstr "Geef a.u.b. verdere instellingen voor het waarderingssysteem op."
+
+#~ msgid "Reset all ratings:"
+#~ msgstr "Verwijder alle waarderingen:"
+
+#~ msgid "WARNING: If checked, this will clear all ratings in the system!"
+#~ msgstr ""
+#~ "WAARSCHUWING: Indien aangevinkt worden alle waarderingen uit het systeem "
+#~ "gewist!"
+
+#~ msgid "Top Ten Widget:"
+#~ msgstr "Top Tien Widget:"
+
+#~ msgid "Widget title"
+#~ msgstr "Wiget Titel"
+
+#~ msgid "Top Ten Rated Photos"
+#~ msgstr "Top Tien gewaardeerde foto's"
+
+#~ msgid ""
+#~ "Enter/modify the title for the widget. This is a default and can be "
+#~ "overriden at widget activation."
+#~ msgstr ""
+#~ "Geef de titel van de widget op. Dit is een standaard koptekst en kan "
+#~ "overschreven worden bij het activeren van de widget."
+
+#~ msgid "Number of photos in widget:"
+#~ msgstr "Aantal foto's in de widget:"
+
+#~ msgid "Enter the maximum number of rated photos in the TopTen widget."
+#~ msgstr ""
+#~ "Geef het maximaal weer te geven aantal gewaardeerde foto's voor de widget "
+#~ "op."
+
+#~ msgid "Widget thumbnail size:"
+#~ msgstr "Widget miniatuur grootte:"
+
+#~ msgid "Enter the size for the mini photos in the TopTen widget."
+#~ msgstr "Geef de grootte op van de miniatuur foto's in de TopTien widget."
+
+#~ msgid ""
+#~ "Recommended values: 86 for a two column and 56 for a three column display."
+#~ msgstr "Aanbevolen waarden: 86 voor twee en 56 voor drie kolommen weergave."
+
+#~ msgid "Select the page the top ten photos links to."
+#~ msgstr "Selecteer de pagina waar de foto's naar moet verwijzen."
+
+#~ msgid "Thumbnails:"
+#~ msgstr "Miniatuur afbeeldingen:"
+
+#~ msgid "Photocount threshold:"
+#~ msgstr "Drempelwaarde foto aantal:"
+
+#~ msgid ""
+#~ "Photos do not show up in the album unless there are more than this number "
+#~ "of photos in the album. This allows you to have cover photos on an album "
+#~ "that contains only sub albums without seeing them in the list of sub "
+#~ "albums. Usually set to 0 (always show) or 1 (for one cover photo)."
+#~ msgstr ""
+#~ "U ziet de foto's niet in het album tenzij er meer dan dit aantal in het "
+#~ "album zitten. Dit maakt het mogelijk om omslagfoto's te hebben op albums "
+#~ "die verder alleen sub-albums bevatten zonder dat men ze in de lijst van "
+#~ "sub-albums ziet. Gebruikelijke waarde 0 (laat alles zien) of 1 (voor één "
+#~ "omslagfoto)."
+
+#~ msgid "Display type:"
+#~ msgstr "Afbeeldings methode:"
+
+#~ msgid "like album covers"
+#~ msgstr "als album omslagen"
+
+#~ msgid ""
+#~ "You may select an altenative display method for thumbnails. Note that "
+#~ "some of the thumbnail settings do not apply to all available display "
+#~ "methods."
+#~ msgstr ""
+#~ "U kunt een alternatieve weergavemethode voor miniatuur afbeeldingen "
+#~ "kiezen. Merk op dat niet alle instellingen op alle weergave methodes van "
+#~ "toepassing zijn."
+
+#~ msgid "Placement:"
+#~ msgstr "Plaatsing:"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Indicate the placement position of the thumbnailphoto you wish."
+#~ msgstr "Geef de plaats aan waar u de miniatuur wilt zien."
+
+#~ msgid "Thumbnail Size:"
+#~ msgstr "Miniatuur grootte:"
+
+#~ msgid ""
+#~ "Changing the thumbnail size may result in all thumbnails being "
+#~ "regenerated. this may take a while."
+#~ msgstr ""
+#~ "Het veranderen van de grootte kan er toe leiden dat alle miniaturen "
+#~ "opnieuw worden aangemaakt. Dit kan geruime tijd duren."
+
+#~ msgid "Thumbnail Framesize:"
+#~ msgstr "Miniatuur framegrootte:"
+
+#~ msgid "Width:"
+#~ msgstr "Breedte:"
+
+#~ msgid "pixels, Height:"
+#~ msgstr "pixels, Hoogte:"
+
+#~ msgid "pixels, Spacing:"
+#~ msgstr "pixels, Tussenruimte:"
+
+#~ msgid "this is a minimum. Space them equally."
+#~ msgstr ""
+#~ "dit is een minimum. Verdeel ze regelmatig over de beschikbare breedte."
+
+#~ msgid "Set width, height and spacing for the thumbnail frames."
+#~ msgstr ""
+#~ "Geef gewenste breedte, hoogte en tussenruimte op voor de frames van de "
+#~ "miniaturen."
+
+#~ msgid ""
+#~ "These sizes should be large enough for a thumbnail image and - optionally "
+#~ "- the text under it."
+#~ msgstr ""
+#~ "Deze maten moeten groot genoeg zijn om de miniatuur en - eventueel - de "
+#~ "tekst er onder te kunnen omvatten."
+
+#~ msgid ""
+#~ "Specify the vertical alignment of thumbnail images. Use this setting only "
+#~ "when albums contain both portrait and landscape photos."
+#~ msgstr ""
+#~ "Geef de verticale uitlijningsmethode aan. Gebruik deze instelling alleen "
+#~ "wanneer albums zowel liggende als staande foto's bevatten."
+
+#~ msgid "Apply mouseover effect:"
+#~ msgstr "Pas het 'muis over' effect toe:"
+
+#~ msgid "Opacity value:"
+#~ msgstr "Ondoorschijnendheidswaarde:"
+
+#~ msgid "Check this box to use mouseover effect on thumbnail images."
+#~ msgstr "Pas het 'muis over' effect toe op miniatuur afbeeldingen."
+
+#~ msgid "Enter percentage of opacity. 100% is opaque, 0% is transparant"
+#~ msgstr ""
+#~ "Percentage van ondoorschijnendheid. 100% is geheel ondoorschijnend, 0% is "
+#~ "volledig doorschijnend."
+
+#~ msgid "Apply popup effect:"
+#~ msgstr "Pas het 'pop-up' effect toe:"
+
+#~ msgid "Use popup effect on thumbnail images."
+#~ msgstr "Pas het 'pop-up' effect toe op miniatuur afbeeldingen."
+
+#~ msgid "Thumbnail text:"
+#~ msgstr "Text voor miniaturen:"
+
+#~ msgid "Photo rating:"
+#~ msgstr "Foto waardering:"
+
+#~ msgid "Display name, description and rating under thumbnails."
+#~ msgstr "Toon naam, beschrijving en waardering onder de miniaturen."
+
+#~ msgid "Max thumbnails per page:"
+#~ msgstr "Maximum aantal miniatuur afbeeldingen per pagina:"
+
+#~ msgid ""
+#~ "Enter the maximum number of thumbnail images per page. A value of 0 "
+#~ "indicates no pagination."
+#~ msgstr ""
+#~ "Geef het maximum aantal miniaturen per pagina op. De waarde 0 betekent: "
+#~ "geen paginering."
+
+#~ msgid "No links:"
+#~ msgstr "Geen koppelingen:"
+
+#~ msgid ""
+#~ "Check this if you do NOT want to link the thumbnails to fullsize images."
+#~ msgstr ""
+#~ "Vink dit aan indien u NIET wilt dat de miniaturen naar grote foto's "
+#~ "linken."
+
+#~ msgid "Album covers:"
+#~ msgstr "Album omslagen:"
+
+#~ msgid "Coverphoto Size:"
+#~ msgstr "Omslag foto grootte:"
+
+#~ msgid ""
+#~ "Changing the coverphoto size may result in all thumbnails being "
+#~ "regenerated. this may take a while."
+#~ msgstr ""
+#~ "Het veranderen van de grootte kan er toe leiden dat alle miniaturen "
+#~ "opnieuw worden aangemaakt. Dit kan geruime tijd duren."
+
+#~ msgid "Indicate the placement position of the coverphoto you wish."
+#~ msgstr "Geef de plaats aan waar u de omslagfoto wilt zien."
+
+#~ msgid "Check this box to use mouseover effect on cover images."
+#~ msgstr "Pas het 'muis over' effect toe op omslagfoto's."
+
+#~ msgid "Max covers per page:"
+#~ msgstr "Maximum aantal album omslagen per pagina:"
+
+#~ msgid ""
+#~ "Enter the maximum number of album covers per page. A value of 0 indicates "
+#~ "no pagination."
+#~ msgstr ""
+#~ "Geef het maximum aantal album omslagen per pagina op. De waarde 0 "
+#~ "betekent: geen paginering."
+
+#~ msgid "Columns:"
+#~ msgstr "Kolommen:"
+
+#~ msgid "Minimum width for 2 columns:"
+#~ msgstr "Minimum breedte voor 2 kolommen:"
+
+#~ msgid "Minimum width for 3 columns:"
+#~ msgstr "Minimum breedte voor 3 kolommen:"
+
+#~ msgid ""
+#~ "Display covers in 2 or 3 columns if the display area is wider or equal to "
+#~ "the number of pixels entered."
+#~ msgstr ""
+#~ "Toon de omslagen in 2 of 3 kolommen indien de afbeeldingsruimte gelijk is "
+#~ "aan of breder is dan het opgegeven aantal pixels."
+
+#~ msgid ""
+#~ "This also applies for 'thumbnails as covers', and will NOT apply to "
+#~ "single items."
+#~ msgstr ""
+#~ "Dit is ook van toepassing op 'miniaturen als omslagen weergeve', maar "
+#~ "NIET op enkele items."
+
+#~ msgid "Order settings:"
+#~ msgstr "Volgorde instellingen:"
+
+#~ msgid "Album order:"
+#~ msgstr "Album volgorde:"
+
+#~ msgid "Specify the way the albums should be ordered."
+#~ msgstr "Geef de sorteer methode op voor albums."
+
+#~ msgid "Descending:"
+#~ msgstr "Aflopend:"
+
+#~ msgid "If checked: largest first"
+#~ msgstr "Als aangevinkt: Grootste eerst."
+
+#~ msgid ""
+#~ "Specify the way the photos should be ordered. This is the default "
+#~ "setting. You can overrule the default sorting order on a per album basis."
+#~ msgstr ""
+#~ "Geef de methode op waarop de volgorde van de foto's moet worden bepaald. "
+#~ "Dit is de standaard instelling. U kunt per album een andere methode "
+#~ "opgeven."
+
+#~ msgid "This is a system wide setting."
+#~ msgstr "Deze instelling geldt voor het gehele systeem."
+
+#~ msgid "Appearance:"
+#~ msgstr "Opmaak:"
+
+#~ msgid "Explanation:"
+#~ msgstr "Toelichting:"
+
+#~ msgid ""
+#~ "The settings in this chapter may be left blank. When blank, the theme's "
+#~ "defaults are used or the settings in wppa_style.css."
+#~ msgstr ""
+#~ "De instellingen in deze sectie mogen leeg gelaten worden. In dat geval "
+#~ "worden de standaardwaarden van het thema of - indien aanwezig - de "
+#~ "instellingen in wppa_style.css gebruikt."
+
+#~ msgid ""
+#~ "It is strongly recommended that you try these settings to achieve your "
+#~ "desired appearance before editing the css file."
+#~ msgstr ""
+#~ "Het wordt sterk aanbevolen om te proberen met deze instellingen het "
+#~ "gewenste resultaat te bereiken alvorens het css bestand te bewerken."
+
+#~ msgid ""
+#~ "Note: these settings - if not blank - have precednce over css settings or "
+#~ "any hard coded attributes."
+#~ msgstr ""
+#~ "Opmerking: deze instellingen - indien ingevuld - hebben prioriteit boven "
+#~ "de css of geprogrammeerde attribuu waarden."
+
+#~ msgid ""
+#~ "The css classes that these settings act upon are indicated in the "
+#~ "descriptions as follows (for example 'wppa-class'):"
+#~ msgstr ""
+#~ "De stijlklassen waar deze instellingen betrekking op hebben zijn als "
+#~ "volgt aangegeven (bijvoorbeeld 'wppa-class'):"
+
+#~ msgid "Even background:"
+#~ msgstr "Even achtergrond:"
+
+#~ msgid "Background Color:"
+#~ msgstr "Achtergrondkleur:"
+
+#~ msgid "Border Color:"
+#~ msgstr "Randkleur:"
+
+#~ msgid ""
+#~ "Enter valid CSS colors for even numbered backgrounds and borders of album "
+#~ "covers and thumbnail displays 'As covers'."
+#~ msgstr ""
+#~ "Voer geldige CSS kleuren in voor even genummerde achtergronden en randen "
+#~ "van album omslagen en miniatuur weergaven 'Als omslagen'."
+
+#~ msgid "Odd background:"
+#~ msgstr "Oneven achtergrond:"
+
+#~ msgid ""
+#~ "Enter valid CSS colors for odd numbered backgrounds and borders of album "
+#~ "covers and thumbnail displays 'As covers'."
+#~ msgstr ""
+#~ "Voer geldige CSS kleuren in voor on-even genummerde achtergronden en "
+#~ "randen van album omslagen en miniatuur weergaven 'Als omslagen'."
+
+#~ msgid "Enter valid CSS colors for navigation backgrounds and borders."
+#~ msgstr ""
+#~ "Voer geldige CSS kleuren in voor achtergronden en randen van "
+#~ "navigatiebalken."
+
+#~ msgid "Borders:"
+#~ msgstr "Randen:"
+
+#~ msgid "Border thickness:"
+#~ msgstr "Randdikte:"
+
+#~ msgid "Border radius:"
+#~ msgstr "Afrondingsstraal:"
+
+#~ msgid ""
+#~ "Enter thicknes and corner radius for the backgrounds above. A number of 0 "
+#~ "means: no."
+#~ msgstr ""
+#~ "Voer de breedte en de afrondingsstraal in voor de bovenstaande "
+#~ "achtergronden. Het getal 0 betekent: geen."
+
+#~ msgid "Note that rounded corners are only supported by modern browsers."
+#~ msgstr ""
+#~ "Merk op dat afgeronde randen alleen door moderne browsers wordt "
+#~ "ondersteund."
+
+#~ msgid "Popup and Cover Photos:"
+#~ msgstr "Popup en omslagfoto's:"
+
+#~ msgid "Enter a valid CSS color for image backgrounds."
+#~ msgstr "Voer een geldige CSS kleur in voor de achtergrond van afbeeldingen."
+
+#~ msgid "Font for album titles:"
+#~ msgstr "Lettertype voor album titels:"
+
+#~ msgid "Font family:"
+#~ msgstr "Lettertype:"
+
+#~ msgid "Size:"
+#~ msgstr "Grootte:"
+
+#~ msgid "Enter font name and size for album cover titles."
+#~ msgstr ""
+#~ "Voer de naam van het lettertype en de grootte voor album omslag titels."
+
+#~ msgid "Font for fullsize photo descriptions:"
+#~ msgstr "Lettertype voor de beschrijving van foto's van volledige grootte:"
+
+#~ msgid "Font for fullsize photo names:"
+#~ msgstr "Lettertype voor de naam van foto's van volledige grootte:"
+
+#~ msgid "Font for navigations:"
+#~ msgstr "Lettertype voor navigaties:"
+
+#~ msgid "Enter font name and size for navigation items."
+#~ msgstr "Voer de naam van het lettertype en de grootte voor navigaties."
+
+#~ msgid "General font in wppa boxes:"
+#~ msgstr "Algemeen lettertype in wppa boxen:"
+
+#~ msgid "Enter font name and size for all other items."
+#~ msgstr ""
+#~ "Voer de naam van het lettertype en de grootte voor alle andere doeleinden."
+
+#~ msgid "Font for text under thumbnails:"
+#~ msgstr "Lettertype voor tekst onder miniaturen:"
+
+#~ msgid "Default text color:"
+#~ msgstr "Standaard tekstkleur:"
+
+#~ msgid "Color:"
+#~ msgstr "Kleur:"
+
+#~ msgid "Enter your sites default text color."
+#~ msgstr "Voer de standaard tekstkleur van uw website in."
+
+#~ msgid "Miscellaneous:"
+#~ msgstr "Diversen:"
+
+#~ msgid "Search page:"
+#~ msgstr "Zoekpagina:"
+
+#~ msgid ""
+#~ "Select the page to be used to display search results. The page MUST "
+#~ "contain %%wppa%%."
+#~ msgstr ""
+#~ "Selecteer de pagina die u wilt gebruiken om de zoekresultaten te tonen. "
+#~ "De pagina MOET %%wppa%% bevatten."
+
+#~ msgid "You may give it the title \"Search results\" or something alike."
+#~ msgstr "U kunt het de titel \"Zoekresultaten\" of iets dergelijks geven."
+
+#~ msgid ""
+#~ "Or you ou may use the standard page on which you display the generic "
+#~ "album."
+#~ msgstr "U kunt ook bijvoorbeeld de standaard fotoalbum pagina gebruiken."
+
+#~ msgid "Exclude separate:"
+#~ msgstr "Afzonderlijk uitsluiten:"
+
+#~ msgid ""
+#~ "When checked, albums (and photos in them) that have the parent set to --- "
+#~ "separate --- will be excluded from being searched."
+#~ msgstr ""
+#~ "Indien aangevinkt, dan worden albums (en de foto's er in) uitgesloten die "
+#~ "hun moeder op --- afzonderlijk --- hebeen staan."
+
+#~ msgid "Allow HTML in album and photo descriptions:"
+#~ msgstr ""
+#~ "Sta het gebruik van HTML toe in de beschrijvingen van albums en foto's:"
+
+#~ msgid ""
+#~ "If checked: html is allowed. WARNING: No checks on syntax, it is your own "
+#~ "responsability to close tags properly!"
+#~ msgstr ""
+#~ "Indien aangevinkt wordt html geïnterpreteerd. Waarschuwing: Er vindt geen "
+#~ "syntaxcontrole plaats, het is uw eigen verantwoordelijkheid de juiste "
+#~ "tags te gebruiken en af te sluiten!"
+
+#~ msgid "Set Character set to UTF-8:"
+#~ msgstr "Zet karakterset op UTF-8:"
+
+#~ msgid ""
+#~ "If checked: Converts the wppa database tables to UTF-8 This allows the "
+#~ "use of certain characters - like Turkish - in photo and album names and "
+#~ "descriptions."
+#~ msgstr ""
+#~ "Indien aangevinkt: Converteert de wppa database tabellen naar UTF-8. Dit "
+#~ "maakt het gebruik van sommige letters - zoals Turkse - in foto en album "
+#~ "namen en beschrijvingen mogelijk."
+
+#~ msgid "Access settings:"
+#~ msgstr "Toegangsrechten:"
+
+#~ msgid "Directory access (CHMOD):"
+#~ msgstr "Mappen toegang (CHMOD):"
+
+#~ msgid "Leave unchanged."
+#~ msgstr "Ongewijzigd laten."
+
+#~ msgid ""
+#~ "In rare cases you might need to change this setting. If you do not know "
+#~ "what this means, leave it unchanged."
+#~ msgstr ""
+#~ "In uitzonderlijke gevallen kan het nodig zijn deze instelling te "
+#~ "wijzigen. Als u dit niets zegt, laat het dan onveranderd."
+
+#~ msgid "Album access:"
+#~ msgstr "Album toegang:"
+
+#~ msgid "Limit album access to album owners only."
+#~ msgstr "Beperk de toegang tot albums tot alleen de eigenaars."
+
+#~ msgid ""
+#~ "If checked, users who can edit albums and upload/import photos can do "
+#~ "that with their own albums only."
+#~ msgstr ""
+#~ "Indien aangevinkt kunnen gebruikers die albums kunnen aanmaken en foto's "
+#~ "kunnen uploaden/importeren dat alleen nog met albums waarvan ze de "
+#~ "eigenaar zijn."
+
+#~ msgid ""
+#~ "Users can give their albums to another user. Administrators can change "
+#~ "ownership and access all albums always."
+#~ msgstr ""
+#~ "Gebruikers kunnen hun albums aan andere gebruikers geven. Administrateurs "
+#~ "kunnen ten alle tijde de eigenaar wijzigen."
+
+#~ msgid "Admin pages access:"
+#~ msgstr "Toegang tot admin pagina's:"
+
+#~ msgid ""
+#~ "Here you can set the capabilities that are specific for <strong>WPPA+.</"
+#~ "strong>"
+#~ msgstr ""
+#~ "Hier kunt u de toegangsrechten opgeven die specifiek zijn voor "
+#~ "<strong>WPPA+.</strong>"
+
+#~ msgid ""
+#~ "If you set them here, the classical userlevel is imitated, but "
+#~ "implemented by the modern Roles and Capabilities system."
+#~ msgstr ""
+#~ "Als u ze hier zet, dan worden de klassieke gebruikers niveaus geïmiteerd "
+#~ "met behulp van het moderne Roles en Capabilities systeem."
+
+#~ msgid ""
+#~ "That means that any higher userlevel (role) will automaticly get the "
+#~ "capabilities that you give to a certain (lower) level."
+#~ msgstr ""
+#~ "Dat betekent dat elk hoger gebruikersniveau (role) automatisch de "
+#~ "capabilities krijgt die u aan een zeker (lager) niveau geeft."
+
+#~ msgid ""
+#~ "If you want to give a capability to a specific user or role, you can set "
+#~ "it using an other plugin, such as <strong>Capability Manager</strong>."
+#~ msgstr ""
+#~ "Als u een toegangsrecht (capability) aan een specifieke gebruiker of "
+#~ "gebruikerssoort (role) wilt geven, dan kunt u dat doen met een andere "
+#~ "plugin zoals <strong>Capability Manager</strong>."
+
+#~ msgid ""
+#~ "Possible capabilities are: <strong>wppa_admin</strong> (for the Photo "
+#~ "Albums page), <strong>wppa_sidebar_admin</strong> (for the Sidebar Widget "
+#~ "page) and <strong>wppa_upload</strong> (for the Upload and Import pages)."
+#~ msgstr ""
+#~ "Mogelijke capabilities zijn: <strong>wppa_admin</strong> (voor de Foto "
+#~ "Albums pagina), <strong>wppa_sidebar_admin</strong> (voor de Zijkolom "
+#~ "Widget pagina) en <strong>wppa_upload</strong> (voor de Upload en Import "
+#~ "pagina's)."
+
+#~ msgid ""
+#~ "The Help page is available to users with the capability "
+#~ "<strong>edit_posts</strong>, the <strong>Settings</strong> page (the page "
+#~ "you are on right now) is limited to the role of administrator."
+#~ msgstr ""
+#~ "De Help pagina is beschikbaar voor gebruikers met het recht "
+#~ "<strong>edit_posts</strong>, de <strong>Instellingen</strong> pagina (de "
+#~ "pagina waar u nu naar kijkt) is voorbehouden aan de rol van adminstrator."
+
+#~ msgid "Accesslevels are set here."
+#~ msgstr "Toegangsrechten worden hier gezet."
+
+#~ msgid "Accesslevels are set by an other program."
+#~ msgstr "Toegangsrechten worden door een ander programma gezet."
+
+#~ msgid ""
+#~ "Indicate whether the accesslevels must be set by this admin page or by an "
+#~ "other program."
+#~ msgstr ""
+#~ "Geef aan of de toegangsrechten op deze admin pagina moeten worden "
+#~ "ingesteld, of dat u dat met een ander programma doet."
+
+#~ msgid "Albums Access Level:"
+#~ msgstr "Toegangs niveau voor albums:"
+
+#~ msgid "Administrator"
+#~ msgstr "Administrateur"
+
+#~ msgid "Editor"
+#~ msgstr "Bewerker"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "Contributor"
+#~ msgstr "Bijdrager"
+
+#~ msgid ""
+#~ "The minmum user level that can access the photo album admin (i.e. Manage "
+#~ "Albums and Upload Photos)."
+#~ msgstr ""
+#~ "Het minimale gebrukersniveau dat het foto album mag beheren (d.i. Album "
+#~ "beheer en Upload foto's)."
+
+#~ msgid "Upload Access Level:"
+#~ msgstr "Toegangs niveau voor uploaden en importeren:"
+
+#~ msgid "The minmum user level that can upload photos."
+#~ msgstr "Het minimale gebrukersniveau dat foto's kan toevoegen."
+
+#~ msgid "Sidebar Access Level:"
+#~ msgstr "Zijkolom widget toegangs niveau:"
+
+#~ msgid ""
+#~ "The minmum user level that can access the photo album sidebar widget "
+#~ "admin."
+#~ msgstr "Het minimale gebrukersniveau dat de zijkolom widget mag beheren"
+
+#~ msgid ""
+#~ "NOTE: Accessing this page - WP Photo Album Plus Settings - is always "
+#~ "priviledged to Administrators."
+#~ msgstr ""
+#~ "OPMERKING: Deze pagina - Instellingen - is altijd voorbehouden aan "
+#~ "uitsluitend Adminstrateurs."
+
+#~ msgid "WPPA+ Sidebar Slideshow"
+#~ msgstr "WPPA+ Zijkolom Diavoorstelling"
+
+#~ msgid "Portrait only:"
+#~ msgstr "Alleen staand:"
+
+#~ msgid "no."
+#~ msgstr "nee."
+
+#~ msgid ""
+#~ "Set to 'yes' if there are only portrait images in the album and you want "
+#~ "the photos to fill the full width of the widget.<br/>Set to 'no' "
+#~ "otherwise."
+#~ msgstr ""
+#~ "Zet op 'ja' als er alleen staande foto's in het album zijn en u de gehele "
+#~ "breedte van de widget wilt vullen.<br/>Zet anders op 'nee'."
+
+#~ msgid "If set to 'yes', Vertical alignment will be forced to 'fit'."
+#~ msgstr ""
+#~ "Indien op 'ja' gezet, dan wodt de verticale uitlijning automatisch op "
+#~ "'passend' ingesteld."
+
+#~ msgid "Set the desired vertical alignment method."
+#~ msgstr "Geef de gewenste verticale uitlijning op."
+
+#~ msgid "Tooltip text:"
+#~ msgstr "Ballon tekst:"
+
+#~ msgid "Text above photos:"
+#~ msgstr "Tekst boven de foto's:"
+
+#~ msgid "Text below photos:"
+#~ msgstr "Tekst onder de foto's:"
+
+#~ msgid "sec."
+#~ msgstr "sec."
+
+#~ msgid "WPPA+ Top Ten Rated Photos"
+#~ msgstr "WPPA+ Top Tien gewaardeerde foto's"
+
+#~ msgid ""
+#~ "You can set the content and the behaviour of this widget in the <b>Photo "
+#~ "Albums -> Settings</b> admin page."
+#~ msgstr ""
+#~ "U kunt de inhoud en het gedrag van deze widget bepalen in de <b>Foto "
+#~ "Albums -> Instellingen</b> admin pagina."
+
+#~ msgid "Selected Files:"
+#~ msgstr "Geselecteerde bestanden:"
+
+#~ msgid "You can upload up to 15 photos at once."
+#~ msgstr "U kunt maximaal 15 foto's per keer uploaden."
+
+#~ msgid "No albums exist. You must"
+#~ msgstr "Er zijn nog geen albums. U moet"
+
+#~ msgid "create one"
+#~ msgstr "er een aanmaken"
+
+#~ msgid "beofre you can upload your photos."
+#~ msgstr "voordat u foto's kunt uploaden."
+
+#~ msgid "Import photos from:"
+#~ msgstr "Importeer foto's van:"
+
+#~ msgid "Your depot"
+#~ msgstr "Uw depot"
+
+#~ msgid "Set source directory"
+#~ msgstr "Stel de bronmap in"
+
+#~ msgid "zipfiles in the depot."
+#~ msgstr "zipfiles in het depot"
+
+#~ msgid "Delete after successful extraction."
+#~ msgstr "Verwijder na succesvol uitpakken."
+
+#~ msgid "albumdefinitions in the depot."
+#~ msgstr "albumdefinities in het depot."
+
+#~ msgid "Delete after successful import, or if the album already exits."
+#~ msgstr "Verwijder na succesvolle import, of indien het album reeds bestaat."
+
+#~ msgid "photos in the depot."
+#~ msgstr "foto's in het depot"
+
+#~ msgid "Photos will be downsized during import."
+#~ msgstr "De foto's zullen verkleind worden tijdens het importeren."
+
+#~ msgid "Delete after successful import."
+#~ msgstr "Verwijder na succesvolle import."
+
+#~ msgid "Default album for import:"
+#~ msgstr "Standaard album voor importeren:"
+
+#~ msgid ""
+#~ "Photos that have (<em>name</em>)[<em>album</em>] will be imported by that "
+#~ "<em>name</em> in that <em>album</em>."
+#~ msgstr ""
+#~ "Foto's die (<em>naam</em>)[<em>album</em>] hebben, worden onder <em>naam</"
+#~ "em> geplaatst in <em>album</em>."
+
+#~ msgid "Import"
+#~ msgstr "Importeer"
+
+#~ msgid "There are no archives, albums or photos in directory:"
+#~ msgstr "Er zijn geen archieven, albums of foto's in de map:"
+
+#~ msgid "There are no albums or photos in directory:"
+#~ msgstr "Er zijn geen albums of foto's in de map:"
+
+#~ msgid "Photos Uploaded in album nr"
+#~ msgstr "Foto's ge-upload naar album nr"
+
+#~ msgid "Zipfile"
+#~ msgstr "Zip bestand"
+
+#~ msgid "extracted."
+#~ msgstr "uitgepakt."
+
+#~ msgid "Failed to extract"
+#~ msgstr "Uitpakken mislukt van"
+
+#~ msgid "Unknown parent album:"
+#~ msgstr "Onbekend moederalbum:"
+
+#~ msgid "--- none --- used."
+#~ msgstr "--- geen --- gebruikt."
+
+#~ msgid "Processing files, please wait..."
+#~ msgstr "Bestanden verwerken, even geduld a.u.b...."
+
+#~ msgid ""
+#~ "If the line of dots stops growing or you browser reports Ready, your "
+#~ "server has given up. In that case: try again"
+#~ msgstr ""
+#~ "Wanneer de lijn puntjes niet meer langer wordt of de browser gereed is, "
+#~ "dan heeft de server het opgegeven. In dat geval: probeer opnieuw"
+
+#~ msgid ""
+#~ "Error inserting photo, album %1s does not exist for photo %2s. Either "
+#~ "create the album or remove %3s."
+#~ msgstr ""
+#~ "Fout bij het invoegen van foto. album %1s bestaat niet voor foto %2s. "
+#~ "Maak het album aan of verwijder %3s."
+
+#~ msgid "Done processing files."
+#~ msgstr "Klaar met het verwerken van de bestanden."
+
+#~ msgid "No files to import."
+#~ msgstr "Geen bestanden om te importeren."
+
+#~ msgid "Zipfiles extracted."
+#~ msgstr "Zip bestanden uitgepakt."
+
+#~ msgid "Albums created."
+#~ msgstr "Albums aangemaakt."
+
+#~ msgid "Photos imported."
+#~ msgstr "Foto's geïmporteerd."
+
+#~ msgid ""
+#~ "Although the photos are resized during the upload/import process, you may "
+#~ "encounter 'Out of memory'errors."
+#~ msgstr ""
+#~ "Aloewel de foto's verkleind worden tijdens het upload proces kunt u 'Out "
+#~ "of memory' foutmeldingen krijgen."
+
+#~ msgid ""
+#~ "In that case: make sure you set the memory limit to 64M and make sure "
+#~ "your hosting provider allows you the use of 64 Mb."
+#~ msgstr ""
+#~ "In dat geval: zet de geheugenlimiet op 64M en zorg ervoor dat uw hosting "
+#~ "provider u toestaat om 64 MB te gebruiken."
+
+#~ msgid ""
+#~ "WARNING: You are uploading very large photos, this may result in server "
+#~ "problems and excessive download times for your website visitors."
+#~ msgstr ""
+#~ "WAARSCHUWING: U bent zeer grote foto's aan het uploaden, dit kan tot "
+#~ "problemen met de server en tot lange downloadtijden voor uw bezoekers "
+#~ "leiden!"
+
+#~ msgid ""
+#~ "Check the 'Resize on upload' checkbox, and/or resize the photos before "
+#~ "uploading. The recommended size is: not larger than 1024 x 768 pixels (up "
+#~ "to approx. 250 kB)."
+#~ msgstr ""
+#~ "Vink de 'Tijdens upload verkleinen' checkbox aan en/of verklein de foto's "
+#~ "alvorens ze te uploaden. De aanbevolen grootte is niet meer dan 1024 x "
+#~ "768 pixels (tot ca. 250 kB)."
+
+#~ msgid ""
+#~ "WARNING: You are uploading photos that are too small. Photos must be "
+#~ "larger than the thumbnail size and larger than the coverphotosize."
+#~ msgstr ""
+#~ "WAARSCHUWING: U bent te kleine goto's aan het uploaden. Foto's moeten "
+#~ "groter zijn dan de miniatuurgrootte en groter dan de omslagfoto's."
+
+#~ msgid "ERROR: Unable to retrieve immage size of"
+#~ msgstr "FOUT: Kan de abeeldingsgrootte niet bepalen van"
+
+#~ msgid "Unsupported mime type encountered:"
+#~ msgstr "Niet ondersteund mime type gevonden:"
+
+#~ msgid "Could not insert photo. query="
+#~ msgstr "Kan de foto niet invoegen. query="
+
+#~ msgid "ERROR: Resized or copied image could not be created."
+#~ msgstr "FOUT: Kan geschaalde of gekopiëerde afbeelding niet aanmaken."
+
+#~ msgid "ERROR: Unknown file or album."
+#~ msgstr "FOUT: Onbekend bestand of album."
+
+#~ msgid "Error: unexpected fgets() fail in wppa_get_meta_data()."
+#~ msgstr "Fout: onverwachte fgets() fout in wppa_get_meta_data()."
+
+#~ msgid "Trying to fix "
+#~ msgstr "Probeer te repareren"
+
+#~ msgid "Fixed extension for "
+#~ msgstr "Bestandsextensie gerepareerd voor"
+
+#~ msgid "Unable to fix extension for "
+#~ msgstr "Kan de bestandsextensie niet repareren voor"
+
+#~ msgid "Unknown extension for photo "
+#~ msgstr "Onbekende bestandsextensie voor foto"
+
+#~ msgid ""
+#~ "Please change the name to something with the proper extension and try "
+#~ "again!"
+#~ msgstr ""
+#~ "Verander a.u.b. de naam naar iets met de juiste bestandsextensie en "
+#~ "probeer opnieuw!"
+
+#~ msgid "Orphan Photos"
+#~ msgstr "Verweesde Foto's"
+
+#~ msgid "Could not recover orphanized photos."
+#~ msgstr "Kan de verweesde foto's niet recupereren."
+
+#~ msgid "Database fixed."
+#~ msgstr "Database hersteld."
+
+#~ msgid "orphanized photos recovered."
+#~ msgstr "verweesde foto's teruggevonden."
+
+#~ msgid "invalid entries removed:"
+#~ msgstr "ongeldige items verwijderd:"
+
+#~ msgid "missing file extensions recovered."
+#~ msgstr "ontbrekende bestandsextensies gereconstrueerd."
+
+#~ msgid ""
+#~ "The uploads directory does not exist, please do a regular WP upload first."
+#~ msgstr "De uploads map bestaat niet, doe eerst een 'gewone' WP upload."
+
+#~ msgid "Successfully created uploads directory."
+#~ msgstr "De uploads map is succesvol aangemaakt."
+
+#~ msgid "Could not create the wppa directory."
+#~ msgstr "Kan de wppa map niet aanmaken."
+
+#~ msgid "Successfully created wppa directory."
+#~ msgstr "De wppa map is succesvol aangemaakt."
+
+#~ msgid "Could not create the wppa thumbs directory."
+#~ msgstr "Kan de wppa thumbs map niet aanmaken."
+
+#~ msgid "Successfully created wppa thumbs directory."
+#~ msgstr "De wppa thumbs map is succesvol aangemaakt."
+
+#~ msgid "Unable to create depot directory"
+#~ msgstr "Kan de depot map niet aanmaken"
+
+#~ msgid "Successfully created wppa master depot directory."
+#~ msgstr "De wppa hoofd depot map is succesvol aangemaakt."
+
+#~ msgid "Unable to create user depot directory"
+#~ msgstr "Kan de gebruikers depot map niet aanmaken"
+
+#~ msgid "Successfully created wppa user depot directory."
+#~ msgstr "De wppa gebruikers depot map is succesvol aangemaakt."
+
+#~ msgid "WPPA+ Photo Of The Day"
+#~ msgstr "WPPA+ Foto van de dag"
+
+#~ msgid ""
+#~ "You can set the content and the behaviour of this widget in the <b>Photo "
+#~ "Albums -> Sidebar Widget</b> admin page."
+#~ msgstr ""
+#~ "U kunt de inhoud en het gedrag van deze widget bepalen in de <b>Foto "
+#~ "Albums -> Zijkolom Widget</b> admin pagina."
+
+#~ msgid "Widget Photo Width."
+#~ msgstr "Widget foto breedte."
+
+#~ msgid "Widget Photo Padding."
+#~ msgstr "Widget foto padding."
+
+#~ msgid "Changes Saved. Don't forget to activate the widget!"
+#~ msgstr "Wijzigingen opgeslagen. Vergeet niet de widget te activeren!"
+
+#~ msgid "WP Photo Album Plus Sidebar Widget Settings"
+#~ msgstr "WP Photo Album Plus Zijkolom Widget Instellingen"
+
+#~ msgid "Widget Title:"
+#~ msgstr "Wiget Titel:"
+
+#~ msgid "Widget Photo Width:"
+#~ msgstr "Widget foto breedte:"
+
+#~ msgid "Padding top/left:"
+#~ msgstr "Padding boven/links:"
+
+#~ msgid "Enter the desired display width of the photo in the sidebar."
+#~ msgstr "Voer de gewenste afbeeldingsbreedte van de foto in de zijkolom in."
+
+#~ msgid "Use album(s):"
+#~ msgstr "Gebruik album(s):"
+
+#~ msgid "Select:"
+#~ msgstr "Geselecteer:"
+
+#~ msgid "Or Edit:"
+#~ msgstr "Of Bewerk:"
+
+#~ msgid "Update thumbnails"
+#~ msgstr "Werk miniaturen bij"
+
+#~ msgid ""
+#~ "Select or edit the album(s) you want to use the photos of for the widget."
+#~ msgstr ""
+#~ "Selecteer of bewerk de albumlijst die u wilt gebruiken voor de widget."
+
+#~ msgid "Display method:"
+#~ msgstr "Afbeeldings methode:"
+
+#~ msgid "Fixed photo"
+#~ msgstr "Vaste foto"
+
+#~ msgid "Last upload"
+#~ msgstr "Laatste geupload"
+
+#~ msgid "Change every"
+#~ msgstr "Verander ieder(e)"
+
+#~ msgid "Select how the widget should display."
+#~ msgstr "Selecteer de gewenste afbeeldings methode."
+
+#~ msgid "--- url ---"
+#~ msgstr "--- url ---"
+
+#~ msgid "Select the page the photo links to."
+#~ msgstr "Selecteer de pagina waar de foto naar moet verwijzen."
+
+#~ msgid "Select --- url --- to enter a custom link."
+#~ msgstr "Selecteer --- url --- om een eigen koppeling op te geven."
+
+#~ msgid "Custom link:"
+#~ msgstr "Eigen koppeling:"
+
+#~ msgid "Type the title here"
+#~ msgstr "Typ hier de titel"
+
+#~ msgid "Url:"
+#~ msgstr "Url:"
+
+#~ msgid "Type your custom url here"
+#~ msgstr "Typ hier de eigen url"
+
+#~ msgid "Enter the title and the url. Do'nt forget the HTTP://"
+#~ msgstr "Voer de titel en de url in. Vergeet de HTTP:// niet."
+
+#~ msgid "Subtitle:"
+#~ msgstr "Ondertitel:"
+
+#~ msgid "Photo Name"
+#~ msgstr "Foto Naam"
+
+#~ msgid "Select the content of the subtitle."
+#~ msgstr "Selecteer de inhoud van de ondertitel."
+
+#~ msgid "- select album(s) -"
+#~ msgstr "- selecteer album(s) -"
+
+#~ msgid "- all albums -"
+#~ msgstr "- alle albums -"
+
+#~ msgid "- all -separate- albums -"
+#~ msgstr "- alle -afzonderlijke- albums -"
+
+#~ msgid "- all albums except -separate-"
+#~ msgstr "- alle albums behalve -afzonderlijk-"
+
+#~ msgid "Sub title:"
+#~ msgstr "Onder titel:"
+
+#~ msgid "Search Photos widget"
+#~ msgstr "Foto's zoeken"
+
+#~ msgid "TopTen Rated Photos"
+#~ msgstr "TopTien gewaardeerde foto's"
+
+#~ msgid "TopTen Widget"
+#~ msgstr "TopTien Widget"
+
+#~ msgid "Photo Of The Day Widget"
+#~ msgstr "Foto van de dag widget"
+
+#~ msgid "No known valid album id to import photos to."
+#~ msgstr "Geen geldige album id om foto's in te importeren."
+
+#~ msgid "Create"
+#~ msgstr "Maak"
+
+#~ msgid "with an ftp program and try again."
+#~ msgstr "met een FTP programma en probeer het opnieuw."
+
+#~ msgid "with an ftp program and place the photos there."
+#~ msgstr "met een ftp programma en plaats de foto's er in."
+
+#~ msgid "Place your photos to be imported in:"
+#~ msgstr "Zet uw foto's die geïmporteerd moeten worden in:"
+
+#~ msgid "using an FTP program and try again."
+#~ msgstr "met een FTP programma en probeer het opnieuw."
+
+#~ msgid "files imported to album number"
+#~ msgstr "bestanden geïmporteerd naar album nummer"
+
+#~ msgid "Checking database, please wait..."
+#~ msgstr "Database kontroleren, even geduld a.u.b...."
+
+#~ msgid "Done. No errors found. Have a nice upload!"
+#~ msgstr "Klaar. Geen fouten gevonden. Veel plezier met uploaden!"
+
+#~ msgid "Avarage rating:"
+#~ msgstr "Gemiddelde waardering:"
+
+#~ msgid "My rating"
+#~ msgstr "Mijn waardering"
+
+#~ msgid ""
+#~ "If you want to enter a custom link, first select --- url --- above and "
+#~ "save changes."
+#~ msgstr ""
+#~ "Indien u een eigen koppeling wilt invoeren, selecteer dan eerst --- url "
+#~ "--- hierboven en sla de wijzighingen op."
+
+#~ msgid "Not implemented yet (5)"
+#~ msgstr "Nog niet geïmplementeerd (5)"
+
+#~ msgid "Not implemented yet (6)"
+#~ msgstr "Nog neit geïmplementeerd (6)"
+
+#, fuzzy
+#~ msgid "Search Photos Description"
+#~ msgstr "Foto's zoeken"
+
+#~ msgid "Photo Search"
+#~ msgstr "Foto's zoeken"
+
+#~ msgid "Photo Album Widget"
+#~ msgstr "Foto Album widget"
+
+#~ msgid "Enter the caption to be displayed for the widget."
+#~ msgstr "Voer de kopregel van de widget in."
+
+#~ msgid "- - - Breadcrumb navigation bar - - -"
+#~ msgstr "- - - Broodkruimel navigatiebalk - - -"
+
+#~ msgid "- - - Single photo - - -"
+#~ msgstr "- - - Enkele foto - - -"
+
+#~ msgid "- - - Slideshow - - -"
+#~ msgstr "- - - Diavoorstelling - - -"
+
+#~ msgid "- - - Start/stop slideshow navigation bar - - -"
+#~ msgstr "- - - Start/stop diavoorstelling balk - - -"
+
+#~ msgid "- - - Browse navigation bar - - -"
+#~ msgstr "- - - Bladeren navigatiebalk - - -"
+
+#~ msgid "- - - Filmstrip - - -"
+#~ msgstr "- - - Filmstrip - - -"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Not Found"
+#~ msgstr "Bestand niet gevonden"
+
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+
+#~ msgid "This gallery contains <a %1$s>%2$s photos</a>."
+#~ msgstr "This gallery contains <a %1$s>%2$s photos</a>."
+
+#~ msgid "More Galleries"
+#~ msgstr "More Galleries"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Posted in</span> %2$s"
+
+#~ msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Tagged</span> %2$s"
+
+#~ msgid "pixels wide or high, whichever is the largest."
+#~ msgstr "pixels breed of hoog, welke de grootste is."
+
+#~ msgid "Select the album that contains the widget photos."
+#~ msgstr "Selecteer het album waar de widget foto's in staan."
+
+#~ msgid "or have a feature request, please contact me via my"
+#~ msgstr ""
+#~ "of als u een verzoek voor nieuwe functionaliteit heeft, neem dan svp "
+#~ "contact met mij op via mijn"
+
+#~ msgid "You may also check the"
+#~ msgstr "U kunt ook het"
+
+#~ msgid "for this plugin and/or leave a question there."
+#~ msgstr "voor deze plugin bekijken en/of er een vraag achter laten."
+
+#~ msgid "For hot fixes check the"
+#~ msgstr "Voor de laatste wijzigingen zie de"
+
+#~ msgid "for this plugin."
+#~ msgstr "voor deze plugin."
+
+#~ msgid "You may also visit the"
+#~ msgstr "U kunt ook bezoeken:"
+
+#~ msgid "that also contains the"
+#~ msgstr ". Tevens vindt u hier de"
+
+#~ msgid "If you love this plugin, I would appreciate a donation, either in"
+#~ msgstr "Als u deze plugin waardeert, dan ontvang ik gaarne een donatie in"
+
+#~ msgid "or in"
+#~ msgstr "of in"
+
+#~ msgid ""
+#~ "Specify the vertical alignment of fullsize images. Use this setting only "
+#~ "when albums contain both portrait and landscape photos."
+#~ msgstr ""
+#~ "Geef de verticale uitlijningsmethode aan. Gebruik deze instelling alleen "
+#~ "wanneer albums zowel liggende als staande foto's bevatten."
+
+#~ msgid "Slideshow:"
+#~ msgstr "Diavoorstelling:"
+
+#~ msgid "The Fullsize images settings above also apply to this section."
+#~ msgstr ""
+#~ "De instellingen hierboven voor volledige grootte foto's zijn ook hier van "
+#~ "toepassing."
+
+#~ msgid ""
+#~ "First de-activate WP Photo Album before activating WP Photo Album Plus!!"
+#~ msgstr ""
+#~ "De-activeer WP Photo Album eerst voordat u WP Photo Album Plus activeert!!"
+
+#~ msgid "YOU CAN NOT RUN BOTH VERSIONS AT THE SAME TIME!!"
+#~ msgstr "U KUNT NIET BEIDE VERSIES TEGELIJK DRAAIEN!!"
+
+#~ msgid "The existing database and albums and photos will be preserved."
+#~ msgstr "De bestaande database en albums en foto's blijven bewaard."
+
+#~ msgid "YOU DO NOT NEED TO RE-UPLOAD YOUR PHOTOS"
+#~ msgstr "U HOEFT UW FOTO'S NIET OPNIEUW TE UPLOADEN"
+
+#~ msgid ""
+#~ "You will need to use (and probably modify) the newly supplied default "
+#~ "theme file \"wppa_theme.php\"."
+#~ msgstr ""
+#~ "U zult het nieuwe standaard thema bestand \"wppa_theme.php\" moeten "
+#~ "gebruiken en eventueel aanpassen."
+
+#~ msgid ""
+#~ "You can use existing albums to make sub-albums, simply by specifying in "
+#~ "which album they belong."
+#~ msgstr ""
+#~ "U kunt bestaande albums gebruiken om sub-albums te maken, eenvoudig door "
+#~ "aan te geven in welk album ze thuishoren."
+
+#~ msgid "contents"
+#~ msgstr "inhoud"
+
+#~ msgid "of album nr 19."
+#~ msgstr "van album nr. 19."
+
+#~ msgid "\"cover\""
+#~ msgstr "\"omslag\""
+
+#~ msgid ""
+#~ "Alternatively, you can create an extra album (say it has number 22) and "
+#~ "set the \"parent\" property of album 19 to this new album. Then your "
+#~ "second line should read:"
+#~ msgstr ""
+#~ "Een andere methode is om een extra album aan te maken (zeg nummer 22) en "
+#~ "dan het \"Moederalbum\" van album 19 op dit nieuwe album te zetten. In "
+#~ "dat geval wordt de tweede regel:"
+
+#~ msgid ""
+#~ "This method enables you to add more than one album to a specific page or "
+#~ "post as long as they have the same parent."
+#~ msgstr ""
+#~ "Deze methode maakt het mogelijk meer dan één album in een bepaalde pagina "
+#~ "of post op te nemen, als ze maar dezelfe \"Moeder\" hebben."
+
+#~ msgid ""
+#~ "Additionally, if you set the parent of this album (nr 22 in this example) "
+#~ "to \"--- separate ---\", it will not be listed in the \"generic\" photo "
+#~ "gallery and the breadcrumb will display the best."
+#~ msgstr ""
+#~ "Bovendien, als u de \"Moeder\" van dit album (nr 22 in dit voorbeeld) op "
+#~ "\"--- afzonderlijk ---\" zet, wordt het album niet getoond in de \"gewone"
+#~ "\" foto gallerij, en wordt de \"breadcrumb\" het best weergegeven."
+
+#~ msgid "You can combine the above as follows: (example)"
+#~ msgstr "U kunt het bovenstaande als volgt combineren: (voorbeeld)"
+
+#~ msgid "An album can have only <b>ONE</b> parent."
+#~ msgstr "Een album kan maar <b>EEN</b> moeder album hebben."
+
+#~ msgid ""
+#~ "Use the default page template, or create one yourself. In this case, "
+#~ "study the example (actually the version i use myself): <tt>...wp-content/"
+#~ "plugins/wp-photo-album-plus/examples/page-photo-album.php</tt>"
+#~ msgstr ""
+#~ "Gebruik de standaard pagina sjabloon, of maak er zelf een. Bestudeer (en/"
+#~ "of wijzig) in dat geval mijn versie: <tt>...wp-content/plugins/wp-photo-"
+#~ "album-plus/examples/page-photo-album.php</tt>"
+
+#~ msgid ""
+#~ "WPPA uses a system of tags similar to the WordPress theme system. To view "
+#~ "a list of available tags, please read tags.txt"
+#~ msgstr ""
+#~ "WPPA gebruikt een systeem van 'tags' vergelijkbaar met het WordPress "
+#~ "thema systeem. De beschikbare tags worden gedokumenteerd in tags.txt"
+
+#~ msgid "fast"
+#~ msgstr "snel"
+
+#~ msgid "normal"
+#~ msgstr "normaal"
+
+#~ msgid ""
+#~ "The size of the full images is controled with html, the photo itself will "
+#~ "not be resized unless you check the 'Resize on Upload' box."
+#~ msgstr ""
+#~ "De afmeting van de Volledige grootte wordt bepaald door html. De foto "
+#~ "zelf wordt niet gewijzigd tenzij u de 'Tijdens upload aanpassen' box "
+#~ "aanvinkt."
+
+#, fuzzy
+#~ msgid "Import Photot"
+#~ msgstr "Omslag foto:"
+
+#~ msgid "please wait."
+#~ msgstr "even geduld a.u.b."
+
+#~ msgid "HERE"
+#~ msgstr "HIER"
+
+#~ msgid "Filetype not supported. Thumbnail not created."
+#~ msgstr ""
+#~ "Bestandstype wordt niet indersteund. Miniatuur afbeelding niet aangemaakt"
+
+#~ msgid "Thumbnail path invalid"
+#~ msgstr "Het pad naar de miniatuurafbeelding is ongeldig"
+
+#~ msgid ""
+#~ "You can not change the parent of an album that contains sub albums.&nbsp;"
+#~ msgstr ""
+#~ "U kunt de moeder niet wijzigen van een album dat sub-albums bevat.&nbsp;"
+
+#~ msgid ""
+#~ "This is to prevent circular references. Change the sub albums parent id "
+#~ "first."
+#~ msgstr ""
+#~ "Dat is om te voorkomen dat er cyclische verwijzingen ontstaan. Verander "
+#~ "eerst de moeder van de sub-albums."
+
+#~ msgid ""
+#~ "To avoid excessive newlines in your page or post you may combine the "
+#~ "above to something like:"
+#~ msgstr ""
+#~ "Om overbodige lege regels te voorkomen kan het bovenstaande worden "
+#~ "gecombineerd tot bijvoorbeeld:"
+
+#~ msgid ""
+#~ "There can be only <b>ONE</b> occurence of <tt>%%wppa%%</tt> in a page or "
+#~ "post. If you want more than one, make them siblings and refer to the "
+#~ "parent album. This is a permanent restriction."
+#~ msgstr ""
+#~ "Er kan maar <b>EEN</b> keer <tt>%%wppa%%</tt> in een post of pagina "
+#~ "voorkomen. Als u er meer wilt, geef ze dan hetzelfde moederalbum en "
+#~ "gebruik dat album. Dit is een permanente beperking."
+
+#~ msgid "Please supply a numeric value for Thumbnail size."
+#~ msgstr "Geef a.u.b. een getal op voor de Miniatuurgrootte."
+
+#~ msgid "Please supply a numeric value for Photocount treshold."
+#~ msgstr "Geef a.u.b. een getal op voor de Drempelwaarde."
+
+#~ msgid "Please supply a numeric value for Widget Photo Width."
+#~ msgstr "Geef a.u.b. een getal op voor de Widget Foto breedte."
+
+#~ msgid "Photo not found (2)"
+#~ msgstr "Foto niet gevonden (2)"
+
+#~ msgid "Unknown album (2)"
+#~ msgstr "Onbekend album (2)"
+
+#~ msgid "Photo not found (3)"
+#~ msgstr "Foto niet gevonden (3)"
+
+#~ msgid "Unknown album (3)"
+#~ msgstr "Onbekend album (3)"
+
+#~ msgid "Photo not found (4)"
+#~ msgstr "Foto niet gevonden (4)"
+
+#~ msgid "Unknown album (4)"
+#~ msgstr "Onbekend album (4)"
+
+#~ msgid "Scrollable"
+#~ msgstr "Verschuifbaaar"
+
+#~ msgid ""
+#~ "Update this page after changing \"Use album\" or \"Display method\" above!"
+#~ msgstr ""
+#~ "Werk deze pagina bij nadat \"Gebruik album\" of \"Afbeeldings methode\" "
+#~ "hierboven is gewijzigd!"
+
+#~ msgid "Options"
+#~ msgstr "Instellingen"
+
+#~ msgid "Minimal photocount:"
+#~ msgstr "Minimaal aantal foto's:"

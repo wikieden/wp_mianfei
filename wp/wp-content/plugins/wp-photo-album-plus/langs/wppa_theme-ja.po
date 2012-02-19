@@ -1,0 +1,2761 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Photo Album Plus 2.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-08 13:08+0100\n"
+"PO-Revision-Date: 2012-02-08 13:08+0100\n"
+"Last-Translator: J.N. Breetvelt <OpaJaap@OpaJaap.nl>\n"
+"Language-Team: BNG NET <webmaster@bng.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Bookmarks: -1,157,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-KeywordsList: __a\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: theme\n"
+
+#: wppa-comment-widget.php:25
+#, fuzzy
+msgid "Comments on Photos"
+msgstr "評価の高い写真"
+
+#: wppa-comment-widget.php:78
+msgid "Photo not found."
+msgstr "写真が見当たりません。"
+
+#: wppa-common-functions.php:482
+#, php-format
+msgid "Rating: %s"
+msgstr "投票: %s"
+
+#: wppa-common-functions.php:547
+msgid "--- none ---"
+msgstr "--- なし ---"
+
+#: wppa-common-functions.php:548
+msgid "--- separate ---"
+msgstr "--- セパレート---"
+
+#: wppa-common-functions.php:658
+msgid "1 second"
+msgstr ""
+
+#: wppa-common-functions.php:659
+msgid "seconds"
+msgstr ""
+
+#: wppa-common-functions.php:663
+msgid "1 minute"
+msgstr ""
+
+#: wppa-common-functions.php:664
+msgid "minutes"
+msgstr ""
+
+#: wppa-common-functions.php:668
+#, fuzzy
+msgid "1 hour"
+msgstr "時。"
+
+#: wppa-common-functions.php:669
+#, fuzzy
+msgid "hours"
+msgstr "時。"
+
+#: wppa-common-functions.php:673
+#, fuzzy
+msgid "1 day"
+msgstr "日。"
+
+#: wppa-common-functions.php:674
+#, fuzzy
+msgid "days"
+msgstr "日。"
+
+#: wppa-common-functions.php:678
+#, fuzzy
+msgid "1 week"
+msgstr "週。"
+
+#: wppa-common-functions.php:679
+#, fuzzy
+msgid "weeks"
+msgstr "週。"
+
+#: wppa-common-functions.php:683
+#, fuzzy
+msgid "1 month"
+msgstr "1件のコメント"
+
+#: wppa-common-functions.php:684
+msgid "months"
+msgstr ""
+
+#: wppa-common-functions.php:687
+msgid "1 year"
+msgstr ""
+
+#: wppa-common-functions.php:688
+msgid "years"
+msgstr ""
+
+#: wppa-functions.php:30
+msgid "There are"
+msgstr " "
+
+#: wppa-functions.php:30
+msgid "photo albums. The last album added is"
+msgstr "件のフォトアルバムがあります。最新のアルバムは"
+
+#: wppa-functions.php:34
+msgid ", a subalbum of"
+msgstr "、次のアルバムのサブアルバム: "
+
+#: wppa-functions.php:89
+msgid "Home"
+msgstr "ホーム"
+
+#: wppa-functions.php:135
+#: wppa-functions.php:2421
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: wppa-functions.php:142
+msgid "Searchstring:"
+msgstr "検索文字:"
+
+#: wppa-functions.php:145
+msgid "Top rated photos"
+msgstr "評価の高い写真"
+
+#: wppa-functions.php:148
+msgid "Recently commented photos"
+msgstr ""
+
+#: wppa-functions.php:1021
+msgid "<b>ERROR: Attempt to enter an invalid rating.</b>"
+msgstr "<b>エラー: 不当な評価の入力が試みられました。</b>"
+
+#: wppa-functions.php:1150
+msgid "Comment edited"
+msgstr ""
+
+#: wppa-functions.php:1153
+msgid "Comment added"
+msgstr ""
+
+#: wppa-functions.php:1159
+#, fuzzy
+msgid "Could not process comment"
+msgstr "写真が更新できません。"
+
+#: wppa-functions.php:1207
+msgid "wrote:"
+msgstr ""
+
+#: wppa-functions.php:1245
+#, fuzzy
+msgid "Edit!"
+msgstr "編集"
+
+#: wppa-functions.php:1249
+msgid "Send!"
+msgstr ""
+
+#: wppa-functions.php:1278
+#, fuzzy
+msgid "Your name:"
+msgstr "あるいは:"
+
+#: wppa-functions.php:1283
+msgid "Your email:"
+msgstr ""
+
+#: wppa-functions.php:1288
+#, fuzzy
+msgid "Your comment:"
+msgstr "%件のコメント"
+
+#: wppa-functions.php:1297
+#, fuzzy
+msgid "You must login to enter a comment"
+msgstr "投票にはログインが必須"
+
+#: wppa-functions.php:1304
+#, fuzzy, php-format
+msgid "%d  comments"
+msgstr "%件のコメント"
+
+#: wppa-functions.php:1308
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: wppa-functions.php:1344
+msgid "Show IPTC data"
+msgstr ""
+
+#: wppa-functions.php:1347
+msgid "Hide IPTC data"
+msgstr ""
+
+#: wppa-functions.php:1375
+msgid "No IPTC data"
+msgstr ""
+
+#: wppa-functions.php:1408
+msgid "Show EXIF data"
+msgstr ""
+
+#: wppa-functions.php:1411
+msgid "Hide EXIF data"
+msgstr ""
+
+#: wppa-functions.php:1439
+msgid "No EXIF data"
+msgstr ""
+
+#: wppa-functions.php:1782
+#: wppa-functions.php:1783
+msgid "Prev.&nbsp;page"
+msgstr "前の&nbsp;ページ"
+
+#: wppa-functions.php:1787
+#: wppa-functions.php:1788
+msgid "Next&nbsp;page"
+msgstr "次の&nbsp;ページ"
+
+#: wppa-functions.php:2084
+#, fuzzy
+msgid "<b>ERROR: Illegal attempt to enter a rating.</b>"
+msgstr "<b>エラー: 不当な評価の入力が試みられました。</b>"
+
+#: wppa-functions.php:2097
+#, fuzzy
+msgid "<b>ERROR: Illegal attempt to enter a comment.</b>"
+msgstr "<b>エラー: 不当な評価の入力が試みられました。</b>"
+
+#: wppa-functions.php:2312
+msgid "Link to"
+msgstr "リンク先:"
+
+#: wppa-functions.php:2336
+#: wppa-functions.php:2432
+msgid "View the album"
+msgstr "アルバムの閲覧"
+
+#: wppa-functions.php:2341
+msgid "View the cover photo"
+msgstr "カバーフォトの閲覧"
+
+#: wppa-functions.php:2342
+msgid "View the cover photos"
+msgstr "カバーフォトの閲覧 "
+
+#: wppa-functions.php:2421
+msgid "Browse photos"
+msgstr "写真をブラウズ"
+
+#: wppa-functions.php:2433
+msgid "View"
+msgstr "閲覧"
+
+#: wppa-functions.php:2436
+msgid "album"
+msgstr "アルバム "
+
+#: wppa-functions.php:2439
+msgid "albums"
+msgstr "アルバム"
+
+#: wppa-functions.php:2443
+msgid "and"
+msgstr "および"
+
+#: wppa-functions.php:2447
+msgid "photo"
+msgstr "写真 "
+
+#: wppa-functions.php:2450
+msgid "photos"
+msgstr "写真"
+
+#: wppa-functions.php:2844
+#, fuzzy
+msgid "Double click to start/stop slideshow running"
+msgstr "スライドショーの開始:"
+
+#: wppa-functions.php:3760
+#: wppa-functions.php:3766
+#, fuzzy
+msgid "Upload Photo"
+msgstr "写真のアップロード"
+
+#: wppa-functions.php:3775
+msgid "Apply watermark file:"
+msgstr ""
+
+#: wppa-functions.php:3783
+#, fuzzy
+msgid "Position:"
+msgstr "説明:"
+
+#: wppa-functions.php:3792
+#, fuzzy
+msgid "Enter/modify photo description"
+msgstr "このアルバムの説明の入力／編集"
+
+#: wppa-functions.php:3816
+#, fuzzy
+msgid "<b>ERROR: Illegal attempt to upload a file.</b>"
+msgstr "<b>エラー: 不当な評価の入力が試みられました。</b>"
+
+#: wppa-functions.php:3823
+#, fuzzy
+msgid "Error during upload"
+msgstr "写真の挿入中にエラー:"
+
+#: wppa-functions.php:3828
+msgid "Uploaded file is not an image"
+msgstr ""
+
+#: wppa-functions.php:3832
+msgid "Only gif, jpg and png image files are supported"
+msgstr ""
+
+#: wppa-non-admin.php:95
+msgid "Image"
+msgstr ""
+
+#: wppa-non-admin.php:96
+#: wppa-non-admin.php:163
+msgid "of"
+msgstr "/"
+
+#: wppa-non-admin.php:160
+#: wppa-slideshow.php:86
+msgid "Start"
+msgstr "開始"
+
+#: wppa-non-admin.php:161
+msgid "Stop"
+msgstr "停止"
+
+#: wppa-non-admin.php:162
+msgid "Photo"
+msgstr "写真"
+
+#: wppa-non-admin.php:164
+#, fuzzy
+msgid "Previous photo"
+msgstr "写真をブラウズ"
+
+#: wppa-non-admin.php:165
+#, fuzzy
+msgid "Next photo"
+msgstr "次の&nbsp;写真"
+
+#: wppa-non-admin.php:166
+#, fuzzy
+msgid "Prev."
+msgstr "ここ"
+
+#: wppa-non-admin.php:167
+msgid "Next"
+msgstr ""
+
+#: wppa-non-admin.php:171
+msgid "Please enter your name"
+msgstr ""
+
+#: wppa-non-admin.php:172
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: wppa-non-admin.php:173
+#, fuzzy
+msgid "Please enter a comment"
+msgstr "コメントを残す"
+
+#: wppa-slideshow-widget.php:109
+msgid "No album defined yet."
+msgstr "アルバムが定義されていません。"
+
+#: wppa-slideshow.php:85
+msgid "Slower"
+msgstr "遅く"
+
+#: wppa-slideshow.php:87
+msgid "Faster"
+msgstr "速く"
+
+#: wppa-slideshow.php:105
+msgid "To see the full size images, you need to enable javascript in your browser."
+msgstr ""
+
+#: wppa-slideshow.php:190
+msgid "- - - Rating enabled - - -"
+msgstr "- - - 評価有効 - - -"
+
+#: wppa-slideshow.php:199
+msgid "very low"
+msgstr "非常に低い"
+
+#: wppa-slideshow.php:200
+msgid "low"
+msgstr "低い"
+
+#: wppa-slideshow.php:201
+msgid "average"
+msgstr "平均"
+
+#: wppa-slideshow.php:202
+msgid "high"
+msgstr "高い"
+
+#: wppa-slideshow.php:203
+msgid "very high"
+msgstr "非常に高い"
+
+#: wppa-slideshow.php:210
+#: wppa-slideshow.php:214
+msgid "Average&nbsp;rating"
+msgstr "平均&nbsp;評価"
+
+#: wppa-slideshow.php:222
+#: wppa-slideshow.php:226
+#: wppa-slideshow.php:230
+msgid "My&nbsp;rating"
+msgstr "わたしの&nbsp;評価"
+
+#: wppa-slideshow.php:233
+msgid "You must login to vote"
+msgstr "投票にはログインが必須"
+
+#: wppa-slideshow.php:395
+#, php-format
+msgid "Photo %s of %s"
+msgstr ""
+
+#: wppa-slideshow.php:423
+msgid "Click to start/stop"
+msgstr ""
+
+#: wppa-slideshow.php:435
+#, fuzzy
+msgid "- - - Comments box activated - - -"
+msgstr "- - - 評価有効 - - -"
+
+#: wppa-slideshow.php:456
+#, fuzzy
+msgid "- - - IPTC box activated - - -"
+msgstr "- - - 評価有効 - - -"
+
+#: wppa-slideshow.php:477
+#, fuzzy
+msgid "- - - EXIF box activated - - -"
+msgstr "- - - 評価有効 - - -"
+
+#: wppa-topten-widget.php:26
+#, fuzzy
+msgid "Top Ten Photos"
+msgstr "評価の高い写真"
+
+#: wppa-topten-widget.php:51
+#, fuzzy
+msgid "View the top rated photos"
+msgstr "カバーフォトの閲覧 "
+
+#: theme/wppa-theme.php:80
+msgid "No albums or photos found matching your search criteria."
+msgstr "検索条件に見合ったアルバムや写真は見あたりません。"
+
+#~ msgid "Page is not available."
+#~ msgstr "ページが利用できません。"
+
+#~ msgid "Photo Of The Day"
+#~ msgstr "本日の写真"
+
+#~ msgid "Sidebar Slideshow"
+#~ msgstr "サイドバースライドショー"
+
+#~ msgid "Prev.&nbsp;photo"
+#~ msgstr "前の&nbsp;写真"
+
+#~ msgid "s"
+#~ msgstr "s"
+
+#~ msgid ""
+#~ "Recommended values: 86 for a two column and 56 for a three column display."
+#~ msgstr "推奨値: 2 カラム表示の場合は 86、3 カラムなら 56。"
+
+#~ msgid "this is a minimum. Space them equally."
+#~ msgstr "最小にします。全て同じ間隔にする。"
+
+#~ msgid ""
+#~ "This also applies for 'thumbnails as covers', and will NOT apply to "
+#~ "single items."
+#~ msgstr ""
+#~ "これは「カバーのサムネイル」にも適用されますが、単一アイテムには適用しませ"
+#~ "ん。"
+
+#~ msgid ""
+#~ "Display covers in 2 or 3 columns if the display area is wider or equal to "
+#~ "the number of pixels entered."
+#~ msgstr ""
+#~ "表示エリアが入力したピクセル値と同等以上なら 2 または 3 カラムでカバーを表"
+#~ "示します。"
+
+#~ msgid "Minimum width for 3 columns:"
+#~ msgstr "3 カラムの場合の最小幅:"
+
+#~ msgid "Minimum width for 2 columns:"
+#~ msgstr "2 カラムの場合の最小幅:"
+
+#~ msgid "Columns:"
+#~ msgstr "カラム"
+
+#~ msgid "Widget title"
+#~ msgstr "ウィジェットのタイトル"
+
+#~ msgid "Reset all ratings:"
+#~ msgstr "全投票のリセット:"
+
+#~ msgid "Enter the title and the url. Do'nt forget the HTTP://"
+#~ msgstr "タイトルとURlを入力してください。HTTP://をお忘れなく"
+
+#~ msgid "Type your custom url here"
+#~ msgstr "カスタムURLを入力してください"
+
+#~ msgid "Url:"
+#~ msgstr "URL:"
+
+#~ msgid "Type the title here"
+#~ msgstr "タイトルを入力してください"
+
+#~ msgid "Title:"
+#~ msgstr "タイトル:"
+
+#~ msgid "Custom link:"
+#~ msgstr "カスタムリンク:"
+
+#~ msgid "Select --- url --- to enter a custom link."
+#~ msgstr "カスタムリンク先を指定するには、「--- url ---」を選択してください。"
+
+#~ msgid "--- url ---"
+#~ msgstr "--- url ---"
+
+#~ msgid ""
+#~ "In rare cases you might need to change this setting. If you do not know "
+#~ "what this means, leave it unchanged."
+#~ msgstr ""
+#~ "稀にこの設定の変更が必要な場合があります。意味がよくわからなければ「現状の"
+#~ "まま変更しない」をチェックしておいてください。"
+
+#~ msgid "Leave unchanged."
+#~ msgstr "現状のまま変更しない。"
+
+#~ msgid "Directory access (CHMOD):"
+#~ msgstr "ディレクトリのアクセス権 (CHMOD):"
+
+#~ msgid "Font for text under thumbnails:"
+#~ msgstr "サムネイルの下に表示するテキストのフォント"
+
+#~ msgid "Display name, description and rating under thumbnails."
+#~ msgstr "サムネイルの下に名称、説明、評価を表示する"
+
+#~ msgid "Photo rating:"
+#~ msgstr "写真評価:"
+
+#~ msgid "Select the page the top ten photos links to."
+#~ msgstr "トップ10写真のリンク先ページを選択してください。"
+
+#~ msgid ""
+#~ "Recommended values: 86 for a two column and 55 for a three column display."
+#~ msgstr "推奨値: 2コラム表示の場合は86、3コラムの場合は55。"
+
+#~ msgid "Enter the size for the mini photos in the TopTen widget."
+#~ msgstr "トップ10ウィジェットに表示するミニ写真のサイズを入力してください。"
+
+#~ msgid "Widget thumbnail size:"
+#~ msgstr "ウィジェットのサムネイルサイズ:"
+
+#~ msgid "Enter the maximum number of rated photos in the TopTen widget."
+#~ msgstr "トップ10ウィジェットに表示する写真の最大数を入力してください。"
+
+#~ msgid "Number of photos in widget:"
+#~ msgstr "ウィジェットに表示する写真の数:"
+
+#~ msgid ""
+#~ "Enter/modify the title for the widget. This is a default and can be "
+#~ "overriden at widget activation."
+#~ msgstr ""
+#~ "ウィジェットのタイトルを入力／変更してください。入力値はデフォルトとして"
+#~ "ウィジェット有効時に適用されます。"
+
+#~ msgid "Top Ten Widget:"
+#~ msgstr "トップ10ウィジェット:"
+
+#~ msgid "WARNING: If checked, this will clear all ratings in the system!"
+#~ msgstr "警告: チェックすると全ての投票結果が消去されます！"
+
+#~ msgid "Please supply additional settings for the rating system."
+#~ msgstr "投票システムに適用する設定を選んでください。"
+
+#~ msgid ""
+#~ "Users may give multiple votes. (This has no effect when users may change "
+#~ "their votes.)"
+#~ msgstr "複数回投票できる。（あとから変更可能な場合は意味なし）"
+
+#~ msgid "Users may change their ratings."
+#~ msgstr "投票内容はあとから変更できる。"
+
+#~ msgid "Rating options:"
+#~ msgstr "投票オプション:"
+
+#~ msgid "If checked, the photo rating system will be enabled."
+#~ msgstr "チェックすると写真の投票システムが有効になります。"
+
+#~ msgid "Enable rating system:"
+#~ msgstr "投票システムの有効化:"
+
+#~ msgid "Rating system"
+#~ msgstr "投票システム"
+
+#~ msgid "Export Photos"
+#~ msgstr "写真のエクスポート"
+
+#~ msgid "Successfully created wppa user depot directory."
+#~ msgstr "wppaのユーザ用「デポ」ディレクトリを作成しました。"
+
+#~ msgid "Unable to create user depot directory"
+#~ msgstr "ユーザ用「デポ」ディレクトリは作成できませんでした。"
+
+#~ msgid "Could not create the wppa thumbs directory."
+#~ msgstr "「wppa/thumbs」ディレクトリは作成できませんでした。"
+
+#~ msgid "Could not create the wppa directory."
+#~ msgstr "「wppa」ディレクトリは作成できませんでした。"
+
+#~ msgid ""
+#~ "The uploads directory does not exist, please do a regular WP upload first."
+#~ msgstr ""
+#~ "「uploads」ディレクトリが存在しません。まず最初に通常のアップロード方法を"
+#~ "お試しください。"
+
+#~ msgid "Could not recover orphanized photos."
+#~ msgstr "オーファンフォトは回復できませんでした。"
+
+#~ msgid "Orphan Photos"
+#~ msgstr "オーファンフォト"
+
+#~ msgid "Could not create album: Orphan Photos"
+#~ msgstr "アルバムが作成できませんでした: オーファンフォト"
+
+#~ msgid "ERROR: Unknown file or album."
+#~ msgstr "【エラー】不明なファイルまたはアルバムです。"
+
+#~ msgid "ERROR: Resized or copied image could not be created."
+#~ msgstr ""
+#~ "【エラー】サイズを調整したか、または、コピーした画像を作成できませんでし"
+#~ "た。"
+
+#~ msgid "Could not insert photo. query="
+#~ msgstr "写真が挿入できません。query="
+
+#~ msgid "Unsupported mime type encountered:"
+#~ msgstr "サポート外のmimeタイプです:"
+
+#~ msgid "ERROR: Unable to retrieve immage size of"
+#~ msgstr "【エラー】次の画像のサイズが取得できません："
+
+#~ msgid ""
+#~ "Error inserting photo, album %1s does not exist for photo %2s. Either "
+#~ "create the album or remove %3s."
+#~ msgstr ""
+#~ "写真の挿入中にエラー。写真「%2s」用のアルバム「%1s」が存在しません。アルバ"
+#~ "ムを作成するか、%3sを削除してください。"
+
+#~ msgid "Failed to extract"
+#~ msgstr "抽出失敗"
+
+#~ msgid ""
+#~ "If you select --- none ---, the photos will not be centered horizontally "
+#~ "either."
+#~ msgstr ""
+#~ "--- なし --- を選択すると、画像は横方向に対しても中央揃えにはなりません。"
+
+#~ msgid ""
+#~ "An image will be scaled automatically if you set the navigation font size."
+#~ msgstr ""
+#~ "ナビゲーションのフォントサイズを設定すれば、画像は自動的にサイズ調整されま"
+#~ "す。"
+
+#~ msgid "A text string may contain valid html."
+#~ msgstr "テキストにはHTMLが使えます。"
+
+#~ msgid "Select the desired breadcrumb separator element."
+#~ msgstr "パンくずのセパレータにしたいものを選択してください。"
+
+#~ msgid "Image (url):"
+#~ msgstr "画像(url):"
+
+#~ msgid "Text (html):"
+#~ msgstr "テキスト(html):"
+
+#~ msgid "Separator:"
+#~ msgstr "セパレータ:"
+
+#~ msgid "Admin pages access:"
+#~ msgstr "管理ページアクセス権:"
+
+#~ msgid ""
+#~ "Users can give their albums to another user. Administrators can change "
+#~ "ownership and access all albums always."
+#~ msgstr ""
+#~ "ユーザは他のユーザにアルバムを渡すことができます。管理者は所有権を変更する"
+#~ "ことができるほか、いつでも全てのアルバムにアクセスできます。"
+
+#~ msgid ""
+#~ "If checked, users who can edit albums and upload/import photos can do "
+#~ "that with their own albums only."
+#~ msgstr ""
+#~ "チェックすると、アルバムの編集や写真のアップロード／インポートが許可されて"
+#~ "いるユーザに対し、そのような操作を自分の所有するアルバムに限定します。"
+
+#~ msgid "Limit album access to album owners only."
+#~ msgstr "アルバムアクセス権をアルバム所有者に限定する。"
+
+#~ msgid "Album access:"
+#~ msgstr "アルバムアクセス権:"
+
+#~ msgid ""
+#~ "If you select --- none ---, the photos will not be centered horizontally "
+#~ "either.'"
+#~ msgstr ""
+#~ "--- なし --- を選択すると、水平方向に対しても中央寄せにはなりません。"
+
+#~ msgid "pixels high."
+#~ msgstr "ピクセルの高さ"
+
+#~ msgid "pixels wide,"
+#~ msgstr "ピクセルの幅"
+
+#~ msgid "- all albums except -separate-"
+#~ msgstr "- アルバムのうち - セパレート - 以外全て -"
+
+#~ msgid "- all -separate- albums -"
+#~ msgstr "- アルバムのうち - セパレート - 全て -"
+
+#~ msgid "- select album(s) -"
+#~ msgstr "- アルバムの選択 -"
+
+#~ msgid ""
+#~ "Select or edit the album(s) you want to use the photos of for the widget."
+#~ msgstr ""
+#~ "ウィジェット用に使用する写真のアルバムを選択または編集してください。"
+
+#~ msgid "Update thumbnails"
+#~ msgstr "サムネイル更新"
+
+#~ msgid "Or Edit:"
+#~ msgstr "または編集:"
+
+#~ msgid "Select:"
+#~ msgstr "選択:"
+
+#~ msgid "Use album(s):"
+#~ msgstr "使用するアルバム"
+
+#~ msgid "Edit Album Information"
+#~ msgstr "アルバム情報の編集"
+
+#~ msgid "--- no link at all ---"
+#~ msgstr "--- リンクなし ---"
+
+#~ msgid "Miscellaneous:"
+#~ msgstr "その他:"
+
+#~ msgid ""
+#~ "Check this if you do NOT want to link the thumbnails to fullsize images."
+#~ msgstr ""
+#~ "サムネイルをフルサイズの画像へリンクしたく<b>ない</b>ときにチェックしてく"
+#~ "ださい。"
+
+#~ msgid "No links:"
+#~ msgstr "リンクなし:"
+
+#~ msgid "Photocount threshold:"
+#~ msgstr "フォトカウントしきい値"
+
+#~ msgid "very slow (2 s.)"
+#~ msgstr "非常に遅い(2 s.)"
+
+#~ msgid "short (1.5 s.)"
+#~ msgstr "短い(1.5 s.)"
+
+#~ msgid ""
+#~ "Additionaly indicate if you want the wrap-around point to be visible in "
+#~ "the filmstrip."
+#~ msgstr ""
+#~ "また、フィルムストリップの周りにあるラップアラウンドを表示するかどうかを指"
+#~ "定します。"
+
+#~ msgid "Show seam between end and start of film:"
+#~ msgstr "フィルムの最初と最後の間につなぎ目を表示する"
+
+#~ msgid "Indicate the placement position of the coverphoto you wish."
+#~ msgstr "カバーフォトの配置場所を指定してください。"
+
+#~ msgid "Indicate the placement position of the thumbnailphoto you wish."
+#~ msgstr "サムネイル画像の配置場所を指定してください。"
+
+#~ msgid "Left"
+#~ msgstr "左"
+
+#~ msgid "Placement:"
+#~ msgstr "配置"
+
+#~ msgid "Stretch to fit:"
+#~ msgstr "フルサイズに拡大:"
+
+#~ msgid "Padding top/left:"
+#~ msgstr "パディング上／左(padding-top、padding-left)"
+
+#~ msgid "Done. No errors found. Have a nice upload!"
+#~ msgstr "完了。エラーはありません。安心してアップロードしてください!"
+
+#~ msgid "missing file extensions recovered."
+#~ msgstr "件の消失したファイル拡張子を回復しました。"
+
+#~ msgid "invalid entries remooved:"
+#~ msgstr "件の不正なエントリを削除しました:"
+
+#~ msgid "Database fixed."
+#~ msgstr "データベースを修復しました。"
+
+#~ msgid ""
+#~ "Please change the name to something with the proper extension and try "
+#~ "again!"
+#~ msgstr "正しい拡張子を使った名称に変更し、もう一度お試しください。"
+
+#~ msgid "Unknown extension for photo"
+#~ msgstr "次の写真の拡張子が不明: "
+
+#~ msgid "Unable to fix extension for "
+#~ msgstr "次の拡張子の修復不可: "
+
+#~ msgid "Fixed extension for "
+#~ msgstr "次の拡張子を修復: "
+
+#~ msgid "Trying to fix "
+#~ msgstr "ファイル拡張子が消失した"
+
+#~ msgid " entries with missing file extension, Please wait."
+#~ msgstr "件のエントリの修復を試みます。しばらくお待ちください。"
+
+#~ msgid ""
+#~ "Check the 'Resize on upload' checkbox, and/or resize the photos before "
+#~ "uploading. The recommended size is: not larger than 1024 x 768 pixels (up "
+#~ "to approx. 250 kB)."
+#~ msgstr ""
+#~ "「アップロード時にサイズ調整」のチェックボックスをチェックし、および／また"
+#~ "は、アップロード前に写真のサイズを調整してください。推奨サイズ: 1024 x 768"
+#~ "ピクセル以下(最大約250Kb)。"
+
+#~ msgid ""
+#~ "WARNING You are uploading very large photos, this may result in server "
+#~ "problems and excessive download times for your website visitors."
+#~ msgstr ""
+#~ "警告: サイズがとても大きい写真をアップロードしようとしています。その結果、"
+#~ "サーバトラブルが発生したりサイト来訪者が写真をダウンロードするのに非常に時"
+#~ "間がかかったりすることがあります。"
+
+#~ msgid ""
+#~ "In that case: make sure you set the memory limit to 64M and make sure "
+#~ "your hosting provider allows you the use of 64 Mb."
+#~ msgstr ""
+#~ "その場合は、メモリ制限を64Mに設定しているかどうか、また、64Mのメモリ使用が"
+#~ "あなたに許可されているかどうかを確認してください。"
+
+#~ msgid ""
+#~ "Although the photos are resized during the upload/import process, you may "
+#~ "encounter 'Out of memory'errors."
+#~ msgstr ""
+#~ "アップロード／インポート処理中に写真のサイズ調整が行われますが、それでも"
+#~ "「メモリ不足」エラーが発生することはあります。"
+
+#~ msgid "No known valid album id to import photos to."
+#~ msgstr "写真のインポート先アルバムIDが間違っています。"
+
+#~ msgid "files imported to album number"
+#~ msgstr "件のファイルを次の番号のアルバムにインポートしました:"
+
+#~ msgid "No files to import."
+#~ msgstr "インポートするファイルがありません。"
+
+#~ msgid ""
+#~ "If the line of dots stops growing or you browser reports Ready, your "
+#~ "server has given up. In that case: try again"
+#~ msgstr ""
+#~ "ドットの動きが止まったりブラウザに準備中などの表示が出た場合は、サーバがタ"
+#~ "イムアウトしています。その際の再試行用リンク:"
+
+#~ msgid "Processing files, please wait..."
+#~ msgstr "ファイルの処理中です。しばらくお待ちください..."
+
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#~ msgid "Delete after successfull import:"
+#~ msgstr "インポートに成功したら削除する:"
+
+#~ msgid "Import photos to album:"
+#~ msgstr "写真をアルバムにインポート:"
+
+#~ msgid "Photos will be downsized during import."
+#~ msgstr "写真はインポート中にサイズダウンされます。"
+
+#~ msgid "photos in the depot."
+#~ msgstr "件の写真があります。"
+
+#~ msgid ""
+#~ "NOTE: Accessing this page - WP Photo Album Plus Settings - is always "
+#~ "priviledged to Administrators."
+#~ msgstr ""
+#~ "注意: このページ - WPフォトアルバムプラスの設定 - へのアクセスは、いかなる"
+#~ "場合も管理者に限定されます。"
+
+#~ msgid ""
+#~ "Indicate whether the accesslevels must be set by this admin page or by an "
+#~ "other program."
+#~ msgstr ""
+#~ "アクセス権をこの管理ページで設定するか、別のプログラムで設定するかを選択し"
+#~ "てください。"
+
+#~ msgid "Accesslevels are set by an other program."
+#~ msgstr "アクセス権は別のプログラムで設定する。"
+
+#~ msgid "Accesslevels are set here."
+#~ msgstr "アクセス権はここで設定する。"
+
+#~ msgid ""
+#~ "The Help page is available to users with the capability "
+#~ "<strong>edit_posts</strong>, the <strong>Settings</strong> page (the page "
+#~ "you are on right now) is limited to the role of administrator."
+#~ msgstr ""
+#~ "<strong>編集</strong>権限のあるユーザにはヘルプのページが使えます。"
+#~ "<strong>設定</strong>のページ(このページ)は管理者限定です。"
+
+#~ msgid ""
+#~ "Possible capabilities are: <strong>wppa_admin</strong> (for the Photo "
+#~ "Albums page), <strong>wppa_sidebar_admin</strong> (for the Sidebar Widget "
+#~ "page) and <strong>wppa_upload</strong> (for the Upload and Import pages)."
+#~ msgstr ""
+#~ "可能な権限: <strong>アルバム管理</strong>(フォトアルバムのページ)、"
+#~ "<strong>サイドバー管理</strong>(サイドバーウィジェットのページ)、<strong>"
+#~ "アップロード</strong>(アップロードおよびインポートのページ)。"
+
+#~ msgid ""
+#~ "If you want to give a capability to a specific user or role, you can set "
+#~ "it using an other plugin, such as <strong>Capability Manager</strong>."
+#~ msgstr ""
+#~ "特定のユーザまたはユーザの種類に任意の権限を与えたい場合は、<strong>権限マ"
+#~ "ネージャ(Capability Manager)</stron>など他のプラグインを使ってください。"
+
+#~ msgid ""
+#~ "That means that any higher userlevel (role) will automaticly get the "
+#~ "capabilities that you give to a certain (lower) level."
+#~ msgstr ""
+#~ "つまり、上位のユーザ(ユーザの種類)には自動的に任意の(下位の)ユーザの権限も"
+#~ "付与されます。"
+
+#~ msgid ""
+#~ "If you set them here, the classical userlevel is imitated, but "
+#~ "implemented by the modern Roles and Capabilities system."
+#~ msgstr ""
+#~ "ここで設定した権限は、昔のユーザの種類に似ていますが、現在使われているユー"
+#~ "ザの種類と権限によって実行されます。"
+
+#~ msgid ""
+#~ "Here you can set the capabilities that are specific for <strong>WPPA+.</"
+#~ "strong>"
+#~ msgstr ""
+#~ "ここでは、<strong>WPフォトアルバムプラス</stron>に特化した権限が設定できま"
+#~ "す。"
+
+#~ msgid "Access settings:"
+#~ msgstr "アクセス権の設定"
+
+#~ msgid "extremely slow (4 s.)"
+#~ msgstr "極めて遅い(4秒)"
+
+#~ msgid "very slow (2 s."
+#~ msgstr "非常に遅い(2秒)"
+
+#~ msgid "slow (1.2 s.)"
+#~ msgstr "遅い(1.2秒)"
+
+#~ msgid "normal (800 ms.)"
+#~ msgstr "普通(800ミリ秒)"
+
+#~ msgid "fast (400 ms.)"
+#~ msgstr "早い(400ミリ秒)"
+
+#~ msgid "very fast (200 ms.)"
+#~ msgstr "非常に早い(200ミリ秒)"
+
+#~ msgid ""
+#~ "Select the time a single slide will be visible when the slideshow is "
+#~ "started."
+#~ msgstr ""
+#~ "スライドショーを開始した時、各スライドを表示している時間を選択してくださ"
+#~ "い。"
+
+#~ msgid "very long (6 s.)"
+#~ msgstr "非常に長い(6秒)"
+
+#~ msgid "long (4 s.)"
+#~ msgstr "長い(4秒)"
+
+#~ msgid "normal (2.5 s.)"
+#~ msgstr "普通(2.5秒)"
+
+#~ msgid "short (1.5s.)"
+#~ msgstr "短い(1.5秒)"
+
+#~ msgid "very short (1 s.)"
+#~ msgstr "非常に短い (1秒)"
+
+#~ msgid "Slideshow timeout:"
+#~ msgstr "スライドショーのタイムアウト:"
+
+#~ msgid ""
+#~ "If checked: slides are faded out and in after each other. If unchecked: "
+#~ "fadin and fadeout overlap."
+#~ msgstr ""
+#~ "チェックすると、スライドが1枚ずつ交互にフェイドアウトとフェイドインを繰り"
+#~ "返します。チェックを外すと、フェイドインとフェイドアウトオーバーラップにな"
+#~ "ります。"
+
+#~ msgid "Fade-in after fade-out:"
+#~ msgstr "フェイドアウト後にフェイドインする"
+
+#~ msgid ""
+#~ "If checked: display navigation bars and/or a filmstrip over and under the "
+#~ "full-size images and slideshow."
+#~ msgstr ""
+#~ "チェックすると、ナビゲーションバーおよび／またはフィルムストリップがフルサ"
+#~ "イズ画像上とスライドショー上またはそれらの下に表示されます。"
+
+#~ msgid "Filmstrip navigator:"
+#~ msgstr "フィルムストリップナビゲータ:"
+
+#~ msgid "Start/stop slideshow bar:"
+#~ msgstr "スライドショーの開始／停止バー"
+
+#~ msgid ""
+#~ "If checked: display name and description under the full-size images and "
+#~ "slideshow."
+#~ msgstr ""
+#~ "チェックすると、名称や説明がフルサイズ画像とスライドショーの下に表示されま"
+#~ "す。"
+
+#~ msgid "Name and description:"
+#~ msgstr "名称と説明:"
+
+#~ msgid "Specify the vertical alignment of fullsize images."
+#~ msgstr "フルサイズ画像の縦方向の位置を指定してください。"
+
+#~ msgid ""
+#~ "If you select --- default ---, the photos will not be centered "
+#~ "horizontally either."
+#~ msgstr ""
+#~ "「--- デフォルト ---」にした場合、写真は水平方向に対しても中央揃えにはなり"
+#~ "ません。"
+
+#~ msgid "Full-size & Slideshow:"
+#~ msgstr "フルサイズとスライドショー:"
+
+#~ msgid "This is usually the same as the Column Width, but it may differ."
+#~ msgstr "通常はカラム幅と同じはずですが、別の数値を指定してもかまいません。"
+
+#~ msgid ""
+#~ "You may enter <b>auto</b> for use in themes that have a floating content "
+#~ "column."
+#~ msgstr ""
+#~ "カラムにfloatを指定したテーマの場合は、<b>auto</b>と入力してかまいません。"
+
+#~ msgid "General settings:"
+#~ msgstr "一般設定:"
+
+#~ msgid ""
+#~ "You may also visit the <a href=\"http://wppa.opajaap.nl/\" target=\"_blank"
+#~ "\">WPPA+ Docs & Demos site</a> that also contains the <a href=\"http://"
+#~ "wppa.opajaap.nl/?page_id=39\" target=\"_blank\">WPPA+ Tutorial</a>."
+#~ msgstr ""
+#~ "<a href=\"http://wppa.opajaap.nl/\" target=\"_blank\">WPフォトアルバムプラ"
+#~ "スのドキュメントとデモ</a>のサイトにも<a href=\"http://wppa.opajaap.nl/?"
+#~ "page_id=39\" target=\"_blank\">WPフォトアルバムプラスのチュートリアル</a>"
+#~ "があります。"
+
+#~ msgid ""
+#~ "You may combine %% items on one line like: <tt>%%wppa%% %%cover=13%% %%"
+#~ "size=250%%</tt>"
+#~ msgstr ""
+#~ "%%は1行にまとめることができます: <tt>%%wppa%% %%cover=13%% %%size=250%%</"
+#~ "tt>"
+
+#~ msgid "Use the default page template, or create one yourself."
+#~ msgstr "デフォルトのページテンプレートを使うか、自分用に作成してください。"
+
+#~ msgid ""
+#~ "Keep the sequence intact: 1. <tt>%%wppa%%</tt>, 2. <tt>%%album=</tt> or "
+#~ "<tt>%%cover=</tt> or <tt>%%slide=</tt>, 3. <tt>%%size=</tt>. (2. being "
+#~ "optional even when using 3.)."
+#~ msgstr ""
+#~ "順番を変えてはいけません: 1. <tt>%%wppa%%</tt>、2. <tt>%%album=</tt>または"
+#~ "<tt>%%cover=</tt>または<tt>%%slide=</tt>、3. <tt>%%size=</tt>。(3. を使う"
+#~ "場合であっても、2. は常にオプションです)。"
+
+#~ msgid ""
+#~ "Specifying <tt>%%slide=...</tt> causes the <b>slideshow</b> of the album "
+#~ "to be displayed."
+#~ msgstr ""
+#~ "<tt>%%slide=...</tt>とすると、アルバムの<b>スライドショー</b>が表示されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "For more information on usable php routines see the <a href=\"http://wppa."
+#~ "opajaap.nl/\">Docs & Demos</a> website."
+#~ msgstr ""
+#~ "さらに使えるPHPルーチンについては、<a href=\"http://wppa.opajaap.nl/\">ド"
+#~ "キュメントとデモ</a>のサイトを参照してください。"
+
+#~ msgid "If you want to specify a size, add another argument:"
+#~ msgstr "サイズを指定したいときは、引数は次のようになります:"
+
+#~ msgid "And to display the <b>slideshow</b> it would be:"
+#~ msgstr "<b>スライドショー</b>を表示するなら:"
+
+#~ msgid ""
+#~ "If you want the <b>cover</b> to be displayed instead, use the following "
+#~ "code:"
+#~ msgstr "代わりに<b>カバー</b>を表示したければ、コードは次のようになります:"
+
+#~ msgid "If you want to display the <b>slideshow</b> directly, use:"
+#~ msgstr "<b>スライドショー</b>を直接表示したい場合:"
+
+#~ msgid ""
+#~ "If you want to display the <b>cover</b> of the album, i.e. like one of "
+#~ "the albums in the \"Photo Gallery\" as used above, add (instead of \"%%"
+#~ "album=...\") a second line like this:"
+#~ msgstr ""
+#~ "\"フォトギャラリー\"にある例えば上で指定したアルバムの<b>カバー</b>を表示"
+#~ "したいときは、追加する2行目は(\"%%album=...\"の代わりに)次のようになりま"
+#~ "す:"
+
+#~ msgid ""
+#~ "This will result in the display of the <b>contents</b> of album nr 19."
+#~ msgstr "結果として、アルバム番号19の<b>中身</b>が表示されます。"
+
+#~ msgid ""
+#~ "You will get a one-time reminder after upgrading, the first time you open "
+#~ "a wppa admin page."
+#~ msgstr ""
+#~ "アップグレード後、最初にプラグインの管理ページを開いた際に１回だけリマイン"
+#~ "ダーが表示されます。"
+
+#~ msgid ""
+#~ "When an update implies a major or minor version change and you have "
+#~ "copied wppa_theme.php or wppa_style.css to your themes directory, you "
+#~ "will have to remove them and make new copies and/or alterations if that "
+#~ "should still be needed."
+#~ msgstr ""
+#~ "アップグレード時にメジャーまたはマイナーバージョンが変わる場合は注意が必要"
+#~ "です。それ以前のバージョンのwppa_theme.phpまたはwppa_style.cssをテーマディ"
+#~ "レクトリにコピーされている方は、これらを一旦削除し、新たにコピーし直すか、"
+#~ "従来のコピーをそのまま使い続けたい場合は、必要に応じた修正が必要となりま"
+#~ "す。"
+
+#~ msgid ""
+#~ "The revision number consists of 3 parts, Major, minor and fix revision. "
+#~ "The current version is:"
+#~ msgstr ""
+#~ "リビジョン番号は3つの部分 - メジャー、マイナー、フィックス - で構成されて"
+#~ "います。現行バージョン:"
+
+#~ msgid "When upgrading WP Photo Album Plus be aware of:"
+#~ msgstr "WPフォトアルバムプラスのアップグレード時の留意点:"
+
+#~ msgid "Upgrading WP Photo Album Plus"
+#~ msgstr "WPフォトアルバムプラスのアップグレード"
+
+#~ msgid "If you want to do it manually, follow the next steps:"
+#~ msgstr "手動でインストールしたい場合は、次の手順に従ってください:"
+
+#~ msgid "You can install the plugin via the standard WP plugins admin page."
+#~ msgstr ""
+#~ "プラグインのインストールはWP標準のプラグイン管理ページから行えます。"
+
+#~ msgid ""
+#~ "Import photos: To bulk import photos that have been uploaded by an ftp "
+#~ "program."
+#~ msgstr ""
+#~ "写真のインポート: FTPでアップロードした写真が一括でインポートできます。"
+
+#~ msgid ""
+#~ "You can add a Sidebar Search Widget that enables the visitor to search "
+#~ "for albums and photos with certan words in the name or description."
+#~ msgstr ""
+#~ "サイドバーに検索ウィジェットが追加できます。これにより、名称や説明文の中か"
+#~ "ら任意の言葉でアルバムや写真が検索できます。"
+
+#~ msgid "using an FTP program and try again."
+#~ msgstr " (FTP などを使ってもう一度お試しください)"
+
+#~ msgid "Place your photos to be imported in:"
+#~ msgstr "インポート対象の写真は次の場所に置いてください:"
+
+#~ msgid "with an ftp program and place the photos there."
+#~ msgstr "」を作成し、写真をアップロードしてください。"
+
+#~ msgid "Create"
+#~ msgstr "FTP などで「"
+
+#~ msgid "Unable to create depot directory"
+#~ msgstr "ディレクトリが作成できません"
+
+#~ msgid "Checking database, please wait..."
+#~ msgstr "データベースをチェック中。しばらくお待ちください..."
+
+#~ msgid "Check this box to use mouseover effect on thumbnail images."
+#~ msgstr ""
+#~ "ここをチェックすると、サムネイル画像にマウスオーバーした時にエフェクトを実"
+#~ "行します。"
+
+#~ msgid "There are no photos in depot:"
+#~ msgstr "次の「デポ」に写真がありません:"
+
+#~ msgid "Import Photos"
+#~ msgstr "写真のインポート"
+
+#~ msgid ""
+#~ "NOTE: Accessing this page - Settings - is always priviledged to "
+#~ "Administrators."
+#~ msgstr ""
+#~ "注意: この「設定」のページに対するアクセス権は、常に管理者にのみ限られま"
+#~ "す。"
+
+#~ msgid ""
+#~ "The minmum user level that can access the photo album sidebar widget "
+#~ "admin."
+#~ msgstr ""
+#~ "フォトアルバムのサイドバーウィジェット管理にアクセスできる最低ユーザレベ"
+#~ "ル。"
+
+#~ msgid "Sidebar Access Level:"
+#~ msgstr "サイドバーアクセス権:"
+
+#~ msgid "The minmum user level that can upload photos."
+#~ msgstr "写真がアップロードできる最低ユーザレベル。"
+
+#~ msgid "Upload Access Level:"
+#~ msgstr "アップロードアクセス権:"
+
+#~ msgid ""
+#~ "The minmum user level that can access the photo album admin (i.e. Manage "
+#~ "Albums and Upload Photos)."
+#~ msgstr ""
+#~ "フォトアルバムの管理（アルバムの管理と写真のアップロード）にアクセスできる"
+#~ "最低ユーザレベル。"
+
+#~ msgid "Albums Access Level:"
+#~ msgstr "アルバムアクセス権:"
+
+#~ msgid ""
+#~ "When checked, albums (and photos in them) that have the parent set to --- "
+#~ "separate --- will be excluded from being searched."
+#~ msgstr ""
+#~ "チェックすると、「--- セパレート ---」にセットした親を持つアルバム（および"
+#~ "アルバムに含まれている写真）を検索対象から外します。"
+
+#~ msgid "Exclude separate:"
+#~ msgstr "セパレートの除外:"
+
+#~ msgid ""
+#~ "Or you may use the standard page on which you display the generic album."
+#~ msgstr ""
+#~ "あるいは、アルバムを表示する基本のページをそのまま利用しても構いません。"
+
+#~ msgid ""
+#~ "Or you ou may use the standard page on which you display the generic "
+#~ "album."
+#~ msgstr ""
+#~ "あるいは、アルバムを表示する基本のページをそのまま利用しても構いません。"
+
+#~ msgid "You may give it the title \"Search results\" or something alike."
+#~ msgstr ""
+#~ "ページのタイトルは「検索結果」などわかりやすいものにすることができます。"
+
+#~ msgid ""
+#~ "Select the page to be used to display search results. The page MUST "
+#~ "contain %%wppa%%."
+#~ msgstr ""
+#~ "検索結果の表示に使用するページを選択してください。ページには %%wppa%% と記"
+#~ "入されていなければなりません。"
+
+#~ msgid "Enter percentage of opacity. 100% is opaque, 0% is transparant"
+#~ msgstr "不透明度を入力してください。100%で不透明、0%で透明"
+
+#~ msgid "Check this box to use mouseover effect on cover images."
+#~ msgstr ""
+#~ "ここをチェックすると、カバー画像にマウスオーバーした時にエフェクトを実行し"
+#~ "ます。"
+
+#~ msgid "Display name and description under thumbnails."
+#~ msgstr "サムネイルの下に表示する名称と説明。"
+
+#~ msgid "Thumbnail text:"
+#~ msgstr "サムネイルテキスト:"
+
+#~ msgid ""
+#~ "These sizes should be large enough for a thumbnail image and - optionally "
+#~ "- the text under it."
+#~ msgstr ""
+#~ "これらのサイズはサムネイル画像や場合によってはその下に表示されるテキストに"
+#~ "とって充分な大きさにしてください。"
+
+#~ msgid "Set width, height and spacing for the thumbnail frames."
+#~ msgstr "サムネイルフレームの幅、高さ、余白を設定してください。"
+
+#~ msgid "Width:"
+#~ msgstr "幅:"
+
+#~ msgid "pixels, Height:"
+#~ msgstr "ピクセル 高さ:"
+
+#~ msgid "pixels, Spacing:"
+#~ msgstr "ピクセル 余白:"
+
+#~ msgid "Thumbnail Framesize:"
+#~ msgstr "サムネイルのフレームサイズ:"
+
+#~ msgid "extremely slow"
+#~ msgstr "非常に遅い"
+
+#~ msgid ""
+#~ "If you do not want slideshows: uncheck this box. Browsing full size "
+#~ "images will remain possible."
+#~ msgstr ""
+#~ "スライドショーが不要な場合: このボックスからチェックを外してください。フル"
+#~ "サイズ画像のブラウジングは引き続き可能です。"
+
+#~ msgid "Enable slideshow:"
+#~ msgstr "スライドショーの有効化:"
+
+#~ msgid "default"
+#~ msgstr "デフォルト"
+
+#~ msgid "WPPA Charset:"
+#~ msgstr "このプラグインの文字コード:"
+
+#~ msgid "WP Charset:"
+#~ msgstr "ワードプレスの文字コード:"
+
+#~ msgid "fit"
+#~ msgstr "フィット"
+
+#~ msgid ""
+#~ "Fullsize images will be stretched to the Full Size at display time if "
+#~ "they are smaller. Leaving unchecked is recommended. It is better to "
+#~ "upload photos that fit well the sizes you use!"
+#~ msgstr ""
+#~ "フルサイズよりも小さい写真を表示時にフルサイズまで拡大します。チェックしな"
+#~ "いことをお勧めします。最初から使用するサイズに見合った画像をアップロードし"
+#~ "ましょう！"
+
+#~ msgid ""
+#~ "The photos will never be enlarged if they are smaller than the Full Size."
+#~ msgstr "フルサイズより小さい写真は拡大されません。"
+
+#~ msgid ""
+#~ "If you check this item, the size of the photos will be reduced to the "
+#~ "Full Size during the upload/import process."
+#~ msgstr ""
+#~ "ここをチェックすると、アップロード/インポート時に写真のサイズがフルサイズ"
+#~ "にまで縮小されます。"
+
+#~ msgid "Resize on Upload:"
+#~ msgstr "アップロード時にサイズ調整:"
+
+#~ msgid ""
+#~ "You should set this value correctly to make sure the fullsize images are "
+#~ "properly aligned horizontally."
+#~ msgstr ""
+#~ "正確な数値を入力し、フルサイズ画像が水平方向に正しく並ぶようにしてくださ"
+#~ "い。"
+
+#~ msgid "This is usually the same as the Full Size, but it may differ."
+#~ msgstr "通常、フルサイズと同じはずですが、たまに異なることがあります。"
+
+#~ msgid "Enter the width of the main column in your theme's display area."
+#~ msgstr "使用テーマの表示エリアのメインカラムの幅を入力してください。"
+
+#~ msgid "pixels."
+#~ msgstr "ピクセル"
+
+#~ msgid "Column Width:"
+#~ msgstr "カラム幅:"
+
+#~ msgid ""
+#~ "Enter the largest size in pixels as how you want your photos to be "
+#~ "displayed."
+#~ msgstr "表示する写真の最大サイズをピクセルで入力してください。"
+
+#~ msgid "pixels wide or high, whichever is the largest."
+#~ msgstr "ピクセル（幅または高さ、いずれか大きい方）"
+
+#~ msgid ""
+#~ "If checked: Converts the wppa database tables to UTF-8 This allows the "
+#~ "use of certain characters - like Turkish - in photo and album names and "
+#~ "descriptions."
+#~ msgstr ""
+#~ "チェックをすると: wppaデータベーステーブルをUTF-8に変換します。こうするこ"
+#~ "とで、特定の文字 - トルコ語など - を写真やアルバムの名前や説明に使うことが"
+#~ "できるようになります。"
+
+#~ msgid "Set Character set to UTF-8:"
+#~ msgstr "キャラクターセットをUTF-8にする:"
+
+#~ msgid "Color:"
+#~ msgstr "色:"
+
+#~ msgid "Enter your sites default text color."
+#~ msgstr "サイトのデフォルトのテキスト色を入力してください。"
+
+#~ msgid "Enter font name and size for all other items."
+#~ msgstr "その他すべての要素に適用するフォント名とサイズを入力してください。"
+
+#~ msgid "Enter font name and size for navigation items."
+#~ msgstr "ナビゲーション要素のフォント名とサイズを入力してください。"
+
+#~ msgid "Font family:"
+#~ msgstr "フォントファミリー:"
+
+#~ msgid "Size:"
+#~ msgstr "サイズ:"
+
+#~ msgid "Enter font name and size for album cover titles."
+#~ msgstr "アルバムカバータイトルのフォント名とサイズを入力してください。"
+
+#~ msgid "Enter a valid CSS color for image backgrounds."
+#~ msgstr "画像背景のCSS色を入力してください。"
+
+#~ msgid "Border radius:"
+#~ msgstr "ボーダーの半径"
+
+#~ msgid "Border thickness:"
+#~ msgstr "ボーダーの厚み"
+
+#~ msgid "Note that rounded corners are only supported by modern browsers."
+#~ msgstr "丸みをもたせたコーナーが表示できるのは、最近のブラウザのみです。"
+
+#~ msgid ""
+#~ "Enter thicknes and corner radius for the backgrounds above. A number of 0 "
+#~ "means: no."
+#~ msgstr ""
+#~ "上記の各背景の厚さとコーナー半径を入力してください。0 にすると無効。"
+
+#~ msgid "Enter valid CSS colors for navigation backgrounds and borders."
+#~ msgstr "ナビゲーションの背景とボーダーのCSS色を入力してください。"
+
+#~ msgid ""
+#~ "Enter valid CSS colors for odd numbered backgrounds and borders of album "
+#~ "covers and thumbnail displays 'As covers'."
+#~ msgstr ""
+#~ "'カバー'として表示されるアルバムカバーやサムネイルの奇数番目の背景とボー"
+#~ "ダーのCSS色を入力してください。"
+
+#~ msgid ""
+#~ "Enter valid CSS colors for even numbered backgrounds and borders of album "
+#~ "covers and thumbnail displays 'As covers'."
+#~ msgstr ""
+#~ "'カバー'として表示されるアルバムカバーやサムネイルの偶数番目の背景とボー"
+#~ "ダーのCSS色を入力してください。"
+
+#~ msgid "Border Color:"
+#~ msgstr "ボーダー色:"
+
+#~ msgid "Background Color:"
+#~ msgstr "背景色:"
+
+#~ msgid ""
+#~ "The css classes that these settings act upon are indicated in the "
+#~ "descriptions as follows (for example 'wppa-class'):"
+#~ msgstr ""
+#~ "この章の設定が適用されるcssクラスは以下の説明を参照してください "
+#~ "(例：'wppa-class'):"
+
+#~ msgid ""
+#~ "Note: these settings - if not blank - have precednce over css settings or "
+#~ "any hard coded attributes."
+#~ msgstr ""
+#~ "注意: この章の設定（ブランクにしなかった場合）は、cssの設定やハードコー"
+#~ "ディングされた属性よりも優先されます。"
+
+#~ msgid ""
+#~ "It is strongly recommended that you try these settings to achieve your "
+#~ "desired appearance before editing the css file."
+#~ msgstr ""
+#~ "外見を自分の好みにするには、cssファイルを編集する前に、この章の設定を試し"
+#~ "てみることを強くお勧めします。"
+
+#~ msgid ""
+#~ "The settings in this chapter may be left blank. When blank, the theme's "
+#~ "defaults are used or the settings in wppa_style.css."
+#~ msgstr ""
+#~ "この章の設定はブランクのままでも構いません。ブランクのままにした場合は、"
+#~ "テーマのデフォルトまたはwppa_style.cssの設定が適用されます。"
+
+#~ msgid "Appearance:"
+#~ msgstr "外観:"
+
+#~ msgid "Explanation:"
+#~ msgstr "説明:"
+
+#~ msgid "Even background:"
+#~ msgstr "偶数番目の背景:"
+
+#~ msgid "Odd background:"
+#~ msgstr "奇数番目の背景:"
+
+#~ msgid "Navigation bars:"
+#~ msgstr "ナビゲーションバー:"
+
+#~ msgid "Borders:"
+#~ msgstr "ボーダー:"
+
+#~ msgid "Popup and Cover Photos:"
+#~ msgstr "ポップアップとカバーフォト:"
+
+#~ msgid "Font for album titles:"
+#~ msgstr "アルバムタイトルのフォント:"
+
+#~ msgid "Font for fullsize photo descriptions:"
+#~ msgstr "フルサイズの写真の説明のフォント:"
+
+#~ msgid "Font for fullsize photo names:"
+#~ msgstr "フルサイズの写真の名前のフォント:"
+
+#~ msgid "Font for navigations:"
+#~ msgstr "ナビゲーションのフォント:"
+
+#~ msgid "General font in wppa boxes:"
+#~ msgstr "wppaボックスの一般的なフォント:"
+
+#~ msgid "Default text color:"
+#~ msgstr "デフォルトのテキスト色:"
+
+#~ msgid ""
+#~ "Insert code for single image in Page or Post:\n"
+#~ "You may change the size if you like."
+#~ msgstr ""
+#~ "ページまたは記事にこの画像を表示したい時に挿入するコード:\n"
+#~ "好みのサイズに変更できます。"
+
+#~ msgid "Get insertion Code"
+#~ msgstr "挿入コードの取得"
+
+#~ msgid ""
+#~ "Enter the maximum number of album covers per page. A value of 0 indicates "
+#~ "no pagination."
+#~ msgstr ""
+#~ "１ページあたりのカバー最大数を入力してください。0 にするとページ付けを行い"
+#~ "ません。"
+
+#~ msgid "Max covers per page:"
+#~ msgstr "１ページあたり最大カバー数:"
+
+#~ msgid ""
+#~ "Enter the maximum number of thumbnail images per page. A value of 0 "
+#~ "indicates no pagination."
+#~ msgstr ""
+#~ "１ページあたりのサムネイル最大数を入力してください。0 にするとページ付けを"
+#~ "行いません。"
+
+#~ msgid "Max thumbnails per page:"
+#~ msgstr "１ページあたり最大サムネイル数:"
+
+#~ msgid ""
+#~ "If checked, the slideshow will start running immediately, if unchecked "
+#~ "the first photo will be displayed in browse mode."
+#~ msgstr ""
+#~ "チェックすると、ただちにスライドショーが開始されます。チェックを外した状態"
+#~ "では、ブラウズモードで最初の写真が表示されます。"
+
+#~ msgid "Start running slideshow:"
+#~ msgstr "スライドショーの開始:"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> 古い記事"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "新しい記事 <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Not Found"
+#~ msgstr "見つかりません"
+
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr ""
+#~ "申し訳ありませんが、ご指定のアーカイブは見つかりませんでした。検索すれば、"
+#~ "関連した記事が見つかるかもしれません。"
+#~ msgctxt "gallery category slug"
+
+#~ msgid "gallery"
+#~ msgstr "ギャラリー"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "%sのパーマリンク"
+
+#~ msgid "This gallery contains <a %1$s>%2$s photos</a>."
+#~ msgstr "このギャラリーには<a %1$s>%2$s枚の写真</a>があります。"
+
+#~ msgid "View posts in the Gallery category"
+#~ msgstr "ギャラリーカテゴリーの写真の閲覧"
+
+#~ msgid "More Galleries"
+#~ msgstr "別のギャラリー"
+#~ msgctxt "asides category slug"
+
+#~ msgid "asides"
+#~ msgstr "別"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Pages:"
+#~ msgstr "ページ:"
+
+#~ msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">カテゴリー</span>: %2$s"
+
+#~ msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">タグ</span>: %2$s"
+
+#~ msgid "Photo Albums"
+#~ msgstr "フォトアルバム"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Help &amp; Info"
+#~ msgstr "ヘルプとインフォ"
+
+#~ msgid "Warning:"
+#~ msgstr "注意:"
+
+#~ msgid ""
+#~ "The uploads directory does not exist or is not writable by the server. "
+#~ "Please make sure that <tt>wp-content/uploads/</tt> is writeable by the "
+#~ "server."
+#~ msgstr ""
+#~ "「uploads」ディレクトリが存在しないか、書込み禁止になっています。<tt>wp-"
+#~ "content/uploads/</tt>のパーミッションを確認してください。"
+
+#~ msgid "Photo Deleted."
+#~ msgstr "写真を削除しました。"
+
+#~ msgid "Fullsize image did not exist."
+#~ msgstr "フルサイズの画像は存在しません。"
+
+#~ msgid "Thumbnail image did not exist."
+#~ msgstr "サムネイルの画像は存在しません。"
+
+#~ msgid "Edit Ablum Information"
+#~ msgstr "アルバムインフォの編集"
+
+#~ msgid "Album number:"
+#~ msgstr "アルバム番号:"
+
+#~ msgid "Name:"
+#~ msgstr "名称:"
+
+#~ msgid "Type the name of the album. Do not leave this empty."
+#~ msgstr "アルバムの名称を入力してください。この項目は空欄にできません。"
+
+#~ msgid "Sort order #:"
+#~ msgstr "ソート番号 #:"
+
+#~ msgid ""
+#~ "If you want to sort the albums by order #, enter / modify the order "
+#~ "number here."
+#~ msgstr ""
+#~ "アルバムを番号 #順にソートしたければ、番号をここに入力または変更してくださ"
+#~ "い。"
+
+#~ msgid "Parent album:"
+#~ msgstr "親アルバム:"
+
+#~ msgid ""
+#~ "If this is a sub album, select the album in which this album will appear."
+#~ msgstr ""
+#~ "このアルバムが子の場合、どのアルバムに表示させるかを選択してください。"
+
+#~ msgid "Photo order:"
+#~ msgstr "写真の順番:"
+
+#~ msgid "--- default ---"
+#~ msgstr "--- デフォルト ---"
+
+#~ msgid "Specify the way the photos should be ordered in this album."
+#~ msgstr "このアルバムでの写真の並べ方を指定してください。"
+
+#~ msgid "The default setting can be changed in the Options page."
+#~ msgstr "オプションのページでデフォルトの設定は変更できます。"
+
+#~ msgid "Cover Photo:"
+#~ msgstr "カバーフォト:"
+
+#~ msgid "Select the photo you want to appear on the cover of this album."
+#~ msgstr "このアルバムの表紙（カバー）に表示したい写真を選択してください。"
+
+#~ msgid "Link to:"
+#~ msgstr "リンク先:"
+
+#~ msgid "There are no pages (yet) to link to."
+#~ msgstr "リンク先のページが（まだ）存在しません。"
+
+#~ msgid "--- the album's content ---"
+#~ msgstr "--- アルバムの中 ---"
+
+#~ msgid ""
+#~ "If you want, you can link the title and the coverphoto to a WP page in "
+#~ "stead of the album's content. If so, select the page the cover photo "
+#~ "links to."
+#~ msgstr ""
+#~ "アルバムのタイトルやカバーフォトをクリックした場合のリンク先に、アルバムの"
+#~ "中ではなくページを指定することができます。そのようにしたければリンク先の"
+#~ "ページを選択してください。"
+
+#~ msgid "Manage Photos"
+#~ msgstr "写真の管理"
+
+#~ msgid "Delete Album"
+#~ msgstr "アルバムの削除"
+
+#~ msgid "Album:"
+#~ msgstr "アルバム:"
+
+#~ msgid "Are you sure you want to delete this album?"
+#~ msgstr "本当にこのアルバムを削除しますか？"
+
+#~ msgid "Press Delete to continue, and Cancel to go back."
+#~ msgstr "実行するなら削除を、取り消すなら戻るを押してください。"
+
+#~ msgid "What would you like to do with photos currently in the album?"
+#~ msgstr "現在アルバムに存在する写真をどうしますか？"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Move to:"
+#~ msgstr "移動:"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Manage Albums"
+#~ msgstr "アルバムの管理"
+
+#~ msgid "Create New Album"
+#~ msgstr "新しいアルバムの作成"
+
+#~ msgid "Type the name of the new album. Do not leave this empty."
+#~ msgstr ""
+#~ "新しいアルバムの名称を入力してください。この項目は空欄にできません。"
+
+#~ msgid "Order #:"
+#~ msgstr "順番 #:"
+
+#~ msgid ""
+#~ "If you want to sort the albums by order #, enter the order number here."
+#~ msgstr ""
+#~ "アルバムを番号 #順にソートしたければ、番号をここに入力してください。"
+
+#~ msgid "Order photos by:"
+#~ msgstr "写真の並べ方:"
+
+#~ msgid ""
+#~ "If you want to sort the photos in this album different from the system "
+#~ "setting, select the order method here."
+#~ msgstr ""
+#~ "システム全体の設定とは異なる方法でこのアルバムの写真をソートしたければ、こ"
+#~ "こで並べ方を選択してください。"
+
+#~ msgid "Create Album!"
+#~ msgstr "アルバム作成！"
+
+#~ msgid ""
+#~ "You can change all these settings later by clicking the \"Edit\" link in "
+#~ "the table above."
+#~ msgstr ""
+#~ "これらの設定は、上のテーブルに表示される「編集」をクリックすることで変更で"
+#~ "きます。"
+
+#~ msgid "Selected Files:"
+#~ msgstr "選択したファイル:"
+
+#~ msgid "You can upload up to 15 photos at once."
+#~ msgstr "一度に15枚の写真がアップロードできます。"
+
+#~ msgid "No albums exist. You must"
+#~ msgstr "アルバムがありません。まず最初に"
+
+#~ msgid "create one"
+#~ msgstr "アルバムを作成してから"
+
+#~ msgid "beofre you can upload your photos."
+#~ msgstr "写真をアップロードしてください。"
+
+#~ msgid "Thumbnail size."
+#~ msgstr "サムネイルのサイズ。"
+
+#~ msgid "Cover photo size."
+#~ msgstr "カバーフォトのサイズ。"
+
+#~ msgid "Regenerating thumbnail images, starting at"
+#~ msgstr "サムネイル画像を再生成中。開始場所:"
+
+#~ msgid "please wait."
+#~ msgstr "しばらくお待ちください。"
+
+#~ msgid ""
+#~ "If the line of dots stops growing and you do not get a <strong>READY</"
+#~ "strong> message, please continue this action by clicking"
+#~ msgstr ""
+#~ "ドットの表示が止まっても<strong>準備完了</strong>の文字が表示されなけれ"
+#~ "ば、"
+
+#~ msgid "HERE"
+#~ msgstr "ここをクリック"
+
+#~ msgid "and click \"Save Changes\" again."
+#~ msgstr ""
+#~ "してこの操作を続行し、「変更の保存」をもう一度クリックしてください。"
+
+#~ msgid "READY regenerating thumbnail images."
+#~ msgstr "サムネイル画像再生成の準備完了"
+
+#~ msgid "Photocount treshold."
+#~ msgstr "フォトカウントのしきい値。"
+
+#~ msgid "Full size."
+#~ msgstr "フルサイズ。"
+
+#~ msgid "Opacity."
+#~ msgstr "不透明度"
+
+#~ msgid "Changes Saved"
+#~ msgstr "変更を保存しました"
+
+#~ msgid ""
+#~ "Regeneration of thumbnail images interrupted. Please press \"Save Changes"
+#~ "\""
+#~ msgstr ""
+#~ "サムネイル画像の再生成が中断しました。「変更の保存」を押してください"
+
+#~ msgid "WP Photo Album Plus Settings"
+#~ msgstr "WPフォトアルバムプラスの設定"
+
+#~ msgid "Database revision:"
+#~ msgstr "データベースのリビジョン:"
+
+#~ msgid "Fullsize images:"
+#~ msgstr "フルサイズの画像:"
+
+#~ msgid "Full Size:"
+#~ msgstr "フルサイズ:"
+
+#~ msgid ""
+#~ "The size of the full images is controled with html, the photo itself will "
+#~ "not be resized."
+#~ msgstr ""
+#~ "画像のサイズはHTMLで制御します。写真そのもののサイズが調整されるわけではあ"
+#~ "りません。"
+
+#~ msgid "Stretch if needed:"
+#~ msgstr "必要に応じて拡大する:"
+
+#~ msgid ""
+#~ "Fullsize images will be stretched to the Full Size if needed. Leaving "
+#~ "unchecked is recommended. It is better to upload photos that fit well the "
+#~ "sizes you use!"
+#~ msgstr ""
+#~ "必要に応じて画像をフルサイズに拡大します。チェックしないことをお勧めしま"
+#~ "す。最初から使用するサイズに見合った画像をアップロードしましょう！"
+
+#~ msgid "Vertical alignment:"
+#~ msgstr "縦方向の位置:"
+
+#~ msgid "center"
+#~ msgstr "センター"
+
+#~ msgid "bottom"
+#~ msgstr "ボトム"
+
+#~ msgid ""
+#~ "Specify the vertical alignment of fullsize images. Use this setting only "
+#~ "when albums contain both portrait and landscape photos."
+#~ msgstr ""
+#~ "サムネイル画像の縦方向の位置を指定してください。人物写真と風景写真が混合し"
+#~ "ているアルバムの場合のみこの設定を使います。"
+
+#~ msgid "Slideshow animation speed:"
+#~ msgstr "スライドショーのスピード:"
+
+#~ msgid "--- off ---"
+#~ msgstr "--- オフ ---"
+
+#~ msgid "very fast"
+#~ msgstr "かなり速い"
+
+#~ msgid "fast"
+#~ msgstr "早い"
+
+#~ msgid "normal"
+#~ msgstr "通常"
+
+#~ msgid "Specify the animation speed to be used in slideshows."
+#~ msgstr "スライドショーで使用するアニメーション速度を指定してください。"
+
+#~ msgid "Thumbnails:"
+#~ msgstr "サムネイル:"
+
+#~ msgid "Photocount treshold:"
+#~ msgstr "フォトカウントのしきい値"
+
+#~ msgid ""
+#~ "Photos do not show up in the album unless there are more than this number "
+#~ "of photos in the album. This allows you to have cover photos on an album "
+#~ "that contains only sub albums without seeing them in the list of sub "
+#~ "albums. Usually set to 0 (always show) or 1 (for one cover photo)."
+#~ msgstr ""
+#~ "アルバムにここで指定した数値より多くの写真があれば、アルバムに写真が表示さ"
+#~ "れます。これにより、子アルバムしか持たないアルバムがあった時、子アルバムリ"
+#~ "ストにこれらを表示させずに親アルバムにカバーフォトを持たせることができま"
+#~ "す。通常は 0 (常に表示) か、または、1 (ひとつのカバーフォト) に設定しま"
+#~ "す。"
+
+#~ msgid "Thumbnail Size:"
+#~ msgstr "サムネイルのサイズ"
+
+#~ msgid ""
+#~ "Changing the thumbnail size may result in all thumbnails being "
+#~ "regenerated. this may take a while."
+#~ msgstr ""
+#~ "サムネイルサイズを変更すると、全てのサムネイルを再生成することになります。"
+#~ "再生成には時間のかかる場合があります。"
+
+#~ msgid "Display type:"
+#~ msgstr "表示するタイプ:"
+
+#~ msgid "like album covers"
+#~ msgstr "アルバムのカバーと同様"
+
+#~ msgid ""
+#~ "You may select an altenative display method for thumbnails. Note that "
+#~ "some of the thumbnail settings do not apply to all available display "
+#~ "methods."
+#~ msgstr ""
+#~ "サムネイルの表示方法が選択できます。表示方法として適用できないサムネイルの"
+#~ "設定もあります。"
+
+#~ msgid ""
+#~ "Specify the vertical alignment of thumbnail images. Use this setting only "
+#~ "when albums contain both portrait and landscape photos."
+#~ msgstr ""
+#~ "サムネイル画像の縦方向の位置を指定してください。人物写真と風景写真が混合し"
+#~ "ているアルバムの場合のみこの設定を使います。"
+
+#~ msgid "Apply mouseover effect:"
+#~ msgstr "マウスオーバー時の効果の適用:"
+
+#~ msgid "Use mouseover effect on thumbnail images."
+#~ msgstr "サムネイル画像にマウスオーバーした時の効果を使う。"
+
+#~ msgid "Opacity value:"
+#~ msgstr "不透明度:"
+
+#~ msgid "Percentage of opacity. 100% is opaque, 0% is transparant"
+#~ msgstr "不透明度の利率。100%は完全に不透明。0%は透明"
+
+#~ msgid "Apply popup effect:"
+#~ msgstr "ポップアップの効果の適用:"
+
+#~ msgid "Use popup effect on thumbnail images."
+#~ msgstr "サムネイル画像にポップアップの効果を使う。"
+
+#~ msgid "Album covers:"
+#~ msgstr "アルバムのカバー:"
+
+#~ msgid "Coverphoto Size:"
+#~ msgstr "カバーフォトのサイズ:"
+
+#~ msgid ""
+#~ "Changing the coverphoto size may result in all thumbnails being "
+#~ "regenerated. this may take a while."
+#~ msgstr ""
+#~ "カバーフォトサイズを変更すると、全てのサムネイルを再生成することになりま"
+#~ "す。再生成には時間のかかる場合があります。"
+
+#~ msgid "Use mouseover effect on cover images."
+#~ msgstr "カバー画像にマウスオーバー時の効果を使う。"
+
+#~ msgid "Order settings:"
+#~ msgstr "順番の設定:"
+
+#~ msgid "Album order:"
+#~ msgstr "アルバムの並び方:"
+
+#~ msgid "Specify the way the albums should be ordered."
+#~ msgstr "アルバムの並び方を指定してください。"
+
+#~ msgid "Descending:"
+#~ msgstr "降順:"
+
+#~ msgid "If checked: largest first"
+#~ msgstr "チェックすると大きい順になります"
+
+#~ msgid ""
+#~ "Specify the way the photos should be ordered. This is the default "
+#~ "setting. You can overrule the default sorting order on a per album basis."
+#~ msgstr ""
+#~ "写真の並び方を指定してください。これはデフォルト設定です。各アルバム毎に設"
+#~ "定は変更できます。"
+
+#~ msgid "This is a system wide setting."
+#~ msgstr "これはシステム全体の設定です。"
+
+#~ msgid "Miscelanious:"
+#~ msgstr "その他:"
+
+#~ msgid "Show breadcrumb:"
+#~ msgstr "パンくずの表示:"
+
+#~ msgid "Indicate whether a breadcrumb navigation should be displayed"
+#~ msgstr "パンくずの表示の有無を設定します"
+
+#~ msgid "Show \"Home\" in breadcrumb:"
+#~ msgstr "パンくずに「ホーム」の表示:"
+
+#~ msgid ""
+#~ "Indicate whether the breadcrumb navigation should start with a \"Home\"-"
+#~ "link"
+#~ msgstr "パンくずに「ホーム」へのリンクをつけるかどうかを指定します"
+
+#~ msgid "Access Level:"
+#~ msgstr "アクセス権限:"
+
+#~ msgid "Administrator"
+#~ msgstr "管理者"
+
+#~ msgid "Editor"
+#~ msgstr "編集者"
+
+#~ msgid "Author"
+#~ msgstr "作成者"
+
+#~ msgid "Contributor"
+#~ msgstr "寄稿者"
+
+#~ msgid "The minmum user level that can access the photo album admin."
+#~ msgstr "フォトアルバムの管理画面へアクセスできるユーザレベル"
+
+#~ msgid "Allow HTML in album and photo descriptions:"
+#~ msgstr "アルバムおよび写真の説明でのHTMLの使用:"
+
+#~ msgid ""
+#~ "If checked: html is allowed. WARNING: No checks on syntax, it is your own "
+#~ "responsability to close tags properly!"
+#~ msgstr ""
+#~ "チェックするとHTMLが使用できます。注意: 構文チェックは行いません。タグの閉"
+#~ "じ忘れは自己責任になります！"
+
+#~ msgid "Widget Photo Width."
+#~ msgstr "ウィジェットでの写真の幅。"
+
+#~ msgid "Changes Saved. Don't forget to activate the widget!"
+#~ msgstr "変更を保存しました。ウィジェットを有効にしてください！"
+
+#~ msgid "WP Photo Album Plus Sidebar Widget Settings"
+#~ msgstr "WPフォトアルバムプラスのサイドバーウィジェットの設定"
+
+#~ msgid "Widget Title:"
+#~ msgstr "ウィジェットのタイトル:"
+
+#~ msgid "Enter the caption to be displayed for the widget."
+#~ msgstr "ウィジェットに表示するキャプションを入力してください。"
+
+#~ msgid "Widget Photo Width:"
+#~ msgstr "ウィジェットの写真の幅:"
+
+#~ msgid "Enter the desired display width of the photo in the sidebar."
+#~ msgstr "サイドバーで表示する写真の幅を入力してください。"
+
+#~ msgid "Use album:"
+#~ msgstr "使用するアルバム:"
+
+#~ msgid "Select the album that contains the widget photos."
+#~ msgstr "ウィジェットの写真が所属するアルバムを選択してください。"
+
+#~ msgid "Display method:"
+#~ msgstr "表示方法:"
+
+#~ msgid "Fixed photo"
+#~ msgstr "決まった写真"
+
+#~ msgid "Random"
+#~ msgstr "ランダム"
+
+#~ msgid "Last upload"
+#~ msgstr "最新の写真"
+
+#~ msgid "Change every"
+#~ msgstr "変更。毎"
+
+#~ msgid "Select how the widget should display."
+#~ msgstr "ウィジェットの表示方法を選択してください。"
+
+#~ msgid "Select the page the photo links to."
+#~ msgstr "写真のリンク先ページを選択してください。"
+
+#~ msgid "Subtitle:"
+#~ msgstr "サブタイトル:"
+
+#~ msgid "Photo Name"
+#~ msgstr "写真の名称"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "Select the content of the subtitle."
+#~ msgstr "サブタイトルの内容を選択してください。"
+
+#~ msgid "No photos yet in this album."
+#~ msgstr "このアルバムには写真がありません。"
+
+#~ msgid "Help and Information"
+#~ msgstr "ヘルプとインフォ"
+
+#~ msgid "Plugin Description"
+#~ msgstr "プラグインの説明"
+
+#~ msgid ""
+#~ "This plugin is designed to easily manage and display your photo albums "
+#~ "within your WordPress site."
+#~ msgstr ""
+#~ "このプラグインを使うと、WordPressを使ったサイトで簡単にフォトアルバムを管"
+#~ "理・表示できます。"
+
+#~ msgid "Features:"
+#~ msgstr "機能:"
+
+#~ msgid ""
+#~ "You can create various albums that contain photos as well as sub albums "
+#~ "at the same time."
+#~ msgstr ""
+#~ "写真のみならず子アルバムをもったアルバムなど、さまざまなアルバムを作成する"
+#~ "ことができます。"
+
+#~ msgid "There is no limitation to the number of albums and photos."
+#~ msgstr "アルバムや写真の数に制限はありません。"
+
+#~ msgid "There is no limitation to the nesting depth of sub-albums."
+#~ msgstr "子アルバムの数に制限はありません。"
+
+#~ msgid "You have full control over the display sizes of the photos."
+#~ msgstr "写真の表示サイズを完全に制御できます。"
+
+#~ msgid "You can specify the way the albums are ordered."
+#~ msgstr "アルバムの表示順が指定できます。"
+
+#~ msgid ""
+#~ "You can specify the way the photos are ordered within the albums, both on "
+#~ "a system-wide as well as an per album basis."
+#~ msgstr ""
+#~ "システム全体または各アルバムごとに、アルバムの中での写真の並び順を指定でき"
+#~ "ます。"
+
+#~ msgid ""
+#~ "The visitor of your site can run a slideshow from the photos in an album "
+#~ "by a single mouseclick."
+#~ msgstr "たった１回のクリックで、写真のスライドショーが実行できます。"
+
+#~ msgid ""
+#~ "The visitor can see an overview of thumbnail images of the photos in "
+#~ "album."
+#~ msgstr "アルバムにある写真のサムネイル画像がひと目でわかります。"
+
+#~ msgid ""
+#~ "The visitor can browse through the photos in each album you decide to "
+#~ "publish."
+#~ msgstr "各アルバムの写真をブラウジングできます。"
+
+#~ msgid ""
+#~ "You can add a Sidebar Widget that displays a photo which can be changed "
+#~ "every hour, day or week."
+#~ msgstr ""
+#~ "サイドバーウィジェットで写真を表示できます。表示する写真は毎時、日、週変更"
+#~ "することできます。"
+
+#~ msgid "Plugin Admin Features"
+#~ msgstr "プラグイン管理機能"
+
+#~ msgid ""
+#~ "You can find the plugin admin section under Menu Photo Albums on the "
+#~ "admin screen."
+#~ msgstr "管理画面にフォトアルバムの管理項目が追加されます。"
+
+#~ msgid "The following submenus exist."
+#~ msgstr "サブメニューには次のようなものがあります。"
+
+#~ msgid "Photo Albums: Create and manage Albums."
+#~ msgstr "フォトアルバム: アルバムの作成と管理。"
+
+#~ msgid "Upload photos: To upload photos to an album you created."
+#~ msgstr "写真のアップロード: 作成したアルバムへの写真のアップロード。"
+
+#~ msgid "Settings: To control the various settings to customize your needs."
+#~ msgstr "設定: 必要に応じて各種設定によるカスタマイズができます。"
+
+#~ msgid ""
+#~ "Sidebar Widget: To specify the behaviour for an optional sidebar widget."
+#~ msgstr ""
+#~ "サイドバーウィジェット: サイドバーウィジェット（オプション）の動作が指定で"
+#~ "きます。"
+
+#~ msgid "Help & Info: The screen you are watching now."
+#~ msgstr "ヘルプとインフォ: この画面。"
+
+#~ msgid "Installation"
+#~ msgstr "インストール"
+
+#~ msgid "Unzip and upload the wppa plugin folder to"
+#~ msgstr "解凍したwppaプラグインフォルダを次の場所へアップロード:"
+
+#~ msgid "Make sure that the folder"
+#~ msgstr "フォルダ「"
+
+#~ msgid "exists and is writable by the server (CHMOD 755)"
+#~ msgstr "」の存在を確認し、書き込み可能にする（CHMOD 755）"
+
+#~ msgid "Activate the plugin in WP Admin -> Plugins."
+#~ msgstr "管理画面のプラグインで、このプラグインを有効にする。"
+
+#~ msgid "Upgrading from WP Photo Album"
+#~ msgstr "WP Photo Albumからのアップグレード"
+
+#~ msgid ""
+#~ "When upgrading from WP Photo Album to WP Photo Album Plus be aware of:"
+#~ msgstr "WP Photo Albumからのアップグレード時の注意:"
+
+#~ msgid ""
+#~ "First de-activate WP Photo Album before activating WP Photo Album Plus!!"
+#~ msgstr ""
+#~ "WP フォトアルバムプラスを有効にする前に、WP Photo Albumは必ず停止してくだ"
+#~ "さい！"
+
+#~ msgid "YOU CAN NOT RUN BOTH VERSIONS AT THE SAME TIME!!"
+#~ msgstr "同時に２つのプラグインは動作できません！！"
+
+#~ msgid "The existing database and albums and photos will be preserved."
+#~ msgstr "既存のデータベース、アルバム、写真は保存されます。"
+
+#~ msgid "YOU DO NOT NEED TO RE-UPLOAD YOUR PHOTOS"
+#~ msgstr "写真をもう一度アップロードする必要はありません"
+
+#~ msgid ""
+#~ "You will need to use (and probably modify) the newly supplied default "
+#~ "theme file \"wppa_theme.php\"."
+#~ msgstr ""
+#~ "新たに提供されるデフォルトのテーマファイルである「wppa_theme.php」を使用"
+#~ "（または編集）してください。"
+
+#~ msgid ""
+#~ "You can use existing albums to make sub-albums, simply by specifying in "
+#~ "which album they belong."
+#~ msgstr ""
+#~ "どのアルバムを親アルバムにするか指定するだけで、既存のアルバムを子アルバム"
+#~ "にすることができます。"
+
+#~ msgid "How to start"
+#~ msgstr "使い方"
+
+#~ msgid ""
+#~ "Install WP Photo ALbum Plus as described above under \"Installation\"."
+#~ msgstr ""
+#~ "「インストール」に従い、WP フォトアルバムプラスをインストールします。"
+
+#~ msgid ""
+#~ "Create at least two albums in the \"Photo Albums\" tab. Just enter the "
+#~ "name and a brief description and press \"Create Album\". Leave \"Parent\" "
+#~ "at \"--- none ---\"."
+#~ msgstr ""
+#~ "「フォトアルバム」タブで最低ふたつのアルバムを作成します。名称と簡単な説明"
+#~ "を入力してから「アルバム作成」を押します。「親」のところは「--- なし ---」"
+#~ "のままにします。"
+
+#~ msgid ""
+#~ "In the uploads tab, you can now upload you photots. Upload at least 2 "
+#~ "photos to each album. Make sure the photos you are uploading are of "
+#~ "reasonable size (say up to 1024x768 pixels). Do not upload the full 7MP "
+#~ "images!"
+#~ msgstr ""
+#~ "アップロードタブで写真をアップロードします。アルバムひとつにつき最低２枚の"
+#~ "写真をアップロードします。アップロードしようとしている写真のサイズに注意し"
+#~ "てください（最大1024x768ピクセル）。最大サイズを超えるフルサイズ画像はアッ"
+#~ "プロードしないでください！"
+
+#~ msgid ""
+#~ "Create a new WP Page, name it something like \"Photo Gallery\" and put in "
+#~ "the content:"
+#~ msgstr ""
+#~ "新しいページを作成し、「フォトギャラリー」などの名前にし、コンテンツには次"
+#~ "のように記載します:"
+
+#~ msgid "Publish the page, and view the page from your WP site."
+#~ msgstr "ページを公開してどのように見えるか確認します。"
+
+#~ msgid ""
+#~ "Now, go playing with the settings in the \"Settings\" panel, discover all "
+#~ "the configurable options and watch what is happening when you re-open the "
+#~ "\"Photo Gallery\" page."
+#~ msgstr ""
+#~ "「設定」パネルで各設定を弄ってみましょう。作成した「フォトギャラリー」ペー"
+#~ "ジを改めて開き、見え方がどう変わるか確認します。"
+
+#~ msgid ""
+#~ "If you want a \"Photo of the week\" sidebar widget you can use an album "
+#~ "for that purpose. See all the options in the \"Sidebar Widget\" submenu."
+#~ msgstr ""
+#~ "サイドバーウィジェットを使って「今週の写真」を表示させることもできます。"
+#~ "「サイドバーウィジェット」サブメニューの設定を参照してください。"
+
+#~ msgid "Creating a Photo Album Page or a Post with photos - Advanced"
+#~ msgstr "フォトアルバム用のページや投稿の作成 - 上級編"
+
+#~ msgid ""
+#~ "Create a page like you normally would in WordPress, using the \"Default "
+#~ "Template\". In my example, give it the page title of \"Photo Gallery\". "
+#~ "In the Page Content section add the following code:"
+#~ msgstr ""
+#~ "「デフォルトテンプレート」のままいつも通りにページをつくります。ここでは例"
+#~ "として、ページのタイトルを「フォトギャラリー」とします。ページのコンテンツ"
+#~ "には次のコードを入力します:"
+
+#~ msgid ""
+#~ "This will result in a gallery of all Albums that have their parent set to "
+#~ "\"--- none ---\"."
+#~ msgstr ""
+#~ "親アルバムの設定が「--- なし ---」になっている全てのアルバムが表示されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "If you want to display a single album - say album number 19 - in a WP "
+#~ "page or WP post (they act exactly the same), add a second line like this:"
+#~ msgstr ""
+#~ "ひとつのアルバム、たとえばアルバム番号が19のものを表示したければ、２行目に"
+#~ "次のコードを入力します:"
+
+#~ msgid "This will result in the display of the"
+#~ msgstr "上の例では、アルバム番号が19のアルバムの"
+
+#~ msgid "contents"
+#~ msgstr "コンテンツ"
+
+#~ msgid "of album nr 19."
+#~ msgstr "が表示されます。"
+
+#~ msgid "If you want to display the"
+#~ msgstr ""
+#~ "たとえば「フォトギャラリー」のページで表示されるアルバムのうちのひとつから"
+
+#~ msgid "\"cover\""
+#~ msgstr "「カバー」"
+
+#~ msgid ""
+#~ "of the album, i.e. like one of the albums in the \"Photo Gallery\" as "
+#~ "used above, add (instead of \"%%album=...\") a second line like this:"
+#~ msgstr "を表示したければ、２行目（「%%album=...」）を次のように変更します:"
+
+#~ msgid ""
+#~ "Alternatively, you can create an extra album (say it has number 22) and "
+#~ "set the \"parent\" property of album 19 to this new album. Then your "
+#~ "second line should read:"
+#~ msgstr ""
+#~ "別の方法もあります。新しいアルバム（ここではそのアルバムの番号が22だとしま"
+#~ "す）を作成し、「親」アルバムをアルバム番号19に設定したとします。この場合、"
+#~ "２行目は次のようにします:"
+
+#~ msgid ""
+#~ "This method enables you to add more than one album to a specific page or "
+#~ "post as long as they have the same parent."
+#~ msgstr ""
+#~ "この方法を使えば、同じ親アルバムをもつ複数のアルバムを特定のページや投稿に"
+#~ "追加することができます。"
+
+#~ msgid ""
+#~ "Additionally, if you set the parent of this album (nr 22 in this example) "
+#~ "to \"--- separate ---\", it will not be listed in the \"generic\" photo "
+#~ "gallery and the breadcrumb will display the best."
+#~ msgstr ""
+#~ "さらに、このアルバム（ここでの例だとアルバム番号22）の親を「--- セパレー"
+#~ "ト ---」に設定すると、「総体的な」フォトギャラリーには表示されなくなり、パ"
+#~ "ンくずも最適な表示になります。"
+
+#~ msgid ""
+#~ "You can add a third line if you want the photos to be displayed at a "
+#~ "different size than normal. You can \"overrule\" the \"Full size\" "
+#~ "setting by adding the line (for e.g. 300px):"
+#~ msgstr ""
+#~ "通常とは異なるサイズで写真を表示したいときは、第３行目で指定します。「フル"
+#~ "サイズ」設定を「上書き」して300pxにしたければ、次のようにします:"
+
+#~ msgid ""
+#~ "Note: all information between the %% tags including newlines will be lost."
+#~ msgstr "注意: %%タグを含めた全ての行は表示されません。"
+
+#~ msgid ""
+#~ "The sequence above may be used more than once in a single page or post."
+#~ msgstr "上の設定はひとつのページや投稿内で複数回使用できます。"
+
+#~ msgid ""
+#~ "The text before the first sequence, the text between 2 sequences, as well "
+#~ "as the text after the last sequence will be preserved."
+#~ msgstr ""
+#~ "最初の設定より前のテキスト、設定と設定の間に書かれたテキスト、最後の設定よ"
+#~ "り下のテキストは、それぞれ保存されます。"
+
+#~ msgid ""
+#~ "You can also create a custom page template by dropping the following code "
+#~ "into a page template:"
+#~ msgstr ""
+#~ "次のコードをページテンプレートに挿入することで、カスタムページテンプレート"
+#~ "が作成できます:"
+
+#~ msgid ""
+#~ "If you want to display the <b>contents</b> of a single album in the "
+#~ "template - say album number 19 - the code would be:"
+#~ msgstr ""
+#~ "テンプレートでひとつのアルバム、たとえば、アルバム番号19の<b>コンテンツ</"
+#~ "b>を表示したければ、コードは次のようになります:"
+
+#~ msgid ""
+#~ "If you want the <b>cover</b> to be displayed instead, add the following "
+#~ "code:"
+#~ msgstr ""
+#~ "アルバムの代わりに<b>カバー</b>を表示したければ、コードを次のようにします:"
+
+#~ msgid "If you want to specify a size, add the following code:"
+#~ msgstr "サイズを指定したいときは、コードを次のようにします:"
+
+#~ msgid "You can combine the above as follows: (example)"
+#~ msgstr "次のようにコードをまとめることもできます:（例）"
+
+#~ msgid ""
+#~ "In order to work properly, the wppa_albums() tag needs to be within the "
+#~ "<a href=\"http://codex.wordpress.org/The_Loop\" target=\"_blank"
+#~ "\">WordPress loop</a>."
+#~ msgstr ""
+#~ "正常に動作させるには、wppa_albums() タグは<a href=\"http://wpdocs."
+#~ "sourceforge.jp/The_Loop\" target=\"_blank\">ループ</a>内に書かなければなり"
+#~ "ません:"
+
+#~ msgid "For more information on creating custom page templates, click"
+#~ msgstr ""
+#~ "カスタムページテンプレートの作成についてより詳しい情報を知りたければ、"
+
+#~ msgid "here"
+#~ msgstr "ここをクリックしてください"
+
+#~ msgid "Adjusting CSS and Template Styling"
+#~ msgstr "CSSとテンプレートスタイルの調整"
+
+#~ msgid "WP Photo Album Plus comes with a default layout and theme."
+#~ msgstr ""
+#~ "WP フォトアルバムプラスにはデフォルトのレイアウトとテーマがあります。"
+
+#~ msgid ""
+#~ "To change the style and layout of the photo album, copy <tt>.../wp-"
+#~ "content/plugins/wp-photo-album-plus/theme/wppa_theme.php</tt> and <tt>.../"
+#~ "wp-content/plugins/wp-photo-album-plus/theme/wppa_style.css</tt> to your "
+#~ "active theme's folder, and edit them."
+#~ msgstr ""
+#~ "フォトアルバムのスタイルやレイアウトを変更するには、<tt>.../wp-content/"
+#~ "plugins/wp-photo-album-plus/theme/wppa_theme.php</tt>および<tt>.../wp-"
+#~ "content/plugins/wp-photo-album-plus/theme/wppa_style.css</tt>を使用してい"
+#~ "るテーマのフォルダにコピーしてから編集します。"
+
+#~ msgid "Facts to remember"
+#~ msgstr "まとめ"
+
+#~ msgid "An album can have only <b>ONE</b> parent."
+#~ msgstr "ひとつアルバムの親は<b>ひとつ</b>だけです。"
+
+#~ msgid ""
+#~ "If the number of photos in an album is less than or equal to the treshold "
+#~ "value, they will not display in the album. They will be used for the "
+#~ "cover only."
+#~ msgstr ""
+#~ "アルバムに属する写真の数がしきい値以下場合、アルバムには表示されません。カ"
+#~ "バーとしてのみ利用可能です。"
+
+#~ msgid ""
+#~ "An album that has it's parent set to \"--- separate ---\" will not be "
+#~ "displayed in the \"generic\" gallery. This enables you to have albums for "
+#~ "use solely for single posts or pages."
+#~ msgstr ""
+#~ "親アルバムを「--- セパレート ---」に設定したアルバムは、「総体的な」ギャラ"
+#~ "リーには表示されません。複数のアルバムをひとつの記事やページに表示する際に"
+#~ "適しています。"
+
+#~ msgid ""
+#~ "Specifying <tt>%%album=...</tt> causes the <b>content</b> of the album to "
+#~ "be displayed."
+#~ msgstr ""
+#~ "<tt>%%album=...</tt>を指定すると、そのアルバムの<b>コンテンツ</b>が表示さ"
+#~ "れます。"
+
+#~ msgid ""
+#~ "Specifying <tt>%%cover=...</tt> causes the <b>cover</b> of the album to "
+#~ "be displayed."
+#~ msgstr ""
+#~ "<tt>%%cover=...</tt>を指定すると、そのアルバムの<b>カバー</b>が表示されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "Keep the sequence intact: 1. <tt>%%wppa%%</tt>, 2. <tt>%%album=</tt> or "
+#~ "<tt>%%cover=</tt>, 3. <tt>%%size=</tt>. (2. being optional even when "
+#~ "using 3.)."
+#~ msgstr ""
+#~ "設定は必ず次の順序で: 1. <tt>%%wppa%%</tt>、2. <tt>%%album=</tt> または "
+#~ "<tt>%%cover=</tt>、3. <tt>%%size=</tt>。（3の設定をする場合でも、2は常にオ"
+#~ "プションです）。"
+
+#~ msgid ""
+#~ "Use the default page template, or create one yourself. In this case, "
+#~ "study the example (actually the version i use myself): <tt>...wp-content/"
+#~ "plugins/wp-photo-album-plus/examples/page-photo-album.php</tt>"
+#~ msgstr ""
+#~ "ページを作成するときは、デフォルトテンプレートか独自に作成したテンプレート"
+#~ "を使います。独自のテンプレートを作成するときは、例（実際にわたしが使ってい"
+#~ "るもの）を参考にしてください: <tt>...wp-content/plugins/wp-photo-album-"
+#~ "plus/examples/page-photo-album.php</tt>"
+
+#~ msgid ""
+#~ "WPPA uses a system of tags similar to the WordPress theme system. To view "
+#~ "a list of available tags, please read tags.txt"
+#~ msgstr ""
+#~ "WPPAは、WordPressのテーマシステムと同様のタグシステムを使います。利用可能"
+#~ "なタグについては、tags.txtを参照してください。"
+
+#~ msgid ""
+#~ "You can remove the plugin and re-install the latest version always. This "
+#~ "will not affect your photos or albums."
+#~ msgstr ""
+#~ "好きな時にプラグインを削除したり最新版を再インストールしたりすることができ"
+#~ "ます。これらの操作によって既存の写真やアルバムが影響されることはありませ"
+#~ "ん。"
+
+#~ msgid "Plugin Support And Feature Request"
+#~ msgstr "プラグインのサポートと機能の要望"
+
+#~ msgid ""
+#~ "If you've read over this readme carefully and are still having issues, if "
+#~ "you've discovered a bug,"
+#~ msgstr ""
+#~ "この説明を隅々まで読んでもよくわからないことがあったり、バグを発見したと"
+#~ "き、"
+
+#~ msgid ""
+#~ "or have a feature request, please contact me via my <a href=\"mailto:"
+#~ "opajaap@opajaap.nl?subject=WP%20Photo%20Album%20Plus\">E-mail</a>."
+#~ msgstr ""
+#~ "あるいは、機能についての要望があるときは、わたしに<a href=\"mailto:"
+#~ "opajaap@opajaap.nl?subject=WP%20Photo%20Album%20Plus\">メール</a>でご連絡"
+#~ "ください。"
+
+#~ msgid ""
+#~ "You may also check the <a href=\"http://wordpress.org/tags/wp-photo-album-"
+#~ "plus\">forum</a> for this plugin and/or leave a question there."
+#~ msgstr ""
+#~ "このプラグインの<a href=\"http://wordpress.org/tags/wp-photo-album-plus\">"
+#~ "フォーラム</a>を検索したり、そこに質問を載せても構いません。"
+
+#~ msgid ""
+#~ "For hot fixes check the <a href=\"http://plugins.trac.wordpress.org/log/"
+#~ "wp-photo-album-plus/\">development log</a> for this plugin."
+#~ msgstr ""
+#~ "最新の修正版については、<a href=\"http://plugins.trac.wordpress.org/log/"
+#~ "wp-photo-album-plus/\">開発の記録</a>を見てみてください。"
+
+#~ msgid ""
+#~ "If you love this plugin, I would appreciate a donation, either in <a href="
+#~ "\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=USD&lc=US\">USD</a> or "
+#~ "in <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=EUR&lc=US\">EURO</a>."
+#~ msgstr ""
+#~ "このプラグインが気に入ったら、是非寄付をお願いします。お受けできる通貨は、"
+#~ "<a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=USD&lc=US\">米ドル</a>"
+#~ "または<a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-"
+#~ "Plus&item_number=Support-Open-Source&currency_code=EUR&lc=US\">ユーロ</a>"
+#~ "になります。"
+
+#~ msgid "About and credits"
+#~ msgstr "クレジットについて"
+
+#~ msgid ""
+#~ "WP Photo Album Plus is extended with many new features and is maintained "
+#~ "by J.N. Breetvelt, a.k.a. (<a href=\"http://www.opajaap.nl/\">OpaJaap</a>)"
+#~ msgstr ""
+#~ "WP フォトアルバムプラスは、J.N. Breetvelt (ニックネーム: <a href=\"http://"
+#~ "www.opajaap.nl/\">OpaJaap</a>)によって機能の拡張と保守が行われています。"
+
+#~ msgid "Thanx to R.J. Kaplan for WP Photo Album 1.5.1."
+#~ msgstr "WP Photo Album 1.5.1を作成したR.J. Kaplanに感謝します。"
+
+#~ msgid "Thanx to E.S. Rosenberg for programming tips on security issues."
+#~ msgstr ""
+#~ "セキュリティに関するプログラミングヒントをくれたE.S. Rosenbergに感謝しま"
+#~ "す。"
+
+#~ msgid "Licence"
+#~ msgstr "ライセンス"
+
+#~ msgid "WP Photo Album is released under the"
+#~ msgstr "WP Photo Albumは、"
+
+#~ msgid "licence."
+#~ msgstr "ライセンスの元に配布されています。"
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Order"
+#~ msgstr "順番"
+
+#~ msgid "Parent"
+#~ msgstr "親"
+
+#~ msgid "Order:"
+#~ msgstr "順番:"
+
+#~ msgid "Could not create album."
+#~ msgstr "アルバムが作成できません。"
+
+#~ msgid "Album #"
+#~ msgstr "アルバム #"
+
+#~ msgid "Added."
+#~ msgstr "追加しました。"
+
+#~ msgid "Album Name cannot be empty."
+#~ msgstr "アルバムの名称は空欄にできません。"
+
+#~ msgid "Album could not be updated."
+#~ msgstr "アルバムが更新できません。"
+
+#~ msgid "Album information edited."
+#~ msgstr "アルバムの情報を編集しました。"
+
+#~ msgid "Back to album management."
+#~ msgstr "アルバムの管理に戻る。"
+
+#~ msgid "Album Deleted."
+#~ msgstr "アルバムを削除しました。"
+
+#~ msgid "--- random ---"
+#~ msgstr "--- ランダム ---"
+
+#~ msgid "No photos yet"
+#~ msgstr "写真がありません"
+
+#~ msgid ""
+#~ "WARNING You are uploading very large photos, this may result in server "
+#~ "problems! The recommended size is: not larger than 1024 x 768 pixels (up "
+#~ "to approx. 250 kB)."
+#~ msgstr ""
+#~ "注意: サイズが非常に大きい写真をアップロードしようとしており、サーバに問題"
+#~ "が生じる可能性があります！推奨サイズ: 1024 x 768ピクセル以下（最大約"
+#~ "250Kb）。"
+
+#~ msgid "Photos Uploaded in album nr"
+#~ msgstr "次のアルバム番号の写真を更新しました: "
+
+#~ msgid "Filetype not supported. Thumbnail not created."
+#~ msgstr "その拡張子はサポートされていません。サムネイルは作れませんでした。"
+
+#~ msgid "Thumbnail path invalid"
+#~ msgstr "サムネイルのパスが無効です"
+
+#~ msgid "File not found"
+#~ msgstr "ファイルが見当たりません"
+
+#~ msgid "IMPORTANT UPGRADE NOTICE"
+#~ msgstr "アップグレード時の注意"
+
+#~ msgid ""
+#~ "Please CHECK your customized WPPA_STYLE.CSS file against the newly "
+#~ "supplied one. You may wish to add or modify some attributes."
+#~ msgstr ""
+#~ "自分用にカスタマイズしたWPPA_STYLE.CSSを新しく提供されたものと比べてくださ"
+#~ "い。いくつかの属性について、追加または修正したいものがあるかもしれません。"
+
+#~ msgid ""
+#~ "Please REPLACE your customized WPPA_THEME.PHP file by the newly supplied "
+#~ "one, or just remove it from your theme directory. You may modify it later "
+#~ "if you wish. Your current customized version is NOT compatible with this "
+#~ "version of the plugin software."
+#~ msgstr ""
+#~ "自分用にカスタマイズしたWPPA_THEME.PHPを新しく提供されたものと交換するか、"
+#~ "さもなければ、使用しているテーマディレクトリから削除してください。修正した"
+#~ "ければ後でできます。自分用にカスタマイズしたバージョンは、現行のプラグイン"
+#~ "バージョンに適合していません。"
+
+#~ msgid "Order #"
+#~ msgstr "順番 #"
+
+#~ msgid "Please supply a numeric value greater than or equal to"
+#~ msgstr "次の数値以上にしてください:"
+
+#~ msgid "for"
+#~ msgstr "エラー対象:"
+
+#~ msgid "and less than or equal to"
+#~ msgstr "さらに次の数値以下にしてください:"
+
+#~ msgid "Not implemented yet (5)"
+#~ msgstr "まだ実行されていません (5)"
+
+#~ msgid "Not implemented yet (6)"
+#~ msgstr "まだ実行されていません (6)"
